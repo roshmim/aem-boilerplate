@@ -1,0 +1,242 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#raf-app"
+    - banner [ref=e4]:
+      - link "Royal Air Force - Regular & Reserve Go to home page" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Royal Air Force - Regular & Reserve" [ref=e7]
+        - generic [ref=e8]: Go to home page
+      - button "Open menu" [ref=e10] [cursor=pointer]
+  - main [ref=e12]:
+    - generic [ref=e14]:
+      - heading "LIFE IN THE RAF" [level=1] [ref=e16]:
+        - generic [ref=e17]: LIFE IN
+        - generic [ref=e18]: THE RAF
+      - generic [ref=e22]:
+        - heading "Related pages" [level=2] [ref=e23]
+        - generic [ref=e24]:
+          - paragraph [ref=e25]:
+            - link "Life as a Regular" [ref=e26] [cursor=pointer]:
+              - /url: /life-in-the-raf/life-as-a-regular/
+          - paragraph [ref=e27]:
+            - link "Life as a Reserve" [ref=e28] [cursor=pointer]:
+              - /url: /life-in-the-raf/life-as-a-reserve/
+          - paragraph [ref=e29]:
+            - link "Social, Sports and Adventure" [ref=e30] [cursor=pointer]:
+              - /url: /social-sports-and-adventure/
+          - paragraph [ref=e31]:
+            - link "Parents & Guardians" [ref=e32] [cursor=pointer]:
+              - /url: /parents-guardians/
+      - generic [ref=e34]:
+        - text: There’s nothing like a career in the RAF, it’s not just a job but a way of living. We give everyone access to training and activities so they can reach their potential and grow alongside the RAF in the UK and abroad.
+        - text: Between work, travel and sport no two days will be the same.
+      - generic [ref=e35]:
+        - heading "NO ORDINARY JOB" [level=2] [ref=e36]:
+          - generic [ref=e37]: NO ORDINARY
+          - generic [ref=e38]: JOB
+        - paragraph [ref=e40]: This is so much more than just a job, from global travel to lifelong friendships, life in the RAF offers you things that no other employer can hope to match.
+      - generic [ref=e41]:
+        - generic [ref=e42]:
+          - img "RAF Chef serving hot food in Junior Ranks Mess" [ref=e43]
+          - button "Play video" [ref=e44] [cursor=pointer]
+        - heading "What does life look like on an RAF base?" [level=3] [ref=e45]
+        - generic [ref=e46]: Get a guided tour from RAF personnel of what life is like living and working at our biggest base.
+      - generic [ref=e49]:
+        - heading "LIFE AS A REGULAR" [level=3] [ref=e50]:
+          - generic [ref=e51]: LIFE AS A
+          - generic [ref=e52]: REGULAR
+        - generic [ref=e53]: A career that will bring you outstanding opportunities, invaluable skills and challenges every day.
+        - link "View Life as a Regular" [ref=e55] [cursor=pointer]:
+          - /url: /life-in-the-raf/life-as-a-regular/
+      - generic [ref=e59]:
+        - heading "LIFE AS A RESERVE" [level=3] [ref=e60]:
+          - generic [ref=e61]: LIFE AS A
+          - generic [ref=e62]: RESERVE
+        - generic [ref=e63]: Continue with your current job whilst getting involved with the RAF - the perfect way to spend your weekends.
+        - link "Life as a Reserve" [ref=e65] [cursor=pointer]:
+          - /url: /life-in-the-raf/life-as-a-reserve/
+      - generic [ref=e67]:
+        - heading "WORKING AND LIVING IN THE RAF" [level=2] [ref=e69]:
+          - generic [ref=e70]: WORKING AND LIVING
+          - generic [ref=e71]: IN THE RAF
+        - generic [ref=e72]:
+          - paragraph [ref=e75]: Joining the RAF will bring you a raft of opportunities and benefits. You’ll be paid as soon as you start initial training, and accommodation, food and sport will all be subsidised along with free health and dental care.
+          - paragraph [ref=e78]: You can choose to play sport at multiple levels whether it’s casually on base with friends or representing the RAF on an international level. There’s choice too, whether you want to take on adventure training at weekends, travelling to areas of the world you never thought you’d see or you want to spend spare time visiting friends and family.
+      - generic [ref=e81]:
+        - generic [ref=e83]:
+          - generic [ref=e85]:
+            - button "Play video" [ref=e87] [cursor=pointer]
+            - generic [ref=e88]: Do you get a lot of free time?
+          - generic [ref=e90]:
+            - button [ref=e92] [cursor=pointer]
+            - generic [ref=e93]: What hours do you work?
+          - generic [ref=e95]:
+            - button [ref=e97] [cursor=pointer]
+            - generic [ref=e98]: What kind of sports can you do?
+          - generic [ref=e100]:
+            - button [ref=e102] [cursor=pointer]
+            - generic [ref=e103]: Do you get paid while training?
+          - generic [ref=e105]:
+            - button [ref=e107] [cursor=pointer]
+            - generic [ref=e108]: What is the best trip you have done in the RAF?
+        - generic [ref=e109]:
+          - button "Go to slide 1" [ref=e110] [cursor=pointer]
+          - button "Go to slide 2" [ref=e112] [cursor=pointer]
+          - button "Go to slide 3" [ref=e114] [cursor=pointer]
+          - button "Go to slide 4" [ref=e116] [cursor=pointer]
+          - button "Go to slide 5" [ref=e118] [cursor=pointer]
+      - generic [ref=e120]:
+        - generic [ref=e121]:
+          - heading "THE MISSION" [level=3] [ref=e123]:
+            - generic [ref=e124]: THE
+            - generic [ref=e125]: MISSION
+          - generic [ref=e126]: Every single role makes a difference in the RAF. Complete The Mission to discover how the RAF works as one.
+          - link "View the Mission" [ref=e128] [cursor=pointer]:
+            - /url: /the-mission/
+        - generic [ref=e129]:
+          - heading "CAREER & BENEFITS" [level=3] [ref=e131]:
+            - generic [ref=e132]: CAREER &
+            - generic [ref=e133]: BENEFITS
+          - generic [ref=e134]: You’ll get the best training opportunities and support for your career, and yourself as an individual.
+          - link "View Career and Benefits" [ref=e136] [cursor=pointer]:
+            - /url: /career-and-benefits/
+        - generic [ref=e137]:
+          - heading "SOCIAL, SPORTS & ADVENTURE" [level=3] [ref=e139]:
+            - generic [ref=e140]: SOCIAL, SPORTS
+            - generic [ref=e141]: "& ADVENTURE"
+          - generic [ref=e142]: Whatever your sport, whatever your level, the choices on and off base mean you’ll always have a place on the team.
+          - link "View Social, Sports and Adventure" [ref=e144] [cursor=pointer]:
+            - /url: /social-sports-and-adventure/
+      - generic [ref=e145]:
+        - generic [ref=e147]:
+          - heading "GOT WHAT IT TAKES?" [level=3] [ref=e148]:
+            - generic [ref=e149]: GOT WHAT
+            - generic [ref=e150]: IT TAKES?
+          - link "Find your role" [ref=e152] [cursor=pointer]:
+            - /url: /find-your-role/
+        - img "Female RAF fighter pilot kneeing on concrete apron inspecting underneath of aircraft before flight with Typhoon in background" [ref=e154]
+      - generic [ref=e155]:
+        - heading "ASK US ANYTHING" [level=2] [ref=e156]
+        - paragraph [ref=e158]: Live chat is with a human not a bot
+        - generic [ref=e159]:
+          - link "Live chat" [ref=e160] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact us" [ref=e161] [cursor=pointer]:
+            - /url: /contact/
+  - contentinfo [ref=e162]:
+    - contentinfo "RAF footer navigation" [ref=e163]:
+      - generic [ref=e164]:
+        - generic [ref=e165]:
+          - list [ref=e166]:
+            - listitem [ref=e167]:
+              - link "LIFE IN THE RAF" [ref=e168] [cursor=pointer]:
+                - /url: /life-in-the-raf
+            - listitem [ref=e169]:
+              - link "CAREERS & BENEFITS" [ref=e170] [cursor=pointer]:
+                - /url: /career-and-benefits
+            - listitem [ref=e171]:
+              - link "FIND YOUR ROLE" [ref=e172] [cursor=pointer]:
+                - /url: /find-your-role
+            - listitem [ref=e173]:
+              - link "APPLY NOW" [ref=e174] [cursor=pointer]:
+                - /url: /apply
+          - list [ref=e175]:
+            - listitem [ref=e176]:
+              - link "Diversity & Inclusion" [ref=e177] [cursor=pointer]:
+                - /url: /diversity-and-inclusion
+            - listitem [ref=e178]:
+              - link "RAF Fitness" [ref=e179] [cursor=pointer]:
+                - /url: /fitness-in-the-raf
+            - listitem [ref=e180]:
+              - link "University Air Squadrons" [ref=e181] [cursor=pointer]:
+                - /url: /university-air-squadrons
+            - listitem [ref=e182]:
+              - link "RAF main websiteopens in new tab" [ref=e183] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Flife-in-the-raf
+                - text: RAF main website
+                - img "opens in new tab" [ref=e184]
+            - listitem [ref=e185]:
+              - link "Air Cadetsopens in new tab" [ref=e186] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk/aircadets/?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Flife-in-the-raf
+                - text: Air Cadets
+                - img "opens in new tab" [ref=e187]
+            - listitem [ref=e188]:
+              - link "Events near you" [ref=e189] [cursor=pointer]:
+                - /url: /contact/events
+            - listitem [ref=e190]:
+              - link "Contact us" [ref=e191] [cursor=pointer]:
+                - /url: /contact
+        - list [ref=e193]:
+          - listitem [ref=e194]:
+            - link "Apprenticeships" [ref=e195] [cursor=pointer]:
+              - /url: /apprenticeships
+          - listitem [ref=e196]:
+            - link "Rejoiners & Transferees" [ref=e197] [cursor=pointer]:
+              - /url: /how-to-apply/rejoiners-and-inter-service-transfer
+          - listitem [ref=e198]:
+            - link "Reserves" [ref=e199] [cursor=pointer]:
+              - /url: /reserves
+          - listitem [ref=e200]:
+            - link "Sponsorship" [ref=e201] [cursor=pointer]:
+              - /url: /sponsorship
+          - listitem [ref=e202]:
+            - link "Aircrew" [ref=e203] [cursor=pointer]:
+              - /url: /aircrew
+          - listitem [ref=e204]:
+            - link "Air & Space Ops" [ref=e205] [cursor=pointer]:
+              - /url: /air-space-operations
+          - listitem [ref=e206]:
+            - link "Cyberspace" [ref=e207] [cursor=pointer]:
+              - /url: /cyberspace
+          - listitem [ref=e208]:
+            - link "Engineering" [ref=e209] [cursor=pointer]:
+              - /url: /engineering
+          - listitem [ref=e210]:
+            - link "Ground Combat & Security" [ref=e211] [cursor=pointer]:
+              - /url: /ground-combat-security
+          - listitem [ref=e212]:
+            - link "Hospitality" [ref=e213] [cursor=pointer]:
+              - /url: /hospitality
+          - listitem [ref=e214]:
+            - link "Intelligence" [ref=e215] [cursor=pointer]:
+              - /url: /intelligence
+          - listitem [ref=e216]:
+            - link "Logistics" [ref=e217] [cursor=pointer]:
+              - /url: /logistics
+          - listitem [ref=e218]:
+            - link "Medical Services" [ref=e219] [cursor=pointer]:
+              - /url: /medical-services
+          - listitem [ref=e220]:
+            - link "People Ops" [ref=e221] [cursor=pointer]:
+              - /url: /people-operations
+        - generic [ref=e222]:
+          - img "Top 100 Apprenticeships 2024" [ref=e224]
+          - generic [ref=e225]:
+            - link "Visit RAF Recruitment on Facebook (opens in new tab)" [ref=e226] [cursor=pointer]:
+              - /url: https://www.facebook.com/RAFRecruitment
+              - img [ref=e227]
+            - link "Visit RAF Recruitment on Instagram (opens in new tab)" [ref=e228] [cursor=pointer]:
+              - /url: http://instagram.com/rafrecruitment
+              - img [ref=e229]
+            - link "Visit RAF Recruitment on YouTube (opens in new tab)" [ref=e230] [cursor=pointer]:
+              - /url: http://www.youtube.com/user/royalairforce
+              - img [ref=e231]
+      - generic [ref=e232]:
+        - list [ref=e233]:
+          - listitem [ref=e234]:
+            - link "Sitemap" [ref=e235] [cursor=pointer]:
+              - /url: /information/sitemap
+          - listitem [ref=e236]:
+            - link "Cookies & Privacy" [ref=e237] [cursor=pointer]:
+              - /url: /information/privacy-cookies
+          - listitem [ref=e238]:
+            - link "Accessibility" [ref=e239] [cursor=pointer]:
+              - /url: /information/accessibility
+        - generic [ref=e240]: © 2026 Royal Air Force — Regular & Reserve UK Crown copyright.
+  - link "View favourite roles" [ref=e242] [cursor=pointer]:
+    - /url: /roles-in-the-raf?favourites-at-top&gotofavourites
+  - generic [ref=e243] [cursor=pointer]:
+    - button "Open Preferences" [ref=e245]:
+      - img [ref=e246]
+    - text: Manage Preferences

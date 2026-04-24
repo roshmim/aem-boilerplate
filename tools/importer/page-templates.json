@@ -1,0 +1,97 @@
+{
+  "templates": [
+    {
+      "name": "homepage",
+      "urls": ["https://www.queenslandamusementpark.com/"],
+      "description": "Main landing page with hero carousel, quick-link icon cards, special offers carousel, welcome section with attraction category links, advantage features grid, video background, promotional split sections, and Google reviews carousel",
+      "blocks": []
+    },
+    {
+      "name": "attraction-listing-page",
+      "urls": [
+        "https://www.queenslandamusementpark.com/attraction",
+        "https://www.queenslandamusementpark.com/attraction/thrillrides",
+        "https://www.queenslandamusementpark.com/attraction/kids-rides",
+        "https://www.queenslandamusementpark.com/attraction/water-rides",
+        "https://www.queenslandamusementpark.com/attraction/family-rides"
+      ],
+      "description": "Attraction listing pages with breadcrumb, category tab navigation, and ride card grid with image and description per ride",
+      "blocks": []
+    },
+    {
+      "name": "ticket-prices-page",
+      "urls": ["https://www.queenslandamusementpark.com/ticketprices"],
+      "description": "Ticket pricing page with pricing cards grid (Adults, Kids, Seniors, Defence), Book Online CTA, visitor policy icon cards, and contact CTA section",
+      "blocks": []
+    },
+    {
+      "name": "faq-page",
+      "urls": ["https://www.queenslandamusementpark.com/Faq"],
+      "description": "FAQ page with 25 collapsible accordion items covering operating hours, tickets, safety, accessibility, and park rules",
+      "blocks": []
+    },
+    {
+      "name": "group-bookings-page",
+      "urls": ["https://www.queenslandamusementpark.com/groupbookings"],
+      "description": "Group booking information page with requirement icon cards, contact info, dual CTAs, and benefits section with image-text split layout",
+      "blocks": []
+    },
+    {
+      "name": "restaurants-page",
+      "urls": ["https://www.queenslandamusementpark.com/restaurants"],
+      "description": "Food and dining page with alternating zigzag image-text rows for each restaurant and a souvenirs product card grid section",
+      "blocks": []
+    },
+    {
+      "name": "event-spaces-page",
+      "urls": ["https://www.queenslandamusementpark.com/eventspaces"],
+      "description": "Event venue showcase page with venue detail cards (auditorium, banquet hall) including capacity info, plus amenities section with image-text cards",
+      "blocks": []
+    },
+    {
+      "name": "contact-page",
+      "urls": ["https://www.queenslandamusementpark.com/contact"],
+      "description": "Contact page with prominent phone CTA, three contact info cards (email, park address, marketing office), and a contact form with Name, Phone, Email, Comments fields plus Google reCAPTCHA",
+      "blocks": []
+    },
+    {
+      "name": "gallery-page",
+      "urls": ["https://www.queenslandamusementpark.com/ourgallery"],
+      "description": "Photo gallery page with intro text and a 2-column masonry image grid of park photos",
+      "blocks": []
+    },
+    {
+      "name": "park-details-page",
+      "urls": ["https://www.queenslandamusementpark.com/parkdetails"],
+      "description": "Comprehensive park info page with timing cards, dos and donts split columns, how-to-reach bus route cards, and address/contact cards",
+      "blocks": []
+    },
+    {
+      "name": "park-map-page",
+      "urls": ["https://www.queenslandamusementpark.com/queenslandmap"],
+      "description": "Simple page displaying the park map illustration as a single large image with intro text",
+      "blocks": []
+    },
+    {
+      "name": "offers-page",
+      "urls": ["https://www.queenslandamusementpark.com/offers"],
+      "description": "Special offers listing page with promotional cards featuring offer images, descriptions, and Book Now CTAs linking to external booking system with campaign tracking",
+      "blocks": []
+    },
+    {
+      "name": "legal-page",
+      "urls": [
+        "https://www.queenslandamusementpark.com/privacypolicy",
+        "https://www.queenslandamusementpark.com/disclaimer"
+      ],
+      "description": "Legal content pages with text-based privacy policy and disclaimer content",
+      "blocks": []
+    },
+    {
+      "name": "sitemap-page",
+      "urls": ["https://www.queenslandamusementpark.com/sitemap"],
+      "description": "Categorized site directory page with grouped link lists under General, Things To Do, Visitors Guide, and Legal sections",
+      "blocks": []
+    }
+  ]
+}

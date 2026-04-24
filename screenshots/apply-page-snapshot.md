@@ -1,0 +1,177 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#raf-app"
+    - banner [ref=e4]:
+      - link "Royal Air Force - Regular & Reserve Go to home page" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Royal Air Force - Regular & Reserve" [ref=e7]
+        - generic [ref=e8]: Go to home page
+      - button "Open menu" [ref=e10] [cursor=pointer]
+  - main [ref=e12]:
+    - generic [ref=e14]:
+      - heading "START YOUR APPLICATION" [level=1] [ref=e16]:
+        - generic [ref=e17]: START YOUR
+        - generic [ref=e18]: APPLICATION
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - generic [ref=e24]: "1"
+          - generic [ref=e27]: Roles
+        - generic [ref=e28]:
+          - generic [ref=e29]: "2"
+          - generic [ref=e32]: Eligibility
+        - generic [ref=e33]:
+          - generic [ref=e34]: "3"
+          - generic [ref=e37]: Details
+        - generic [ref=e38]:
+          - generic [ref=e39]: "4"
+          - generic [ref=e42]: Apply
+        - generic [ref=e43]:
+          - generic [ref=e44]: "5"
+          - generic [ref=e46]: After
+      - generic [ref=e48]:
+        - heading "Step 1 of 5" [level=3] [ref=e49]
+        - heading "Choose your role" [level=2] [ref=e50]
+        - group "Do you know the role you want to apply for?" [ref=e51]:
+          - generic [ref=e52]: Do you know the role you want to apply for?
+          - generic [ref=e53]:
+            - generic [ref=e54] [cursor=pointer]:
+              - radio "Yes" [ref=e55]
+              - text: "Yes"
+            - generic [ref=e56] [cursor=pointer]:
+              - radio "No" [ref=e57]
+              - text: "No"
+        - generic [ref=e58]:
+          - generic [ref=e59]: Not yet decided?
+          - generic [ref=e60]:
+            - paragraph [ref=e61]: It's OK not to know what role you want to apply for. If you've not decided yet, you can still submit an application and allow us to help you find a suitable role.
+            - paragraph [ref=e62]
+            - paragraph [ref=e63]:
+              - text: Alternatively, you can look for a role that matches your age, qualifications and interests
+              - link "here" [ref=e64] [cursor=pointer]:
+                - /url: /roles-in-the-raf/
+              - text: .
+      - generic [ref=e65]:
+        - heading "HAVE A QUESTION?" [level=2] [ref=e66]
+        - paragraph [ref=e68]: Live chat is with a human not a bot
+        - generic [ref=e69]:
+          - link "Live chat" [ref=e70] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact us" [ref=e71] [cursor=pointer]:
+            - /url: /contact/
+  - contentinfo [ref=e72]:
+    - contentinfo "RAF footer navigation" [ref=e73]:
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - list [ref=e76]:
+            - listitem [ref=e77]:
+              - link "LIFE IN THE RAF" [ref=e78] [cursor=pointer]:
+                - /url: /life-in-the-raf
+            - listitem [ref=e79]:
+              - link "CAREERS & BENEFITS" [ref=e80] [cursor=pointer]:
+                - /url: /career-and-benefits
+            - listitem [ref=e81]:
+              - link "FIND YOUR ROLE" [ref=e82] [cursor=pointer]:
+                - /url: /find-your-role
+            - listitem [ref=e83]:
+              - link "APPLY NOW" [ref=e84] [cursor=pointer]:
+                - /url: /apply
+          - list [ref=e85]:
+            - listitem [ref=e86]:
+              - link "Diversity & Inclusion" [ref=e87] [cursor=pointer]:
+                - /url: /diversity-and-inclusion
+            - listitem [ref=e88]:
+              - link "RAF Fitness" [ref=e89] [cursor=pointer]:
+                - /url: /fitness-in-the-raf
+            - listitem [ref=e90]:
+              - link "University Air Squadrons" [ref=e91] [cursor=pointer]:
+                - /url: /university-air-squadrons
+            - listitem [ref=e92]:
+              - link "RAF main websiteopens in new tab" [ref=e93] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fapply
+                - text: RAF main website
+                - img "opens in new tab" [ref=e94]
+            - listitem [ref=e95]:
+              - link "Air Cadetsopens in new tab" [ref=e96] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk/aircadets/?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fapply
+                - text: Air Cadets
+                - img "opens in new tab" [ref=e97]
+            - listitem [ref=e98]:
+              - link "Events near you" [ref=e99] [cursor=pointer]:
+                - /url: /contact/events
+            - listitem [ref=e100]:
+              - link "Contact us" [ref=e101] [cursor=pointer]:
+                - /url: /contact
+        - list [ref=e103]:
+          - listitem [ref=e104]:
+            - link "Apprenticeships" [ref=e105] [cursor=pointer]:
+              - /url: /apprenticeships
+          - listitem [ref=e106]:
+            - link "Rejoiners & Transferees" [ref=e107] [cursor=pointer]:
+              - /url: /how-to-apply/rejoiners-and-inter-service-transfer
+          - listitem [ref=e108]:
+            - link "Reserves" [ref=e109] [cursor=pointer]:
+              - /url: /reserves
+          - listitem [ref=e110]:
+            - link "Sponsorship" [ref=e111] [cursor=pointer]:
+              - /url: /sponsorship
+          - listitem [ref=e112]:
+            - link "Aircrew" [ref=e113] [cursor=pointer]:
+              - /url: /aircrew
+          - listitem [ref=e114]:
+            - link "Air & Space Ops" [ref=e115] [cursor=pointer]:
+              - /url: /air-space-operations
+          - listitem [ref=e116]:
+            - link "Cyberspace" [ref=e117] [cursor=pointer]:
+              - /url: /cyberspace
+          - listitem [ref=e118]:
+            - link "Engineering" [ref=e119] [cursor=pointer]:
+              - /url: /engineering
+          - listitem [ref=e120]:
+            - link "Ground Combat & Security" [ref=e121] [cursor=pointer]:
+              - /url: /ground-combat-security
+          - listitem [ref=e122]:
+            - link "Hospitality" [ref=e123] [cursor=pointer]:
+              - /url: /hospitality
+          - listitem [ref=e124]:
+            - link "Intelligence" [ref=e125] [cursor=pointer]:
+              - /url: /intelligence
+          - listitem [ref=e126]:
+            - link "Logistics" [ref=e127] [cursor=pointer]:
+              - /url: /logistics
+          - listitem [ref=e128]:
+            - link "Medical Services" [ref=e129] [cursor=pointer]:
+              - /url: /medical-services
+          - listitem [ref=e130]:
+            - link "People Ops" [ref=e131] [cursor=pointer]:
+              - /url: /people-operations
+        - generic [ref=e132]:
+          - img "Top 100 Apprenticeships 2024" [ref=e134]
+          - generic [ref=e135]:
+            - link "Visit RAF Recruitment on Facebook (opens in new tab)" [ref=e136] [cursor=pointer]:
+              - /url: https://www.facebook.com/RAFRecruitment
+              - img [ref=e137]
+            - link "Visit RAF Recruitment on Instagram (opens in new tab)" [ref=e138] [cursor=pointer]:
+              - /url: http://instagram.com/rafrecruitment
+              - img [ref=e139]
+            - link "Visit RAF Recruitment on YouTube (opens in new tab)" [ref=e140] [cursor=pointer]:
+              - /url: http://www.youtube.com/user/royalairforce
+              - img [ref=e141]
+      - generic [ref=e142]:
+        - list [ref=e143]:
+          - listitem [ref=e144]:
+            - link "Sitemap" [ref=e145] [cursor=pointer]:
+              - /url: /information/sitemap
+          - listitem [ref=e146]:
+            - link "Cookies & Privacy" [ref=e147] [cursor=pointer]:
+              - /url: /information/privacy-cookies
+          - listitem [ref=e148]:
+            - link "Accessibility" [ref=e149] [cursor=pointer]:
+              - /url: /information/accessibility
+        - generic [ref=e150]: © 2026 Royal Air Force — Regular & Reserve UK Crown copyright.
+  - link "View favourite roles" [ref=e152] [cursor=pointer]:
+    - /url: /roles-in-the-raf?favourites-at-top&gotofavourites
+  - generic [ref=e153] [cursor=pointer]:
+    - button "Open Preferences" [ref=e155]:
+      - img [ref=e156]
+    - text: Manage Preferences

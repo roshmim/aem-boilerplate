@@ -1,0 +1,549 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#raf-app"
+    - banner [ref=e4]:
+      - link "Royal Air Force - Regular & Reserve Go to home page" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Royal Air Force - Regular & Reserve" [ref=e7]
+        - generic [ref=e8]: Go to home page
+      - button "Open menu" [ref=e10] [cursor=pointer]
+  - main [ref=e12]:
+    - generic [ref=e14]:
+      - heading "RESERVES" [level=1] [ref=e16]:
+        - generic [ref=e18]: RESERVES
+      - generic [ref=e21]:
+        - text: RAF Reservists are part-time service personnel working alongside full-time personnel. You will balance your career and personal life with the thrill and adventure of the RAF, whilst protecting the nation’s security, policing the skies, and providing vital aid to those who need it most.
+        - text: Here, you will find all the information you need before applying.
+      - generic [ref=e24]:
+        - generic [ref=e26]:
+          - generic [ref=e28]:
+            - generic [ref=e29]:
+              - img "RAF Aircraft Technician (Mechanical) plugging external cable into underside of aircraft" [ref=e30]
+              - button "Play video" [ref=e31] [cursor=pointer]
+            - generic [ref=e32]: "Thriving Under Pressure: Key Skills That Make a Great Reservist"
+            - generic [ref=e33]: As an RAF Reservist you will get to overcome challenges outside of your day job, whilst taking on varied responsibilities.
+          - generic [ref=e35]:
+            - generic [ref=e36]:
+              - img [ref=e37]
+              - button [ref=e38] [cursor=pointer]
+            - generic [ref=e39]: "Expanding Horizons: Core Opportunities as an RAF Reservist"
+            - generic [ref=e40]: Support operations all over the world and work with people from a diverse range of roles – just two of the countless opportunities you could experience as an RAF Reservist.
+          - generic [ref=e42]:
+            - generic [ref=e43]:
+              - img [ref=e44]
+              - button [ref=e45] [cursor=pointer]
+            - generic [ref=e46]: "Global Travel: The Opportunity of Mobilisation as a Reservist"
+            - generic [ref=e47]: RAF mobilisations offer Reservists the potential to create rewarding and unforgettable experiences, whilst in varied, hands-on roles.
+        - generic [ref=e48]:
+          - button "Go to slide 1" [ref=e49] [cursor=pointer]
+          - button "Go to slide 2" [ref=e51] [cursor=pointer]
+          - button "Go to slide 3" [ref=e53] [cursor=pointer]
+      - generic [ref=e55]:
+        - heading "What is a Reservist?" [level=2] [ref=e57]:
+          - generic [ref=e58]: What is a
+          - generic [ref=e59]: Reservist?
+        - generic [ref=e60]:
+          - paragraph [ref=e63]: As a member of the RAF Reserves you will serve part-time alongside the wider force, and will be trained to the same exceptional standard. You will be a crucial member of the force protecting our skies and space, aiding crucial national security efforts.
+          - paragraph [ref=e66]: You will join other dedicated, motivated and highly ambitious individuals from all walks of life. You blend the joys and challenges of daily life with world-class training, a rewarding additional career, and the opportunity to travel the globe. All whilst seamlessly fitting around your everyday, whatever this might look like for you.
+      - generic [ref=e69]:
+        - heading "Your 'Something More'" [level=3] [ref=e70]
+        - generic [ref=e71]:
+          - paragraph [ref=e72]: We know how busy life can be, no matter your age or occupation. As a member of the Reserves, you will discover opportunities beyond college, university or your 9-5, enriching your everyday life and offering that little bit more.
+          - paragraph [ref=e73]
+          - paragraph [ref=e74]: You will acquire skills that won’t just prepare you for life in the force, but will help enhance your civilian career, your personal life, and your self-confidence.
+      - generic [ref=e78]:
+        - heading "Something for everyone" [level=3] [ref=e79]
+        - generic [ref=e80]:
+          - paragraph [ref=e81]: There are around 40 roles for Reserves, a large number of which we can train you for and which require no previous experience. So no matter your level of qualification or expertise, there is a role perfect for you.
+          - paragraph [ref=e82]
+          - paragraph [ref=e83]: A career as an RAF Reservist may cover an array of departments and specialisations.
+          - paragraph [ref=e84]
+          - paragraph [ref=e85]:
+            - link "View Reserves roles" [ref=e86] [cursor=pointer]:
+              - /url: /roles-in-the-raf?time=reserve
+      - generic [ref=e90]:
+        - heading "Life as a Reservist" [level=3] [ref=e91]
+        - generic [ref=e92]:
+          - paragraph [ref=e93]: As a Reservist you will get to enjoy the best of both worlds, working around your career and home life with the challenge, adventure and responsibility of the RAF. Whether deployed operationally at your station or our foreign bases, you will be as crucial to all RAF operations as full-time personnel and will be trained to the same high standard.
+          - paragraph [ref=e94]
+          - paragraph [ref=e95]: You will develop transferable skills and qualifications, partake in sports and adventure training, and meet friends for life - all whilst being paid.
+          - paragraph [ref=e96]
+          - paragraph [ref=e97]:
+            - link "Read more" [ref=e98] [cursor=pointer]:
+              - /url: /life-in-the-raf/life-as-a-reserve/
+      - generic [ref=e100]:
+        - heading "WHY JOIN AS A RESERVE?" [level=2] [ref=e102]:
+          - generic [ref=e103]: WHY JOIN
+          - generic [ref=e104]: AS A RESERVE?
+        - generic [ref=e105]:
+          - generic [ref=e107]:
+            - paragraph [ref=e108]:
+              - strong [ref=e109]: Make a difference
+            - paragraph [ref=e110]: As a Reservist you will help protect our nation’s interests, prevent conflict, and deliver humanitarian aid to disaster zones across the globe. You could provide vital air support to British troops, defend UK airspace through intelligence gathering, or support the nation’s emergency services on UK operations.
+            - paragraph [ref=e111]
+            - paragraph [ref=e112]
+            - paragraph [ref=e113]
+            - strong [ref=e115]: Develop skills
+            - paragraph [ref=e117]: No matter your professional experience, education level or chosen role, you will acquire invaluable skills as a Reservist. Skills you wouldn’t have developed in the civilian world - including military training, providing relief and aid to countries that need it most, and flying on military aircraft.
+            - paragraph [ref=e118]
+            - paragraph [ref=e119]
+          - generic [ref=e121]:
+            - strong [ref=e123]: Challenge yourself
+            - generic [ref=e124]:
+              - paragraph [ref=e125]: You will be part of a diverse, talented, self-motivated team who want to make a difference. And when you have to step in, you’ll step up, delivering unrivalled support alongside your fellow colleagues. Contributing to operations taking personnel across the globe, travelling through the skies or on the ground, ensuring the United Kingdom is protected against any form of threat.
+              - paragraph [ref=e126]
+              - strong [ref=e128]: Additional benefits
+              - paragraph [ref=e130]: There are a range of additional benefits to joining the RAF Reserves. These include competitive pay and a non-contributory pension, a tax-free bounty, plus subsidised travel and food. You will also have access to outstanding sporting facilities and a range of discounts for you and your partner through the Defence Discount Schemes.
+      - generic [ref=e131]:
+        - heading "OUR LOCATIONS" [level=2] [ref=e132]:
+          - generic [ref=e133]: OUR
+          - generic [ref=e134]: LOCATIONS
+        - generic [ref=e135]:
+          - paragraph [ref=e136]: RAF Reservists can serve throughout the UK, so we would advise joining a Squadron or unit near to where you live. However, you may want to pursue a role that is not available at your local Reserves squadron - if this is the case, certain units recruit nationally and will subsidise long-distance travel.
+          - paragraph [ref=e137]: Use the map below to locate our different Reserves bases, and the types of roles available at each.
+      - generic [ref=e140]:
+        - generic [ref=e141]:
+          - generic [ref=e142]: Enter your postcode
+          - textbox "Enter your postcode" [ref=e143]:
+            - /placeholder: Enter Postcode
+          - button "Search by postcode" [ref=e144] [cursor=pointer]
+        - generic [ref=e146]:
+          - generic [ref=e147]:
+            - generic [ref=e148]:
+              - generic [ref=e149]:
+                - text: Cambridge
+                - generic:
+                  - button "Select Cambridge on map"
+              - button "Base details for Cambridge" [ref=e152] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e153]: for Cambridge
+            - text: •
+          - generic [ref=e154]:
+            - generic [ref=e155]:
+              - generic [ref=e156]:
+                - text: Cardiff
+                - generic:
+                  - button "Select Cardiff on map"
+              - button "Base details for Cardiff" [ref=e159] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e160]: for Cardiff
+            - text: • • • • • • • • • • • • • • • • • •
+          - generic [ref=e161]:
+            - generic [ref=e162]:
+              - generic [ref=e163]:
+                - text: Edinburgh
+                - generic:
+                  - button "Select Edinburgh on map"
+              - button "Base details for Edinburgh" [ref=e166] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e167]: for Edinburgh
+            - text: • • • •
+          - generic [ref=e168]:
+            - generic [ref=e169]:
+              - generic [ref=e170]:
+                - text: Glasgow
+                - generic:
+                  - button "Select Glasgow on map"
+              - button "Base details for Glasgow" [ref=e173] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e174]: for Glasgow
+            - text: • • • • • • •
+          - generic [ref=e175]:
+            - generic [ref=e176]:
+              - generic [ref=e177]:
+                - text: JHFS Aldergrove
+                - generic:
+                  - button "Select JHFS Aldergrove on map"
+              - button "Base details for JHFS Aldergrove" [ref=e180] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e181]: for JHFS Aldergrove
+            - text: • • • • • • • • • • • • • • • • • • •
+          - generic [ref=e182]:
+            - generic [ref=e183]:
+              - generic [ref=e184]:
+                - text: RAF Benson
+                - generic:
+                  - button "Select RAF Benson on map"
+              - button "Base details for RAF Benson" [ref=e187] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e188]: for RAF Benson
+            - text: • • • • • • • • • • • • • •
+          - generic [ref=e189]:
+            - generic [ref=e190]:
+              - generic [ref=e191]:
+                - text: RAF Brize Norton
+                - generic:
+                  - button "Select RAF Brize Norton on map"
+              - button "Base details for RAF Brize Norton" [ref=e194] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e195]: for RAF Brize Norton
+            - text: • • • • • • • • • • • • • • • • • •
+          - generic [ref=e196]:
+            - generic [ref=e197]:
+              - generic [ref=e198]:
+                - text: RAF Cosford
+                - generic:
+                  - button "Select RAF Cosford on map"
+              - button "Base details for RAF Cosford" [ref=e201] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e202]: for RAF Cosford
+            - text: • • • • • •
+          - generic [ref=e203]:
+            - generic [ref=e204]:
+              - generic [ref=e205]:
+                - text: RAF Cranwell
+                - generic:
+                  - button "Select RAF Cranwell on map"
+              - button "Base details for RAF Cranwell" [ref=e208] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e209]: for RAF Cranwell
+            - text: •
+          - generic [ref=e210]:
+            - generic [ref=e211]:
+              - generic [ref=e212]:
+                - text: RAF Halton
+                - generic:
+                  - button "Select RAF Halton on map"
+              - button "Base details for RAF Halton" [ref=e215] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e216]: for RAF Halton
+            - text: • •
+          - generic [ref=e217]:
+            - generic [ref=e218]:
+              - generic [ref=e219]:
+                - text: RAF Honington
+                - generic:
+                  - button "Select RAF Honington on map"
+              - button "Base details for RAF Honington" [ref=e222] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e223]: for RAF Honington
+            - text: • • • • • •
+          - generic [ref=e224]:
+            - generic [ref=e225]:
+              - generic [ref=e226]:
+                - text: RAF Leeming
+                - generic:
+                  - button "Select RAF Leeming on map"
+              - button "Base details for RAF Leeming" [ref=e229] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e230]: for RAF Leeming
+            - text: • • • • • • • • • • • • • •
+          - generic [ref=e231]:
+            - generic [ref=e232]:
+              - generic [ref=e233]:
+                - text: RAF Leuchars
+                - generic:
+                  - button "Select RAF Leuchars on map"
+              - button "Base details for RAF Leuchars" [ref=e236] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e237]: for RAF Leuchars
+            - text: • • • • • • • • •
+          - generic [ref=e238]:
+            - generic [ref=e239]:
+              - generic [ref=e240]:
+                - text: RAF Lossiemouth
+                - generic:
+                  - button "Select RAF Lossiemouth on map"
+              - button "Base details for RAF Lossiemouth" [ref=e243] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e244]: for RAF Lossiemouth
+            - text: • • • • • • • • • • •
+          - generic [ref=e245]:
+            - generic [ref=e246]:
+              - generic [ref=e247]:
+                - text: RAF Marham
+                - generic:
+                  - button "Select RAF Marham on map"
+              - button "Base details for RAF Marham" [ref=e250] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e251]: for RAF Marham
+            - text: • • • • •
+          - generic [ref=e252]:
+            - generic [ref=e253]:
+              - generic [ref=e254]:
+                - text: RAF Northolt
+                - generic:
+                  - button "Select RAF Northolt on map"
+              - button "Base details for RAF Northolt" [ref=e257] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e258]: for RAF Northolt
+            - text: • • • • • • • • • • • • • • •
+          - generic [ref=e259]:
+            - generic [ref=e260]:
+              - generic [ref=e261]:
+                - text: RAF St Mawgan
+                - generic:
+                  - button "Select RAF St Mawgan on map"
+              - button "Base details for RAF St Mawgan" [ref=e264] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e265]: for RAF St Mawgan
+            - text: • • • • • • • • •
+          - generic [ref=e266]:
+            - generic [ref=e267]:
+              - generic [ref=e268]:
+                - text: RAF Waddington
+                - generic:
+                  - button "Select RAF Waddington on map"
+              - button "Base details for RAF Waddington" [ref=e271] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e272]: for RAF Waddington
+            - text: • • • • • • • •
+          - generic [ref=e273]:
+            - generic [ref=e274]:
+              - generic [ref=e275]:
+                - text: RAF Wittering
+                - generic:
+                  - button "Select RAF Wittering on map"
+              - button "Base details for RAF Wittering" [ref=e278] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e279]: for RAF Wittering
+            - text: • • • • • •
+          - generic [ref=e280]:
+            - generic [ref=e281]:
+              - generic [ref=e282]:
+                - text: RAF Woodvale
+                - generic:
+                  - button "Select RAF Woodvale on map"
+              - button "Base details for RAF Woodvale" [ref=e285] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e286]: for RAF Woodvale
+            - text: • • • • • • • • • • • • • • • • • •
+          - generic [ref=e287]:
+            - generic [ref=e288]:
+              - generic [ref=e289]:
+                - text: RAF Wyton
+                - generic:
+                  - button "Select RAF Wyton on map"
+              - button "Base details for RAF Wyton" [ref=e292] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e293]: for RAF Wyton
+            - text: • • • •
+      - generic [ref=e294]:
+        - heading "WHAT YOU NEED TO KNOW" [level=2] [ref=e296]:
+          - generic [ref=e297]: WHAT YOU
+          - generic [ref=e298]: NEED TO KNOW
+        - generic [ref=e301]:
+          - generic [ref=e304]:
+            - generic [ref=e306]:
+              - generic [ref=e307]: "01"
+              - generic [ref=e308]: Slide 1
+              - heading "Commitment" [level=3] [ref=e309]
+            - paragraph [ref=e311]:
+              - text: We ask Reserves to give us a minimum of 27 days a year, which can be broken down into weekends, half days, and Drill Nights, plus your 15 days Annual continuous training.
+              - text: You can opt in for additional hours and training - the amount of time you commit outside of required hours is entirely up to you.
+          - generic [ref=e314]:
+            - generic [ref=e316]:
+              - generic [ref=e317]: "02"
+              - generic [ref=e318]: Slide 2
+              - heading "Pay" [level=3] [ref=e319]
+            - paragraph [ref=e321]:
+              - text: As a Reservist you will be paid for every half or full day you dedicate to the RAF, plus a non- contributory pension, holiday pay, and an annual tax-free bounty on completion of qualifying criteria.
+              - text: We offer competitive pay rates which vary depending on role and rank. More information can be found in our FAQs.
+          - generic [ref=e324]:
+            - generic [ref=e326]:
+              - generic [ref=e327]: "03"
+              - generic [ref=e328]: Slide 3
+              - heading "Culture" [level=3] [ref=e329]
+            - paragraph [ref=e331]:
+              - text: There are 29 Squadrons and units in the RAF Reserve, each offering a variety of roles.
+              - text: No matter your role, you will receive world-class accredited training and ongoing development alongside full-time personnel. You will be immersed in a culture of camaraderie and teamwork, and will be an invaluable member of a diverse, talented team.
+          - generic [ref=e334]:
+            - generic [ref=e336]:
+              - generic [ref=e337]: "04"
+              - generic [ref=e338]: Slide 4
+              - heading "Entry Routes" [level=3] [ref=e339]
+            - paragraph [ref=e341]:
+              - text: "Reserves are divided into two ranks: Commissioned Officer and Enlisted Aviator. Most people enter the Reserves as an Enlisted Aviator, but there are roles available at all ranks."
+              - text: You’ll have the opportunity to progress through the rank structure and can even apply to become a Commissioned Officer - the RAF’s equivalent to a management role.
+        - generic [ref=e343]:
+          - button "Previous slide" [ref=e344]:
+            - img [ref=e345]
+          - button "Next slide" [ref=e346] [cursor=pointer]:
+            - img [ref=e347]
+      - generic [ref=e348]:
+        - heading "TAKE YOUR NEXT STEP" [level=2] [ref=e350]:
+          - generic [ref=e351]: TAKE YOUR
+          - generic [ref=e352]: NEXT STEP
+        - generic [ref=e353]: There are plenty of Reserves roles to choose from in the RAF. The right one for you will depend on your interests, qualifications and skills. Discover some of our featured roles below.
+        - region "Roles carousel" [ref=e354]:
+          - generic [ref=e355]:
+            - generic [ref=e359]:
+              - link "RAF Regiment Gunner" [ref=e360] [cursor=pointer]:
+                - /url: /roles/roles-finder/ground-combat-security/raf-regiment-gunner/
+              - generic [ref=e362]:
+                - generic [ref=e363]: Ground Combat & Security
+                - generic [ref=e364]: RAF Regiment Gunner
+                - button "Add to favourites" [ref=e365] [cursor=pointer]
+                - generic [ref=e366]: Sport & fitness Transport & vehicles Travelling the world
+            - generic [ref=e367]:
+              - button "Previous slide" [ref=e369] [cursor=pointer]
+              - button "Next slide" [ref=e371] [cursor=pointer]
+      - generic [ref=e372]:
+        - heading "FAQS" [level=2] [ref=e373]:
+          - generic [ref=e374]: FAQS
+        - region "Accordion Section" [ref=e377]:
+          - generic [ref=e378]:
+            - button "WHAT QUALIFICATIONS DO I NEED?" [expanded] [ref=e379] [cursor=pointer]:
+              - heading "WHAT QUALIFICATIONS DO I NEED?" [level=3] [ref=e380]
+            - generic [ref=e382]:
+              - paragraph [ref=e383]: The criteria for joining Reserves roles varies depending on the service and role you’re applying for. To discover which qualifications are required for your preferred role, head to the unique job description web-page.
+              - paragraph [ref=e384]
+              - paragraph [ref=e385]: There are roles we can train you for such as Flight Operations Attendant, roles requiring existing qualifications such as Nursing Officer, and roles that require previous military experience, such as Air Traffic Control Officer.
+          - button "WHAT DOES THE TRAINING LOOK LIKE?" [ref=e387] [cursor=pointer]:
+            - heading "WHAT DOES THE TRAINING LOOK LIKE?" [level=3] [ref=e388]
+          - button "HOW MUCH WILL I BE PAID?" [ref=e390] [cursor=pointer]:
+            - heading "HOW MUCH WILL I BE PAID?" [level=3] [ref=e391]
+          - button "WHERE WILL I BE BASED?" [ref=e393] [cursor=pointer]:
+            - heading "WHERE WILL I BE BASED?" [level=3] [ref=e394]
+          - button "IF I FIND THE RESERVES ISN'T FOR ME, CAN I LEAVE?" [ref=e396] [cursor=pointer]:
+            - heading "IF I FIND THE RESERVES ISN'T FOR ME, CAN I LEAVE?" [level=3] [ref=e397]
+          - button "WILL I BE CALLED TO ACTIVE DUTY (MOBILISED)?" [ref=e399] [cursor=pointer]:
+            - heading "WILL I BE CALLED TO ACTIVE DUTY (MOBILISED)?" [level=3] [ref=e400]
+      - generic [ref=e401]:
+        - generic [ref=e402]:
+          - heading "FIND YOUR ROLE" [level=3] [ref=e404]:
+            - generic [ref=e405]: FIND YOUR
+            - generic [ref=e406]: ROLE
+          - generic [ref=e407]: Choose from 39 Reserves roles.
+          - link "View Find your role" [ref=e409] [cursor=pointer]:
+            - /url: /roles-in-the-raf/?time=reserve
+        - generic [ref=e410]:
+          - img "A400 Atlas landing on beach" [ref=e411]
+          - heading "CAREER & BENEFITS" [level=3] [ref=e413]:
+            - generic [ref=e414]: CAREER &
+            - generic [ref=e415]: BENEFITS
+          - generic [ref=e416]: You’ll get the best training opportunities and support for your career, and for you as an individual.
+          - link "View career and benefits" [ref=e418] [cursor=pointer]:
+            - /url: /career-and-benefits
+        - generic [ref=e419]:
+          - heading "LIFE AS A RESERVE" [level=3] [ref=e421]:
+            - generic [ref=e422]: LIFE AS A
+            - generic [ref=e423]: RESERVE
+          - generic [ref=e424]: Find out more about what life is like as a Reserve in the RAF.
+          - link "View life as a Reserve" [ref=e426] [cursor=pointer]:
+            - /url: /life-in-the-raf/life-as-a-reserve
+      - generic [ref=e427]:
+        - heading "HAVE A QUESTION?" [level=2] [ref=e428]
+        - paragraph [ref=e430]: Live chat is with a human not a bot
+        - generic [ref=e431]:
+          - link "Live chat" [ref=e432] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact us" [ref=e433] [cursor=pointer]:
+            - /url: /contact/
+  - contentinfo [ref=e434]:
+    - contentinfo "RAF footer navigation" [ref=e435]:
+      - generic [ref=e436]:
+        - generic [ref=e437]:
+          - list [ref=e438]:
+            - listitem [ref=e439]:
+              - link "LIFE IN THE RAF" [ref=e440] [cursor=pointer]:
+                - /url: /life-in-the-raf
+            - listitem [ref=e441]:
+              - link "CAREERS & BENEFITS" [ref=e442] [cursor=pointer]:
+                - /url: /career-and-benefits
+            - listitem [ref=e443]:
+              - link "FIND YOUR ROLE" [ref=e444] [cursor=pointer]:
+                - /url: /find-your-role
+            - listitem [ref=e445]:
+              - link "APPLY NOW" [ref=e446] [cursor=pointer]:
+                - /url: /apply
+          - list [ref=e447]:
+            - listitem [ref=e448]:
+              - link "Diversity & Inclusion" [ref=e449] [cursor=pointer]:
+                - /url: /diversity-and-inclusion
+            - listitem [ref=e450]:
+              - link "RAF Fitness" [ref=e451] [cursor=pointer]:
+                - /url: /fitness-in-the-raf
+            - listitem [ref=e452]:
+              - link "University Air Squadrons" [ref=e453] [cursor=pointer]:
+                - /url: /university-air-squadrons
+            - listitem [ref=e454]:
+              - link "RAF main websiteopens in new tab" [ref=e455] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Freserves
+                - text: RAF main website
+                - img "opens in new tab" [ref=e456]
+            - listitem [ref=e457]:
+              - link "Air Cadetsopens in new tab" [ref=e458] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk/aircadets/?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Freserves
+                - text: Air Cadets
+                - img "opens in new tab" [ref=e459]
+            - listitem [ref=e460]:
+              - link "Events near you" [ref=e461] [cursor=pointer]:
+                - /url: /contact/events
+            - listitem [ref=e462]:
+              - link "Contact us" [ref=e463] [cursor=pointer]:
+                - /url: /contact
+        - list [ref=e465]:
+          - listitem [ref=e466]:
+            - link "Apprenticeships" [ref=e467] [cursor=pointer]:
+              - /url: /apprenticeships
+          - listitem [ref=e468]:
+            - link "Rejoiners & Transferees" [ref=e469] [cursor=pointer]:
+              - /url: /how-to-apply/rejoiners-and-inter-service-transfer
+          - listitem [ref=e470]:
+            - link "Reserves" [ref=e471] [cursor=pointer]:
+              - /url: /reserves
+          - listitem [ref=e472]:
+            - link "Sponsorship" [ref=e473] [cursor=pointer]:
+              - /url: /sponsorship
+          - listitem [ref=e474]:
+            - link "Aircrew" [ref=e475] [cursor=pointer]:
+              - /url: /aircrew
+          - listitem [ref=e476]:
+            - link "Air & Space Ops" [ref=e477] [cursor=pointer]:
+              - /url: /air-space-operations
+          - listitem [ref=e478]:
+            - link "Cyberspace" [ref=e479] [cursor=pointer]:
+              - /url: /cyberspace
+          - listitem [ref=e480]:
+            - link "Engineering" [ref=e481] [cursor=pointer]:
+              - /url: /engineering
+          - listitem [ref=e482]:
+            - link "Ground Combat & Security" [ref=e483] [cursor=pointer]:
+              - /url: /ground-combat-security
+          - listitem [ref=e484]:
+            - link "Hospitality" [ref=e485] [cursor=pointer]:
+              - /url: /hospitality
+          - listitem [ref=e486]:
+            - link "Intelligence" [ref=e487] [cursor=pointer]:
+              - /url: /intelligence
+          - listitem [ref=e488]:
+            - link "Logistics" [ref=e489] [cursor=pointer]:
+              - /url: /logistics
+          - listitem [ref=e490]:
+            - link "Medical Services" [ref=e491] [cursor=pointer]:
+              - /url: /medical-services
+          - listitem [ref=e492]:
+            - link "People Ops" [ref=e493] [cursor=pointer]:
+              - /url: /people-operations
+        - generic [ref=e494]:
+          - img "Top 100 Apprenticeships 2024" [ref=e496]
+          - generic [ref=e497]:
+            - link "Visit RAF Recruitment on Facebook (opens in new tab)" [ref=e498] [cursor=pointer]:
+              - /url: https://www.facebook.com/RAFRecruitment
+              - img [ref=e499]
+            - link "Visit RAF Recruitment on Instagram (opens in new tab)" [ref=e500] [cursor=pointer]:
+              - /url: http://instagram.com/rafrecruitment
+              - img [ref=e501]
+            - link "Visit RAF Recruitment on YouTube (opens in new tab)" [ref=e502] [cursor=pointer]:
+              - /url: http://www.youtube.com/user/royalairforce
+              - img [ref=e503]
+      - generic [ref=e504]:
+        - list [ref=e505]:
+          - listitem [ref=e506]:
+            - link "Sitemap" [ref=e507] [cursor=pointer]:
+              - /url: /information/sitemap
+          - listitem [ref=e508]:
+            - link "Cookies & Privacy" [ref=e509] [cursor=pointer]:
+              - /url: /information/privacy-cookies
+          - listitem [ref=e510]:
+            - link "Accessibility" [ref=e511] [cursor=pointer]:
+              - /url: /information/accessibility
+        - generic [ref=e512]: © 2026 Royal Air Force — Regular & Reserve UK Crown copyright.
+  - link "View favourite roles" [ref=e514] [cursor=pointer]:
+    - /url: /roles-in-the-raf?favourites-at-top&gotofavourites
+  - generic [ref=e515] [cursor=pointer]:
+    - button "Open Preferences" [ref=e517]:
+      - img [ref=e518]
+    - text: Manage Preferences

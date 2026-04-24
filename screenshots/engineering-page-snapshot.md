@@ -1,0 +1,259 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#raf-app"
+    - banner [ref=e4]:
+      - link "Royal Air Force - Regular & Reserve Go to home page" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Royal Air Force - Regular & Reserve" [ref=e7]
+        - generic [ref=e8]: Go to home page
+      - button "Open menu" [ref=e10] [cursor=pointer]
+  - main [ref=e12]:
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - heading "ENGINEERING" [level=1] [ref=e16]:
+          - generic [ref=e17]: ENGINEERING
+        - generic [ref=e19]:
+          - iframe [ref=e20]:
+            
+          - button "Play or pause background video" [ref=e22] [cursor=pointer]
+      - generic [ref=e23]:
+        - generic [ref=e24]: Our Engineers play an integral role manufacturing, maintaining and repairing the equipment the RAF relies upon.
+        - link "View Engineering roles" [ref=e26] [cursor=pointer]:
+          - /url: "#roles"
+          - text: View Engineering roles
+          - img [ref=e27]
+      - generic [ref=e28]:
+        - heading "WHAT IS ENGINEERING" [level=2] [ref=e29]:
+          - generic [ref=e30]: WHAT IS
+          - generic [ref=e31]: ENGINEERING
+        - paragraph [ref=e33]: The Engineering profession ensures that the right equipment is ready when and where it’s needed. To do this we make sure that you receive world class training and ongoing development so that you’re expertly-skilled and able to maintain and repair the high-tech equipment required to support operations in the air. You’ll make sure that the aircraft, and its supporting equipment, are ready at a moment’s notice.
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - heading "OFFICER ROLE" [level=3] [ref=e37]:
+            - generic [ref=e38]: OFFICER
+            - generic [ref=e39]: ROLE
+          - generic [ref=e40]: You’ll be responsible for leading your team and making technical decisions when it matters most. This is a degree level profession with world-class training.
+          - link "Engineer Officer (Aerosystems)" [ref=e42] [cursor=pointer]:
+            - /url: /roles/roles-finder/engineering/engineer-officer-aerosystems/
+        - img "RAF Officer Cadets marching in ceremonial uniform bearing swords at their graduation ceremony at RAF College Cranwell" [ref=e44]
+      - generic [ref=e45]:
+        - generic [ref=e47]:
+          - heading "TECHNICIAN ROLES" [level=3] [ref=e48]:
+            - generic [ref=e49]: TECHNICIAN
+            - generic [ref=e50]: ROLES
+          - generic [ref=e51]: You’ll be trained extensively on the RAF’s cutting-edge machinery and equipment. These roles start with an apprenticeship.
+          - link "Engineering Roles Technicians" [ref=e53] [cursor=pointer]:
+            - /url: /engineering-roles-technicians/
+        - img "RAF Engineering Officer (Aero Systems) and RAF Aircraft Technician (Mechanical) working under RAF Typhoon." [ref=e55]
+      - generic [ref=e56]:
+        - heading "LEARN ABOUT ENGINEERING" [level=2] [ref=e58]:
+          - generic [ref=e59]: LEARN ABOUT
+          - generic [ref=e60]: ENGINEERING
+        - generic [ref=e61]:
+          - paragraph [ref=e64]: The Engineering profession is essential for the success of each mission. This is about the upkeep of all aircraft, airfield support equipment, electronics and weaponry required to support operations in the air.
+          - paragraph [ref=e67]: As an Engineer you’ll ensure the RAF are able to complete missions safely, and at a moment's notice, with equipment ready to use whenever and wherever it’s needed.
+      - generic [ref=e70]:
+        - generic [ref=e72]:
+          - generic [ref=e74]:
+            - button "Play video" [ref=e76] [cursor=pointer]
+            - generic [ref=e77]: Engineering at the ultimate level
+            - generic [ref=e78]: Step inside one of our aircraft hangars and take a look under the hood. This is what you could be working with.
+          - generic [ref=e80]:
+            - button [ref=e82] [cursor=pointer]
+            - generic [ref=e83]: Meet Manjeet
+            - generic [ref=e84]: Manjeet has been an Engineer Officer in the RAF for over 21 years, accumulating a wealth of knowledge and experience.
+          - generic [ref=e86]:
+            - generic [ref=e87]:
+              - img [ref=e88]
+              - button [ref=e89] [cursor=pointer]
+            - generic [ref=e90]: Meet Shevonne
+            - generic [ref=e91]: Shevonne talks about her career as an RAF Aircraft Technician Weapons.
+        - generic [ref=e92]:
+          - button "Go to slide 1" [ref=e93] [cursor=pointer]
+          - button "Go to slide 2" [ref=e95] [cursor=pointer]
+          - button "Go to slide 3" [ref=e97] [cursor=pointer]
+      - generic [ref=e102]:
+        - heading "Get paid to train, travel the world and find friends for life." [level=3] [ref=e103]
+        - paragraph [ref=e105]: Life in the RAF is more than just a job, it’s a vocation and a lifestyle, it’s who you are. We take care of you when you’re off the clock too. We offer a highly competitive benefits package and there are sporting opportunities and facilities available to everyone. Balance is key. So whilst travelling the world, making new friends and expanding your horizons all come included, we understand the importance of staying connected to friends and family back home too.
+      - generic [ref=e108]:
+        - heading "EXPLORE ROLES" [level=2] [ref=e110]:
+          - generic [ref=e111]: EXPLORE
+          - generic [ref=e112]: ROLES
+        - generic [ref=e113]: "Roles within Engineering bring different opportunities, find the one that fits you:"
+        - region "Roles carousel" [ref=e114]:
+          - generic [ref=e115]:
+            - generic [ref=e119]:
+              - link "Aircraft Technician Weapons" [ref=e120] [cursor=pointer]:
+                - /url: /roles/roles-finder/engineering/aircraft-technician-weapons/
+              - generic [ref=e122]:
+                - generic [ref=e123]: Engineering
+                - generic [ref=e124]: Aircraft Technician Weapons
+                - button "Add to favourites" [ref=e125] [cursor=pointer]
+                - generic [ref=e126]: Aircraft Building & fixing things Travelling the world
+            - generic [ref=e127]:
+              - button "Previous slide" [ref=e129] [cursor=pointer]
+              - button "Next slide" [ref=e131] [cursor=pointer]
+      - generic [ref=e133]:
+        - heading "ENGINEERING FAQs" [level=2] [ref=e134]:
+          - generic [ref=e135]: ENGINEERING
+          - generic [ref=e136]: FAQs
+        - region "Accordion Section" [ref=e138]:
+          - generic [ref=e139]:
+            - button "What qualifications do I need for engineering roles?" [expanded] [ref=e140] [cursor=pointer]:
+              - heading "What qualifications do I need for engineering roles?" [level=3] [ref=e141]
+            - generic [ref=e143]:
+              - paragraph [ref=e144]:
+                - strong [ref=e145]: "To apply for an Engineer Officer role you need to:"
+              - list [ref=e146]:
+                - listitem [ref=e147]: •Be aged between 17 years and 6 months and 47
+                - listitem [ref=e148]: •Have a Bachelors or Masters degree in a subject relevant to the role you are applying for (i.e. Aeronautical Engineering, Mechanical Engineering, Electronic Engineering etc)
+                - listitem [ref=e149]: •Have a GCSE at grade C/4 or above; or SNE equivalent grade 5 or above in English Language
+                - listitem [ref=e150]: •Be a UK, UK/Dual Nationality or Republic of Ireland citizen or have been a Commonwealth citizen since birth
+              - paragraph [ref=e151]
+              - paragraph [ref=e152]:
+                - strong [ref=e153]: "To apply for an Engineer Technician role you need to:"
+              - list [ref=e154]:
+                - listitem [ref=e155]: •Be aged between 15 years and 9 months and 47
+                - listitem [ref=e156]: •Have GCSEs at Grade C/4 or above; or SNE equivalent grade 5 or above in English Language, Mathematics and should have an approved science/technology-based subject*
+                - listitem [ref=e157]: •Be a UK, UK/Dual Nationality or Republic of Ireland citizen or have been a Commonwealth citizen since birth**
+              - paragraph [ref=e158]:
+                - strong [ref=e159]: "* GCSE science is not required for Aircraft Technician Survival Equipment."
+                - strong [ref=e160]: "** Aircraft"
+                - strong [ref=e161]: Technician Avionics will only accept applicants with UK, UK/Dual citizenship.
+          - generic [ref=e162]:
+            - button "Do engineers need to be physically fit?" [ref=e163] [cursor=pointer]:
+              - heading "Do engineers need to be physically fit?" [level=3] [ref=e164]
+            - text: • •
+          - generic [ref=e165]:
+            - button "How long is the application process?" [ref=e166] [cursor=pointer]:
+              - heading "How long is the application process?" [level=3] [ref=e167]
+            - text: •
+          - generic [ref=e168]:
+            - button "Where will I be based?" [ref=e169] [cursor=pointer]:
+              - heading "Where will I be based?" [level=3] [ref=e170]
+            - text: •
+      - generic [ref=e171]:
+        - heading "HAVE A QUESTION?" [level=2] [ref=e172]
+        - paragraph [ref=e174]: Live chat is with a human not a bot
+        - generic [ref=e175]:
+          - link "Live chat" [ref=e176] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact Us" [ref=e177] [cursor=pointer]:
+            - /url: /contact/
+  - contentinfo [ref=e178]:
+    - contentinfo "RAF footer navigation" [ref=e179]:
+      - generic [ref=e180]:
+        - generic [ref=e181]:
+          - list [ref=e182]:
+            - listitem [ref=e183]:
+              - link "LIFE IN THE RAF" [ref=e184] [cursor=pointer]:
+                - /url: /life-in-the-raf
+            - listitem [ref=e185]:
+              - link "CAREERS & BENEFITS" [ref=e186] [cursor=pointer]:
+                - /url: /career-and-benefits
+            - listitem [ref=e187]:
+              - link "FIND YOUR ROLE" [ref=e188] [cursor=pointer]:
+                - /url: /find-your-role
+            - listitem [ref=e189]:
+              - link "APPLY NOW" [ref=e190] [cursor=pointer]:
+                - /url: /apply
+          - list [ref=e191]:
+            - listitem [ref=e192]:
+              - link "Diversity & Inclusion" [ref=e193] [cursor=pointer]:
+                - /url: /diversity-and-inclusion
+            - listitem [ref=e194]:
+              - link "RAF Fitness" [ref=e195] [cursor=pointer]:
+                - /url: /fitness-in-the-raf
+            - listitem [ref=e196]:
+              - link "University Air Squadrons" [ref=e197] [cursor=pointer]:
+                - /url: /university-air-squadrons
+            - listitem [ref=e198]:
+              - link "RAF main websiteopens in new tab" [ref=e199] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fengineering
+                - text: RAF main website
+                - img "opens in new tab" [ref=e200]
+            - listitem [ref=e201]:
+              - link "Air Cadetsopens in new tab" [ref=e202] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk/aircadets/?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fengineering
+                - text: Air Cadets
+                - img "opens in new tab" [ref=e203]
+            - listitem [ref=e204]:
+              - link "Events near you" [ref=e205] [cursor=pointer]:
+                - /url: /contact/events
+            - listitem [ref=e206]:
+              - link "Contact us" [ref=e207] [cursor=pointer]:
+                - /url: /contact
+        - list [ref=e209]:
+          - listitem [ref=e210]:
+            - link "Apprenticeships" [ref=e211] [cursor=pointer]:
+              - /url: /apprenticeships
+          - listitem [ref=e212]:
+            - link "Rejoiners & Transferees" [ref=e213] [cursor=pointer]:
+              - /url: /how-to-apply/rejoiners-and-inter-service-transfer
+          - listitem [ref=e214]:
+            - link "Reserves" [ref=e215] [cursor=pointer]:
+              - /url: /reserves
+          - listitem [ref=e216]:
+            - link "Sponsorship" [ref=e217] [cursor=pointer]:
+              - /url: /sponsorship
+          - listitem [ref=e218]:
+            - link "Aircrew" [ref=e219] [cursor=pointer]:
+              - /url: /aircrew
+          - listitem [ref=e220]:
+            - link "Air & Space Ops" [ref=e221] [cursor=pointer]:
+              - /url: /air-space-operations
+          - listitem [ref=e222]:
+            - link "Cyberspace" [ref=e223] [cursor=pointer]:
+              - /url: /cyberspace
+          - listitem [ref=e224]:
+            - link "Engineering" [ref=e225] [cursor=pointer]:
+              - /url: /engineering
+          - listitem [ref=e226]:
+            - link "Ground Combat & Security" [ref=e227] [cursor=pointer]:
+              - /url: /ground-combat-security
+          - listitem [ref=e228]:
+            - link "Hospitality" [ref=e229] [cursor=pointer]:
+              - /url: /hospitality
+          - listitem [ref=e230]:
+            - link "Intelligence" [ref=e231] [cursor=pointer]:
+              - /url: /intelligence
+          - listitem [ref=e232]:
+            - link "Logistics" [ref=e233] [cursor=pointer]:
+              - /url: /logistics
+          - listitem [ref=e234]:
+            - link "Medical Services" [ref=e235] [cursor=pointer]:
+              - /url: /medical-services
+          - listitem [ref=e236]:
+            - link "People Ops" [ref=e237] [cursor=pointer]:
+              - /url: /people-operations
+        - generic [ref=e238]:
+          - img "Top 100 Apprenticeships 2024" [ref=e240]
+          - generic [ref=e241]:
+            - link "Visit RAF Recruitment on Facebook (opens in new tab)" [ref=e242] [cursor=pointer]:
+              - /url: https://www.facebook.com/RAFRecruitment
+              - img [ref=e243]
+            - link "Visit RAF Recruitment on Instagram (opens in new tab)" [ref=e244] [cursor=pointer]:
+              - /url: http://instagram.com/rafrecruitment
+              - img [ref=e245]
+            - link "Visit RAF Recruitment on YouTube (opens in new tab)" [ref=e246] [cursor=pointer]:
+              - /url: http://www.youtube.com/user/royalairforce
+              - img [ref=e247]
+      - generic [ref=e248]:
+        - list [ref=e249]:
+          - listitem [ref=e250]:
+            - link "Sitemap" [ref=e251] [cursor=pointer]:
+              - /url: /information/sitemap
+          - listitem [ref=e252]:
+            - link "Cookies & Privacy" [ref=e253] [cursor=pointer]:
+              - /url: /information/privacy-cookies
+          - listitem [ref=e254]:
+            - link "Accessibility" [ref=e255] [cursor=pointer]:
+              - /url: /information/accessibility
+        - generic [ref=e256]: © 2026 Royal Air Force — Regular & Reserve UK Crown copyright.
+  - link "View favourite roles" [ref=e258] [cursor=pointer]:
+    - /url: /roles-in-the-raf?favourites-at-top&gotofavourites
+  - generic [ref=e259] [cursor=pointer]:
+    - button "Open Preferences" [ref=e261]:
+      - img [ref=e262]
+    - text: Manage Preferences

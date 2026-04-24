@@ -1,0 +1,193 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#raf-app"
+    - banner [ref=e4]:
+      - link "Royal Air Force - Regular & Reserve Go to home page" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Royal Air Force - Regular & Reserve" [ref=e7]
+        - generic [ref=e8]: Go to home page
+      - button "Open menu" [ref=e10] [cursor=pointer]
+  - main [ref=e12]:
+    - generic [ref=e14]:
+      - heading "HAVE A QUESTION?" [level=1] [ref=e16]:
+        - generic [ref=e17]: HAVE A
+        - generic [ref=e18]: QUESTION?
+      - generic [ref=e21]:
+        - text: Get in touch using any of the methods below.
+        - text: Please note our opening hours. Our Live Chat operators aim to respond to your message within five minutes during business hours. You will be chatting with a recruiter not a bot.
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - heading "Email us" [level=2] [ref=e24]
+          - generic [ref=e25]: Do you have any questions you'd like to ask us? Fill in the form below and we'll get back to you shortly. We aim to respond to your emails via Contact Us within 24 business hours.
+          - generic [ref=e26]:
+            - paragraph [ref=e27]:
+              - generic [ref=e28]: Full name
+              - textbox "Full name" [ref=e29]:
+                - /placeholder: Name
+            - paragraph [ref=e30]:
+              - generic [ref=e31]: Email address
+              - textbox "Email address" [ref=e32]:
+                - /placeholder: Email
+            - paragraph [ref=e33]:
+              - generic [ref=e34]: Confirm your email
+              - textbox "Confirm your email" [ref=e35]:
+                - /placeholder: Confirm email
+            - paragraph [ref=e36]:
+              - generic [ref=e37]: Message
+              - textbox "Message" [ref=e38]:
+                - /placeholder: Type your message here...
+            - iframe [ref=e43]:
+              - generic [ref=f123e2]:
+                - generic [ref=f123e3]:
+                  - checkbox "I'm not a robot" [ref=f123e7]
+                  - generic [ref=f123e11]: I'm not a robot
+                - generic [ref=f123e12]:
+                  - generic [ref=f123e15]: reCAPTCHA
+                  - generic [ref=f123e16]:
+                    - link "Privacy" [ref=f123e17] [cursor=pointer]:
+                      - /url: https://www.google.com/intl/en/policies/privacy/
+                    - text: "-"
+                    - link "Terms" [ref=f123e18] [cursor=pointer]:
+                      - /url: https://www.google.com/intl/en/policies/terms/
+            - button "Send message" [ref=e44] [cursor=pointer]
+        - generic [ref=e45]:
+          - heading "Phone us" [level=2] [ref=e46]
+          - heading "Call Hours:" [level=3] [ref=e47]
+          - generic [ref=e48]: "Mon-Fri: 9am to 5:30pm"
+          - generic [ref=e49]: "Sat & Sun: Closed"
+          - generic [ref=e50]:
+            - heading "Spare Time Reserve:" [level=3] [ref=e51]
+            - generic [ref=e52]: 0345 606 9069
+            - heading "Full Time Regular:" [level=3] [ref=e53]
+            - generic [ref=e54]: 0345 605 5555
+          - heading "Want to speak to a recruiter?" [level=2] [ref=e55]
+          - generic [ref=e56]:
+            - paragraph [ref=e57]:
+              - text: If you would like to speak to an RAF recruiter in person please call
+              - strong [ref=e58]: 0345 605 5555
+              - text: to book a time, date and location.
+            - paragraph [ref=e59]
+            - paragraph [ref=e60]: RAF recruiters can talk to you about their experiences in the RAF and provide guidance regarding the options available to you and the application process. Unfortunately, without a booked appointment a recruiter will not be able to see you. Please feel free to bring your family or friends (particularly recommended for under 18s) to the appointment.
+          - generic [ref=e61]:
+            - heading "Have a question?" [level=2] [ref=e62]
+            - generic [ref=e63]: No need to wait on the line, click the button below to start a chat with us.
+            - button "Live chat" [ref=e64] [cursor=pointer]:
+              - text: Live chat
+              - img [ref=e65]
+  - contentinfo [ref=e66]:
+    - contentinfo "RAF footer navigation" [ref=e67]:
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - list [ref=e70]:
+            - listitem [ref=e71]:
+              - link "LIFE IN THE RAF" [ref=e72] [cursor=pointer]:
+                - /url: /life-in-the-raf
+            - listitem [ref=e73]:
+              - link "CAREERS & BENEFITS" [ref=e74] [cursor=pointer]:
+                - /url: /career-and-benefits
+            - listitem [ref=e75]:
+              - link "FIND YOUR ROLE" [ref=e76] [cursor=pointer]:
+                - /url: /find-your-role
+            - listitem [ref=e77]:
+              - link "APPLY NOW" [ref=e78] [cursor=pointer]:
+                - /url: /apply
+          - list [ref=e79]:
+            - listitem [ref=e80]:
+              - link "Diversity & Inclusion" [ref=e81] [cursor=pointer]:
+                - /url: /diversity-and-inclusion
+            - listitem [ref=e82]:
+              - link "RAF Fitness" [ref=e83] [cursor=pointer]:
+                - /url: /fitness-in-the-raf
+            - listitem [ref=e84]:
+              - link "University Air Squadrons" [ref=e85] [cursor=pointer]:
+                - /url: /university-air-squadrons
+            - listitem [ref=e86]:
+              - link "RAF main websiteopens in new tab" [ref=e87] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fcontact
+                - text: RAF main website
+                - img "opens in new tab" [ref=e88]
+            - listitem [ref=e89]:
+              - link "Air Cadetsopens in new tab" [ref=e90] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk/aircadets/?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fcontact
+                - text: Air Cadets
+                - img "opens in new tab" [ref=e91]
+            - listitem [ref=e92]:
+              - link "Events near you" [ref=e93] [cursor=pointer]:
+                - /url: /contact/events
+            - listitem [ref=e94]:
+              - link "Contact us" [ref=e95] [cursor=pointer]:
+                - /url: /contact
+        - list [ref=e97]:
+          - listitem [ref=e98]:
+            - link "Apprenticeships" [ref=e99] [cursor=pointer]:
+              - /url: /apprenticeships
+          - listitem [ref=e100]:
+            - link "Rejoiners & Transferees" [ref=e101] [cursor=pointer]:
+              - /url: /how-to-apply/rejoiners-and-inter-service-transfer
+          - listitem [ref=e102]:
+            - link "Reserves" [ref=e103] [cursor=pointer]:
+              - /url: /reserves
+          - listitem [ref=e104]:
+            - link "Sponsorship" [ref=e105] [cursor=pointer]:
+              - /url: /sponsorship
+          - listitem [ref=e106]:
+            - link "Aircrew" [ref=e107] [cursor=pointer]:
+              - /url: /aircrew
+          - listitem [ref=e108]:
+            - link "Air & Space Ops" [ref=e109] [cursor=pointer]:
+              - /url: /air-space-operations
+          - listitem [ref=e110]:
+            - link "Cyberspace" [ref=e111] [cursor=pointer]:
+              - /url: /cyberspace
+          - listitem [ref=e112]:
+            - link "Engineering" [ref=e113] [cursor=pointer]:
+              - /url: /engineering
+          - listitem [ref=e114]:
+            - link "Ground Combat & Security" [ref=e115] [cursor=pointer]:
+              - /url: /ground-combat-security
+          - listitem [ref=e116]:
+            - link "Hospitality" [ref=e117] [cursor=pointer]:
+              - /url: /hospitality
+          - listitem [ref=e118]:
+            - link "Intelligence" [ref=e119] [cursor=pointer]:
+              - /url: /intelligence
+          - listitem [ref=e120]:
+            - link "Logistics" [ref=e121] [cursor=pointer]:
+              - /url: /logistics
+          - listitem [ref=e122]:
+            - link "Medical Services" [ref=e123] [cursor=pointer]:
+              - /url: /medical-services
+          - listitem [ref=e124]:
+            - link "People Ops" [ref=e125] [cursor=pointer]:
+              - /url: /people-operations
+        - generic [ref=e126]:
+          - img "Top 100 Apprenticeships 2024" [ref=e128]
+          - generic [ref=e129]:
+            - link "Visit RAF Recruitment on Facebook (opens in new tab)" [ref=e130] [cursor=pointer]:
+              - /url: https://www.facebook.com/RAFRecruitment
+              - img [ref=e131]
+            - link "Visit RAF Recruitment on Instagram (opens in new tab)" [ref=e132] [cursor=pointer]:
+              - /url: http://instagram.com/rafrecruitment
+              - img [ref=e133]
+            - link "Visit RAF Recruitment on YouTube (opens in new tab)" [ref=e134] [cursor=pointer]:
+              - /url: http://www.youtube.com/user/royalairforce
+              - img [ref=e135]
+      - generic [ref=e136]:
+        - list [ref=e137]:
+          - listitem [ref=e138]:
+            - link "Sitemap" [ref=e139] [cursor=pointer]:
+              - /url: /information/sitemap
+          - listitem [ref=e140]:
+            - link "Cookies & Privacy" [ref=e141] [cursor=pointer]:
+              - /url: /information/privacy-cookies
+          - listitem [ref=e142]:
+            - link "Accessibility" [ref=e143] [cursor=pointer]:
+              - /url: /information/accessibility
+        - generic [ref=e144]: © 2026 Royal Air Force — Regular & Reserve UK Crown copyright.
+  - link "View favourite roles" [ref=e146] [cursor=pointer]:
+    - /url: /roles-in-the-raf?favourites-at-top&gotofavourites
+  - generic [ref=e147] [cursor=pointer]:
+    - button "Open Preferences" [ref=e149]:
+      - img [ref=e150]
+    - text: Manage Preferences
