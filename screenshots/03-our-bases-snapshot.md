@@ -1,0 +1,646 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#raf-app"
+    - banner [ref=e4]:
+      - link "Royal Air Force - Regular & Reserve Go to home page" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Royal Air Force - Regular & Reserve" [ref=e7]
+        - generic [ref=e8]: Go to home page
+      - navigation [ref=e9]:
+        - list [ref=e10]:
+          - listitem [ref=e11]:
+            - link "Life in the RAF" [ref=e12] [cursor=pointer]:
+              - /url: /life-in-the-raf
+          - listitem [ref=e13]:
+            - link "Careers & Benefits" [ref=e14] [cursor=pointer]:
+              - /url: /career-and-benefits
+          - listitem [ref=e15]:
+            - link "Find your role" [ref=e16] [cursor=pointer]:
+              - /url: /find-your-role
+          - listitem [ref=e17]:
+            - link "Apply now" [ref=e18] [cursor=pointer]:
+              - /url: /apply
+          - listitem [ref=e19]:
+            - button "GET IN TOUCH" [ref=e20] [cursor=pointer]:
+              - text: GET IN TOUCH
+              - img [ref=e21]
+          - listitem [ref=e22]:
+            - link "Search this site" [ref=e23] [cursor=pointer]:
+              - /url: "#"
+              - text: Search
+              - img [ref=e24]
+  - main [ref=e26]:
+    - generic [ref=e28]:
+      - heading "OUR BASES" [level=1] [ref=e30]:
+        - generic [ref=e31]: OUR
+        - generic [ref=e32]: BASES
+      - generic [ref=e35]:
+        - text: We have bases all over the UK and overseas. Where you’re based will depend on whether you’re a Regular or a Reserve, and your specific role.
+        - text: Use the map and locator below to find details about your nearest base.
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - generic [ref=e39]:
+            - generic [ref=e40]: Enter your postcode
+            - textbox "Enter your postcode" [ref=e41]:
+              - /placeholder: Enter Postcode
+            - button "Search by postcode" [ref=e42] [cursor=pointer]
+          - generic [ref=e43]:
+            - button "All bases" [ref=e44] [cursor=pointer]
+            - button "UK only" [ref=e45] [cursor=pointer]
+            - button "Abroad only" [ref=e46] [cursor=pointer]
+          - generic [ref=e47]:
+            - generic [ref=e49]:
+              - generic [ref=e50]:
+                - text: Amport House
+                - button "Select Amport House on map" [ref=e51] [cursor=pointer]
+              - button "Base details for Amport House" [ref=e54] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e55]: for Amport House
+            - generic [ref=e57]:
+              - generic [ref=e58]:
+                - text: Creech AFB
+                - button "Select Creech AFB on map" [ref=e59] [cursor=pointer]
+              - button "Base details for Creech AFB" [ref=e62] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e63]: for Creech AFB
+            - generic [ref=e65]:
+              - generic [ref=e66]:
+                - text: DST Leconfield
+                - button "Select DST Leconfield on map" [ref=e67] [cursor=pointer]
+              - button "Base details for DST Leconfield" [ref=e70] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e71]: for DST Leconfield
+            - generic [ref=e73]:
+              - generic [ref=e74]:
+                - text: JHFS Aldergrove
+                - button "Select JHFS Aldergrove on map" [ref=e75] [cursor=pointer]
+              - button "Base details for JHFS Aldergrove" [ref=e78] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e79]: for JHFS Aldergrove
+            - generic [ref=e81]:
+              - generic [ref=e82]:
+                - text: LATCC(Mil), Swanwick
+                - button "Select LATCC(Mil), Swanwick on map" [ref=e83] [cursor=pointer]
+              - button "Base details for LATCC(Mil), Swanwick" [ref=e86] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e87]: for LATCC(Mil), Swanwick
+            - generic [ref=e89]:
+              - generic [ref=e90]:
+                - text: Leuchars Station
+                - button "Select Leuchars Station on map" [ref=e91] [cursor=pointer]
+              - button "Base details for Leuchars Station" [ref=e94] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e95]: for Leuchars Station
+            - generic [ref=e97]:
+              - generic [ref=e98]:
+                - text: MoD Boscombe Down
+                - button "Select MoD Boscombe Down on map" [ref=e99] [cursor=pointer]
+              - button "Base details for MoD Boscombe Down" [ref=e102] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e103]: for MoD Boscombe Down
+            - generic [ref=e105]:
+              - generic [ref=e106]:
+                - text: MOD St Athan
+                - button "Select MOD St Athan on map" [ref=e107] [cursor=pointer]
+              - button "Base details for MOD St Athan" [ref=e110] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e111]: for MOD St Athan
+            - generic [ref=e113]:
+              - generic [ref=e114]:
+                - text: RAF Akrotiri
+                - button "Select RAF Akrotiri on map" [ref=e115] [cursor=pointer]
+              - button "Base details for RAF Akrotiri" [ref=e118] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e119]: for RAF Akrotiri
+            - generic [ref=e121]:
+              - generic [ref=e122]:
+                - text: RAF Ascension Island
+                - button "Select RAF Ascension Island on map" [ref=e123] [cursor=pointer]
+              - button "Base details for RAF Ascension Island" [ref=e126] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e127]: for RAF Ascension Island
+            - generic [ref=e129]:
+              - generic [ref=e130]:
+                - text: RAF Barkston Heath
+                - button "Select RAF Barkston Heath on map" [ref=e131] [cursor=pointer]
+              - button "Base details for RAF Barkston Heath" [ref=e134] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e135]: for RAF Barkston Heath
+            - generic [ref=e137]:
+              - generic [ref=e138]:
+                - text: RAF Benson
+                - button "Select RAF Benson on map" [ref=e139] [cursor=pointer]
+              - button "Base details for RAF Benson" [ref=e142] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e143]: for RAF Benson
+            - generic [ref=e145]:
+              - generic [ref=e146]:
+                - text: RAF Boulmer
+                - button "Select RAF Boulmer on map" [ref=e147] [cursor=pointer]
+              - button "Base details for RAF Boulmer" [ref=e150] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e151]: for RAF Boulmer
+            - generic [ref=e152]:
+              - generic [ref=e153]:
+                - generic [ref=e154]:
+                  - text: RAF Brize Norton
+                  - button "Select RAF Brize Norton on map" [ref=e155] [cursor=pointer]
+                - button "Base details for RAF Brize Norton" [ref=e158] [cursor=pointer]:
+                  - text: Base details
+                  - generic [ref=e159]: for RAF Brize Norton
+              - text: • • • •
+            - generic [ref=e161]:
+              - generic [ref=e162]:
+                - text: RAF Coningsby
+                - button "Select RAF Coningsby on map" [ref=e163] [cursor=pointer]
+              - button "Base details for RAF Coningsby" [ref=e166] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e167]: for RAF Coningsby
+            - generic [ref=e169]:
+              - generic [ref=e170]:
+                - text: RAF Cosford
+                - button "Select RAF Cosford on map" [ref=e171] [cursor=pointer]
+              - button "Base details for RAF Cosford" [ref=e174] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e175]: for RAF Cosford
+            - generic [ref=e177]:
+              - generic [ref=e178]:
+                - text: RAF Cranwell
+                - button "Select RAF Cranwell on map" [ref=e179] [cursor=pointer]
+              - button "Base details for RAF Cranwell" [ref=e182] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e183]: for RAF Cranwell
+            - generic [ref=e185]:
+              - generic [ref=e186]:
+                - text: RAF Digby
+                - button "Select RAF Digby on map" [ref=e187] [cursor=pointer]
+              - button "Base details for RAF Digby" [ref=e190] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e191]: for RAF Digby
+            - generic [ref=e193]:
+              - generic [ref=e194]:
+                - text: RAF Donna Nook (Bombing Range)
+                - button "Select RAF Donna Nook (Bombing Range) on map" [ref=e195] [cursor=pointer]
+              - button "Base details for RAF Donna Nook (Bombing Range)" [ref=e198] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e199]: for RAF Donna Nook (Bombing Range)
+            - generic [ref=e201]:
+              - generic [ref=e202]:
+                - text: RAF Fylingdales
+                - button "Select RAF Fylingdales on map" [ref=e203] [cursor=pointer]
+              - button "Base details for RAF Fylingdales" [ref=e206] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e207]: for RAF Fylingdales
+            - generic [ref=e209]:
+              - generic [ref=e210]:
+                - text: RAF Gibraltar
+                - button "Select RAF Gibraltar on map" [ref=e211] [cursor=pointer]
+              - button "Base details for RAF Gibraltar" [ref=e214] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e215]: for RAF Gibraltar
+            - generic [ref=e217]:
+              - generic [ref=e218]:
+                - text: RAF Halton
+                - button "Select RAF Halton on map" [ref=e219] [cursor=pointer]
+              - button "Base details for RAF Halton" [ref=e222] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e223]: for RAF Halton
+            - generic [ref=e225]:
+              - generic [ref=e226]:
+                - text: RAF Henlow
+                - button "Select RAF Henlow on map" [ref=e227] [cursor=pointer]
+              - button "Base details for RAF Henlow" [ref=e230] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e231]: for RAF Henlow
+            - generic [ref=e233]:
+              - generic [ref=e234]:
+                - text: RAF High Wycombe
+                - button "Select RAF High Wycombe on map" [ref=e235] [cursor=pointer]
+              - button "Base details for RAF High Wycombe" [ref=e238] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e239]: for RAF High Wycombe
+            - generic [ref=e241]:
+              - generic [ref=e242]:
+                - text: RAF Holbeach (Bombing Range)
+                - button "Select RAF Holbeach (Bombing Range) on map" [ref=e243] [cursor=pointer]
+              - button "Base details for RAF Holbeach (Bombing Range)" [ref=e246] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e247]: for RAF Holbeach (Bombing Range)
+            - generic [ref=e249]:
+              - generic [ref=e250]:
+                - text: RAF Honington
+                - button "Select RAF Honington on map" [ref=e251] [cursor=pointer]
+              - button "Base details for RAF Honington" [ref=e254] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e255]: for RAF Honington
+            - generic [ref=e257]:
+              - generic [ref=e258]:
+                - text: RAF Kirton in Lindsey
+                - button "Select RAF Kirton in Lindsey on map" [ref=e259] [cursor=pointer]
+              - button "Base details for RAF Kirton in Lindsey" [ref=e262] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e263]: for RAF Kirton in Lindsey
+            - generic [ref=e265]:
+              - generic [ref=e266]:
+                - text: RAF Leeming
+                - button "Select RAF Leeming on map" [ref=e267] [cursor=pointer]
+              - button "Base details for RAF Leeming" [ref=e270] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e271]: for RAF Leeming
+            - generic [ref=e273]:
+              - generic [ref=e274]:
+                - text: RAF Linton-on-Ouse
+                - button "Select RAF Linton-on-Ouse on map" [ref=e275] [cursor=pointer]
+              - button "Base details for RAF Linton-on-Ouse" [ref=e278] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e279]: for RAF Linton-on-Ouse
+            - generic [ref=e281]:
+              - generic [ref=e282]:
+                - text: RAF Lossiemouth
+                - button "Select RAF Lossiemouth on map" [ref=e283] [cursor=pointer]
+              - button "Base details for RAF Lossiemouth" [ref=e286] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e287]: for RAF Lossiemouth
+            - generic [ref=e289]:
+              - generic [ref=e290]:
+                - text: RAF Marham
+                - button "Select RAF Marham on map" [ref=e291] [cursor=pointer]
+              - button "Base details for RAF Marham" [ref=e294] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e295]: for RAF Marham
+            - generic [ref=e297]:
+              - generic [ref=e298]:
+                - text: RAF Menwith Hill
+                - button "Select RAF Menwith Hill on map" [ref=e299] [cursor=pointer]
+              - button "Base details for RAF Menwith Hill" [ref=e302] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e303]: for RAF Menwith Hill
+            - generic [ref=e305]:
+              - generic [ref=e306]:
+                - text: RAF Mount Pleasant, Falkland Islands
+                - button "Select RAF Mount Pleasant, Falkland Islands on map" [ref=e307] [cursor=pointer]
+              - button "Base details for RAF Mount Pleasant, Falkland Islands" [ref=e310] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e311]: for RAF Mount Pleasant, Falkland Islands
+            - generic [ref=e313]:
+              - generic [ref=e314]:
+                - text: RAF Northolt
+                - button "Select RAF Northolt on map" [ref=e315] [cursor=pointer]
+              - button "Base details for RAF Northolt" [ref=e318] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e319]: for RAF Northolt
+            - generic [ref=e321]:
+              - generic [ref=e322]:
+                - text: RAF Odiham
+                - button "Select RAF Odiham on map" [ref=e323] [cursor=pointer]
+              - button "Base details for RAF Odiham" [ref=e326] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e327]: for RAF Odiham
+            - generic [ref=e329]:
+              - generic [ref=e330]:
+                - text: RAF Prestwick
+                - button "Select RAF Prestwick on map" [ref=e331] [cursor=pointer]
+              - button "Base details for RAF Prestwick" [ref=e334] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e335]: for RAF Prestwick
+            - generic [ref=e337]:
+              - generic [ref=e338]:
+                - text: RAF Scampton
+                - button "Select RAF Scampton on map" [ref=e339] [cursor=pointer]
+              - button "Base details for RAF Scampton" [ref=e342] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e343]: for RAF Scampton
+            - generic [ref=e345]:
+              - generic [ref=e346]:
+                - text: RAF Shawbury
+                - button "Select RAF Shawbury on map" [ref=e347] [cursor=pointer]
+              - button "Base details for RAF Shawbury" [ref=e350] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e351]: for RAF Shawbury
+            - generic [ref=e353]:
+              - generic [ref=e354]:
+                - text: RAF Spadeadam
+                - button "Select RAF Spadeadam on map" [ref=e355] [cursor=pointer]
+              - button "Base details for RAF Spadeadam" [ref=e358] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e359]: for RAF Spadeadam
+            - generic [ref=e361]:
+              - generic [ref=e362]:
+                - text: RAF St Mawgan
+                - button "Select RAF St Mawgan on map" [ref=e363] [cursor=pointer]
+              - button "Base details for RAF St Mawgan" [ref=e366] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e367]: for RAF St Mawgan
+            - generic [ref=e369]:
+              - generic [ref=e370]:
+                - text: RAF Syerston
+                - button "Select RAF Syerston on map" [ref=e371] [cursor=pointer]
+              - button "Base details for RAF Syerston" [ref=e374] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e375]: for RAF Syerston
+            - generic [ref=e377]:
+              - generic [ref=e378]:
+                - text: RAF Tain (Bombing Range)
+                - button "Select RAF Tain (Bombing Range) on map" [ref=e379] [cursor=pointer]
+              - button "Base details for RAF Tain (Bombing Range)" [ref=e382] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e383]: for RAF Tain (Bombing Range)
+            - generic [ref=e385]:
+              - generic [ref=e386]:
+                - text: RAF Valley
+                - button "Select RAF Valley on map" [ref=e387] [cursor=pointer]
+              - button "Base details for RAF Valley" [ref=e390] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e391]: for RAF Valley
+            - generic [ref=e393]:
+              - generic [ref=e394]:
+                - text: RAF Waddington
+                - button "Select RAF Waddington on map" [ref=e395] [cursor=pointer]
+              - button "Base details for RAF Waddington" [ref=e398] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e399]: for RAF Waddington
+            - generic [ref=e401]:
+              - generic [ref=e402]:
+                - text: RAF Wittering
+                - button "Select RAF Wittering on map" [ref=e403] [cursor=pointer]
+              - button "Base details for RAF Wittering" [ref=e406] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e407]: for RAF Wittering
+            - generic [ref=e409]:
+              - generic [ref=e410]:
+                - text: RAF Woodvale
+                - button "Select RAF Woodvale on map" [ref=e411] [cursor=pointer]
+              - button "Base details for RAF Woodvale" [ref=e414] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e415]: for RAF Woodvale
+            - generic [ref=e417]:
+              - generic [ref=e418]:
+                - text: RAF Wyton – Brampton
+                - button "Select RAF Wyton – Brampton on map" [ref=e419] [cursor=pointer]
+              - button "Base details for RAF Wyton – Brampton" [ref=e422] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e423]: for RAF Wyton – Brampton
+            - generic [ref=e425]:
+              - generic [ref=e426]:
+                - text: RMB Chivenor
+                - button "Select RMB Chivenor on map" [ref=e427] [cursor=pointer]
+              - button "Base details for RMB Chivenor" [ref=e430] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e431]: for RMB Chivenor
+            - generic [ref=e433]:
+              - generic [ref=e434]:
+                - text: RRH Benbecula
+                - button "Select RRH Benbecula on map" [ref=e435] [cursor=pointer]
+              - button "Base details for RRH Benbecula" [ref=e438] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e439]: for RRH Benbecula
+            - generic [ref=e441]:
+              - generic [ref=e442]:
+                - text: RRH Buchan
+                - button "Select RRH Buchan on map" [ref=e443] [cursor=pointer]
+              - button "Base details for RRH Buchan" [ref=e446] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e447]: for RRH Buchan
+            - generic [ref=e449]:
+              - generic [ref=e450]:
+                - text: RRH Neatishead
+                - button "Select RRH Neatishead on map" [ref=e451] [cursor=pointer]
+              - button "Base details for RRH Neatishead" [ref=e454] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e455]: for RRH Neatishead
+            - generic [ref=e457]:
+              - generic [ref=e458]:
+                - text: RRH Portreath
+                - button "Select RRH Portreath on map" [ref=e459] [cursor=pointer]
+              - button "Base details for RRH Portreath" [ref=e462] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e463]: for RRH Portreath
+            - generic [ref=e465]:
+              - generic [ref=e466]:
+                - text: RRH Saxa Vord
+                - button "Select RRH Saxa Vord on map" [ref=e467] [cursor=pointer]
+              - button "Base details for RRH Saxa Vord" [ref=e470] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e471]: for RRH Saxa Vord
+            - generic [ref=e473]:
+              - generic [ref=e474]:
+                - text: RRH Staxton Wold
+                - button "Select RRH Staxton Wold on map" [ref=e475] [cursor=pointer]
+              - button "Base details for RRH Staxton Wold" [ref=e478] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e479]: for RRH Staxton Wold
+            - generic [ref=e481]:
+              - generic [ref=e482]:
+                - text: Wattisham Airfield
+                - button "Select Wattisham Airfield on map" [ref=e483] [cursor=pointer]
+              - button "Base details for Wattisham Airfield" [ref=e486] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e487]: for Wattisham Airfield
+            - generic [ref=e489]:
+              - generic [ref=e490]:
+                - text: Weston-on-the-Green
+                - button "Select Weston-on-the-Green on map" [ref=e491] [cursor=pointer]
+              - button "Base details for Weston-on-the-Green" [ref=e494] [cursor=pointer]:
+                - text: Base details
+                - generic [ref=e495]: for Weston-on-the-Green
+        - generic [ref=e497]:
+          - generic:
+            - button "Keyboard shortcuts"
+          - region "Map" [ref=e498]
+          - generic [ref=e499]:
+            - generic [ref=e669]:
+              - generic:
+                - generic:
+                  - button [ref=e671] [cursor=pointer]
+                  - button [ref=e672] [cursor=pointer]
+                  - button [ref=e673] [cursor=pointer]
+                  - button [ref=e674] [cursor=pointer]
+                  - button [ref=e675] [cursor=pointer]
+                  - button [ref=e676] [cursor=pointer]
+                  - button [ref=e677] [cursor=pointer]
+                  - button [ref=e678] [cursor=pointer]
+                  - button [ref=e679] [cursor=pointer]
+                  - button [ref=e680] [cursor=pointer]
+                  - button [ref=e681] [cursor=pointer]
+                  - button [ref=e682] [cursor=pointer]
+                  - button [ref=e683] [cursor=pointer]
+                  - button [ref=e684] [cursor=pointer]
+                  - button [ref=e685] [cursor=pointer]
+                  - button [ref=e686] [cursor=pointer]
+                  - button [ref=e687] [cursor=pointer]
+                  - button [ref=e688] [cursor=pointer]
+                  - button [ref=e689] [cursor=pointer]
+                  - button [ref=e690] [cursor=pointer]
+                  - button [ref=e691] [cursor=pointer]
+                  - button [ref=e692] [cursor=pointer]
+                  - button [ref=e693] [cursor=pointer]
+                  - button [ref=e694] [cursor=pointer]
+                  - button [ref=e695] [cursor=pointer]
+                  - button [ref=e696] [cursor=pointer]
+                  - button [ref=e697] [cursor=pointer]
+                  - button [ref=e698] [cursor=pointer]
+                  - button [ref=e699] [cursor=pointer]
+                  - button [ref=e700] [cursor=pointer]
+                  - button [ref=e701] [cursor=pointer]
+                  - button [ref=e702] [cursor=pointer]
+                  - button [ref=e703] [cursor=pointer]
+                  - button [ref=e704] [cursor=pointer]
+                  - button [ref=e705] [cursor=pointer]
+                  - button [ref=e706] [cursor=pointer]
+                  - button [ref=e707] [cursor=pointer]
+                  - button [ref=e708] [cursor=pointer]
+                  - button [ref=e709] [cursor=pointer]
+                  - button [ref=e710] [cursor=pointer]
+                  - button [ref=e711] [cursor=pointer]
+                  - button [ref=e712] [cursor=pointer]
+                  - button [ref=e713] [cursor=pointer]
+                  - button [ref=e714] [cursor=pointer]
+                  - button [ref=e715] [cursor=pointer]
+                  - button [ref=e716] [cursor=pointer]
+                  - button [ref=e717] [cursor=pointer]
+                  - button [ref=e718] [cursor=pointer]
+                  - button [ref=e719] [cursor=pointer]
+                  - button [ref=e720] [cursor=pointer]
+                  - button [ref=e721] [cursor=pointer]
+                  - button [ref=e722] [cursor=pointer]
+                  - button [ref=e723] [cursor=pointer]
+                  - button [ref=e724] [cursor=pointer]
+                  - button [ref=e725] [cursor=pointer]
+                  - button [ref=e726] [cursor=pointer]
+            - iframe [ref=e727]:
+              
+            - button "Map camera controls" [ref=e729] [cursor=pointer]
+            - link "Open this area in Google Maps (opens a new window)" [ref=e731] [cursor=pointer]:
+              - /url: https://maps.google.com/maps?ll=55.378051,-3.435973&z=5&t=m&hl=en-US&gl=US&mapclient=apiv3
+              - img "Google" [ref=e733]
+            - generic [ref=e734]:
+              - button "Keyboard shortcuts" [ref=e740] [cursor=pointer]
+              - generic [ref=e745]: Map data ©2026 GeoBasis-DE/BKG (©2009), Google, Inst. Geogr. Nacional
+              - link "Terms (opens in new tab)" [ref=e750] [cursor=pointer]:
+                - /url: https://www.google.com/intl/en-US_US/help/terms_maps.html
+                - text: Terms
+      - generic [ref=e751]:
+        - heading "HAVE A QUESTION?" [level=2] [ref=e752]
+        - paragraph [ref=e754]: Live chat is with a human not a bot
+        - generic [ref=e755]:
+          - link "Live chat" [ref=e756] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact us" [ref=e757] [cursor=pointer]:
+            - /url: /contact/
+  - contentinfo [ref=e758]:
+    - contentinfo "RAF footer navigation" [ref=e759]:
+      - generic [ref=e760]:
+        - list [ref=e762]:
+          - listitem [ref=e763]:
+            - link "LIFE IN THE RAF" [ref=e764] [cursor=pointer]:
+              - /url: /life-in-the-raf
+          - listitem [ref=e765]:
+            - link "CAREERS & BENEFITS" [ref=e766] [cursor=pointer]:
+              - /url: /career-and-benefits
+          - listitem [ref=e767]:
+            - link "FIND YOUR ROLE" [ref=e768] [cursor=pointer]:
+              - /url: /find-your-role
+          - listitem [ref=e769]:
+            - link "APPLY NOW" [ref=e770] [cursor=pointer]:
+              - /url: /apply
+          - listitem [ref=e771]:
+            - link "RAF main websiteup-arrow icon indicating link opens in new window" [ref=e772] [cursor=pointer]:
+              - /url: https://www.raf.mod.uk?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Four-bases
+              - text: RAF main website
+              - img "up-arrow icon indicating link opens in new window" [ref=e773]
+          - listitem [ref=e774]:
+            - link "Air Cadetsup-arrow icon indicating link opens in new window" [ref=e775] [cursor=pointer]:
+              - /url: https://www.raf.mod.uk/aircadets/?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Four-bases
+              - text: Air Cadets
+              - img "up-arrow icon indicating link opens in new window" [ref=e776]
+          - listitem [ref=e777]:
+            - link "Events near you" [ref=e778] [cursor=pointer]:
+              - /url: /contact/events
+          - listitem [ref=e779]:
+            - link "Contact us" [ref=e780] [cursor=pointer]:
+              - /url: /contact
+        - list [ref=e782]:
+          - listitem [ref=e783]:
+            - link "Diversity & Inclusion" [ref=e784] [cursor=pointer]:
+              - /url: /diversity-and-inclusion
+          - listitem [ref=e785]:
+            - link "RAF Fitness" [ref=e786] [cursor=pointer]:
+              - /url: /fitness-in-the-raf
+          - listitem [ref=e787]:
+            - link "University Air Squadrons" [ref=e788] [cursor=pointer]:
+              - /url: /university-air-squadrons
+          - listitem [ref=e789]:
+            - link "Apprenticeships" [ref=e790] [cursor=pointer]:
+              - /url: /apprenticeships
+          - listitem [ref=e791]:
+            - link "Rejoiners & Transferees" [ref=e792] [cursor=pointer]:
+              - /url: /how-to-apply/rejoiners-and-inter-service-transfer
+          - listitem [ref=e793]:
+            - link "Reserves" [ref=e794] [cursor=pointer]:
+              - /url: /reserves
+          - listitem [ref=e795]:
+            - link "Sponsorship" [ref=e796] [cursor=pointer]:
+              - /url: /sponsorship
+        - list [ref=e798]:
+          - listitem [ref=e799]:
+            - link "Aircrew" [ref=e800] [cursor=pointer]:
+              - /url: /aircrew
+          - listitem [ref=e801]:
+            - link "Air & Space Ops" [ref=e802] [cursor=pointer]:
+              - /url: /air-space-operations
+          - listitem [ref=e803]:
+            - link "Cyberspace" [ref=e804] [cursor=pointer]:
+              - /url: /cyberspace
+          - listitem [ref=e805]:
+            - link "Engineering" [ref=e806] [cursor=pointer]:
+              - /url: /engineering
+          - listitem [ref=e807]:
+            - link "Ground Combat & Security" [ref=e808] [cursor=pointer]:
+              - /url: /ground-combat-security
+          - listitem [ref=e809]:
+            - link "Hospitality" [ref=e810] [cursor=pointer]:
+              - /url: /hospitality
+          - listitem [ref=e811]:
+            - link "Intelligence" [ref=e812] [cursor=pointer]:
+              - /url: /intelligence
+          - listitem [ref=e813]:
+            - link "Logistics" [ref=e814] [cursor=pointer]:
+              - /url: /logistics
+          - listitem [ref=e815]:
+            - link "Medical Services" [ref=e816] [cursor=pointer]:
+              - /url: /medical-services
+          - listitem [ref=e817]:
+            - link "People Ops" [ref=e818] [cursor=pointer]:
+              - /url: /people-operations
+        - generic [ref=e819]:
+          - img "Top 100 Apprenticeships 2024" [ref=e821]
+          - generic [ref=e822]:
+            - link "Visit RAF Recruitment on Facebook (opens in new tab)" [ref=e823] [cursor=pointer]:
+              - /url: https://www.facebook.com/RAFRecruitment
+              - img [ref=e824]
+            - link "Visit RAF Recruitment on Instagram (opens in new tab)" [ref=e825] [cursor=pointer]:
+              - /url: http://instagram.com/rafrecruitment
+              - img [ref=e826]
+            - link "Visit RAF Recruitment on YouTube (opens in new tab)" [ref=e827] [cursor=pointer]:
+              - /url: http://www.youtube.com/user/royalairforce
+              - img [ref=e828]
+      - generic [ref=e829]:
+        - list [ref=e830]:
+          - listitem [ref=e831]:
+            - link "Sitemap" [ref=e832] [cursor=pointer]:
+              - /url: /information/sitemap
+          - listitem [ref=e833]:
+            - link "Cookies & Privacy" [ref=e834] [cursor=pointer]:
+              - /url: /information/privacy-cookies
+          - listitem [ref=e835]:
+            - link "Accessibility" [ref=e836] [cursor=pointer]:
+              - /url: /information/accessibility
+        - generic [ref=e837]: © 2026 Royal Air Force — Regular & Reserve UK Crown copyright.
+  - link "View favourite roles" [ref=e839] [cursor=pointer]:
+    - /url: /roles-in-the-raf?favourites-at-top&gotofavourites
+    - text: Favourites
+  - generic [ref=e840] [cursor=pointer]:
+    - button "Open Preferences" [ref=e842]:
+      - img [ref=e844]
+    - text: Manage Preferences

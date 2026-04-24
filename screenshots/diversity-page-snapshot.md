@@ -1,0 +1,266 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#raf-app"
+    - banner [ref=e4]:
+      - link "Royal Air Force - Regular & Reserve Go to home page" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Royal Air Force - Regular & Reserve" [ref=e7]
+        - generic [ref=e8]: Go to home page
+      - button "Open menu" [ref=e10] [cursor=pointer]
+  - main [ref=e12]:
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - heading "DIVERSITY & INCLUSION" [level=1] [ref=e16]:
+          - generic [ref=e17]: DIVERSITY &
+          - generic [ref=e18]: INCLUSION
+        - img "RAF personnel in camouflage uniform, stood relaxed and smiling on sports pitch" [ref=e20]
+      - generic [ref=e22]: Our Service ethos is founded on strong leadership, unwavering professional and personal standards, and a steadfast dedication to the well-being of every individual. Inclusion is not, therefore, simply a goal - it is essential to our success.
+      - generic [ref=e23]:
+        - heading "A FORCE FOR INCLUSION" [level=2] [ref=e24]:
+          - generic [ref=e25]: A FORCE FOR
+          - generic [ref=e26]: INCLUSION
+        - generic [ref=e27]:
+          - generic [ref=e28]: When individuals feel included, they are more engaged, have higher morale and are more likely to continue their service for longer.
+          - generic [ref=e29]: These benefits are key to enabling us to always be ready to fly and fight. By embracing and recognising the diverse backgrounds and perspectives within our workforce, we empower our teams and ensure our people bring their best self to work – whether in the air, on the ground, or in the support roles which underpin our operational capability.
+          - generic [ref=e30]: This commitment applies to everyone, regardless of rank or grade or background
+      - generic [ref=e31]:
+        - generic [ref=e34]:
+          - heading "\"I know from my own experience that the Royal Air Force truly offers a remarkable opportunity and an exciting career no matter what your background. Everyone is welcome, and everyone can discover – and reach – their full potential as a part of our team.\"" [level=3] [ref=e35]
+          - paragraph [ref=e37]: Air Vice-Marshal Simon Edwards, Director of People, RAF
+        - img "Social Mobility Foundation Top 75 Employer Index 2023 - award logo" [ref=e40]
+      - generic [ref=e41]:
+        - button "Play video" [ref=e43] [cursor=pointer]
+        - heading "Diversity and Inclusion" [level=3] [ref=e44]
+        - generic [ref=e45]: We ensure everyone feels valued, defined by their achievements not cliches. Every role is open to everyone, from spare time to the front line.
+      - generic [ref=e46]:
+        - generic [ref=e49]:
+          - heading "Diversity and Inclusion" [level=3] [ref=e50]
+          - generic [ref=e51]:
+            - paragraph [ref=e52]: We live and operate in close-knit communities where we rely on each other for support. The RAF family is rich in diversity and culture, and it’s important that we value and respect everyone.
+            - paragraph [ref=e53]: "To make sure everyone feels safe and included, we provide a range of services and support, including staff networks which play a crucial role in promoting change, role modelling, mentoring circles and coaching. We also provide specific support to those that would benefit:"
+        - img "RAF recruit in camouflage uniform shaking hands with RAF Physical Training Instructor on sports pitch" [ref=e56]
+      - generic [ref=e58]:
+        - generic [ref=e60]:
+          - paragraph [ref=e61]:
+            - strong [ref=e62]: Women
+          - paragraph [ref=e63]: The RAF has the highest percentage of women compared to the other British Armed Forces and we are working hard to make sure that it is a place where everyone is treated equally.
+          - paragraph [ref=e64]
+          - paragraph [ref=e65]:
+            - strong [ref=e66]: LGBTQ+
+          - paragraph [ref=e67]: It’s been over 20 years since the ban of LGBTQ people in the forces was lifted. Since that time members of the LGBTQ community have entered the RAF in countless roles and we ensure everyone is supported with LGBTQ networks on the majority of bases.
+          - paragraph [ref=e68]
+          - paragraph [ref=e69]:
+            - strong [ref=e70]: Disability
+          - paragraph [ref=e71]: We have an established disability network and we offer a range of provisions dependent on individual needs.
+        - generic [ref=e73]:
+          - paragraph [ref=e74]:
+            - strong [ref=e75]: Religion and Belief
+          - paragraph [ref=e76]: As long as your religious beliefs are legal and don’t disrespect or compromise the safety of the team, you are free to practise any religion. RAF Commissioned and Civil Service Chaplains are authorised leaders from the major world religions and provide pastoral and spiritual care for all personnel, and their dependents, irrespective of religious belief or status. Network support is available for both religious and non-denominational beliefs.
+          - paragraph [ref=e77]
+          - paragraph [ref=e78]:
+            - strong [ref=e79]: Ethnicity
+          - paragraph [ref=e80]: The UK is an eclectic mix of ethnicities and cultures, and we want the RAF to reflect the society which it serves. We understand that people’s history is important and we continue to review and adjust our uniform rules so that individuals can more easily express their cultural heritage within the forces.
+          - paragraph [ref=e81]: We are constantly striving towards creating an environment that is welcoming and productive. Our open culture encourages serving members to speak out about what we are doing right and where we can improve. These conversations are an opportunity for the RAF to grow, change and become more inclusive.
+      - heading "READ OUR DIVERSITY & INCLUSION POLICIES" [level=2] [ref=e83]:
+        - generic [ref=e84]: READ OUR DIVERSITY &
+        - generic [ref=e85]: INCLUSION POLICIES
+      - generic [ref=e87]:
+        - link "Defence Diversity & Inclusion Strategy" [ref=e88] [cursor=pointer]:
+          - /url: /recruitment/media/3900/20200703-mod_di-plan_a4_v14_final-u.pdf
+        - link "RAF ethos, core values & standards" [ref=e89] [cursor=pointer]:
+          - /url: /media/ig5dhw0z/20200703-raf_ap1_2019_rev_3_page_spreads.pdf
+      - generic [ref=e90]:
+        - heading "TAKE YOUR NEXT STEP" [level=2] [ref=e92]:
+          - generic [ref=e93]: TAKE YOUR
+          - generic [ref=e94]: NEXT STEP
+        - generic [ref=e95]: There’s a place for you here, we have a role for you. Discover more about some of our featured roles below.
+        - region "Roles carousel" [ref=e96]:
+          - generic [ref=e97]:
+            - generic [ref=e101]:
+              - link "Supply Chain Specialist" [ref=e102] [cursor=pointer]:
+                - /url: /roles/roles-finder/logistics/supply-chain-specialist/
+              - generic [ref=e104]:
+                - generic [ref=e105]: Logistics
+                - generic [ref=e106]: Supply Chain Specialist
+                - button "Add to favourites" [ref=e107] [cursor=pointer]
+                - generic [ref=e108]: Transport & vehicles Analysis & maths Helping people
+            - generic [ref=e109]:
+              - button "Previous slide" [ref=e111] [cursor=pointer]
+              - link "View all roles" [ref=e112] [cursor=pointer]:
+                - /url: /find-your-role/
+              - button "Next slide" [ref=e114] [cursor=pointer]
+      - generic [ref=e115]:
+        - heading "WHY JOIN THE RAF?" [level=2] [ref=e116]:
+          - generic [ref=e117]: WHY JOIN
+          - generic [ref=e118]: THE RAF?
+        - paragraph [ref=e120]: Thanks to subsidised food, travel, accommodation and free gym you get more money in your pocket.
+        - img "bar chart depicting difference in benefits value and salary vs civilian recruiter" [ref=e122]
+        - generic [ref=e123]:
+          - generic [ref=e124]:
+            - img "Benefits icon for Rent from £75p/m" [ref=e126]
+            - generic [ref=e127]: Rent from £75p/m
+          - generic [ref=e128]:
+            - img "Benefits icon for Free gym" [ref=e130]
+            - generic [ref=e131]: Free gym
+          - generic [ref=e132]:
+            - img "Benefits icon for Subsidised food" [ref=e134]
+            - generic [ref=e135]: Subsidised food
+          - generic [ref=e136]:
+            - img "Benefits icon for Health care" [ref=e138]
+            - generic [ref=e139]: Health care
+          - generic [ref=e140]:
+            - img "Benefits icon for World travel" [ref=e142]
+            - generic [ref=e143]: World travel
+          - generic [ref=e144]:
+            - img "Benefits icon for Training" [ref=e146]
+            - generic [ref=e147]: Training
+        - link "View all benefits" [ref=e149] [cursor=pointer]:
+          - /url: /career-and-benefits/
+      - generic [ref=e150]:
+        - heading "FAQs" [level=2] [ref=e151]:
+          - generic [ref=e153]: FAQs
+        - region "Accordion Section" [ref=e155]:
+          - generic [ref=e156]:
+            - button "How do I find a role that’s right for me?" [expanded] [ref=e157] [cursor=pointer]:
+              - heading "How do I find a role that’s right for me?" [level=3] [ref=e158]
+            - paragraph [ref=e161]:
+              - text: There are a number of ways to find a career path with the RAF. The
+              - link "Find Your Role" [ref=e162] [cursor=pointer]:
+                - /url: "#"
+              - text: section of the website will help guide you through roles that are right for your skills. Our recruitment centres (Armed Forces Careers Offices or AFCOs) are staffed with a friendly team who are ready to answer your questions and provide personal advice about which roles could suit you best, you can find your local centre
+              - link "here" [ref=e163] [cursor=pointer]:
+                - /url: "#"
+              - text: .
+          - button "What training is available?" [ref=e165] [cursor=pointer]:
+            - heading "What training is available?" [level=3] [ref=e166]
+          - button "How often am I likely to be deployed abroad?" [ref=e168] [cursor=pointer]:
+            - heading "How often am I likely to be deployed abroad?" [level=3] [ref=e169]
+          - button "How is the RAF committed to diversity and inclusion?" [ref=e171] [cursor=pointer]:
+            - heading "How is the RAF committed to diversity and inclusion?" [level=3] [ref=e172]
+          - button "Am I able to practice any religion in the RAF?" [ref=e174] [cursor=pointer]:
+            - heading "Am I able to practice any religion in the RAF?" [level=3] [ref=e175]
+      - generic [ref=e176]:
+        - heading "HAVE A QUESTION?" [level=2] [ref=e177]
+        - paragraph [ref=e179]: Live chat is with a human not a bot
+        - generic [ref=e180]:
+          - link "Live chat" [ref=e181] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact us" [ref=e182] [cursor=pointer]:
+            - /url: /contact/
+  - contentinfo [ref=e183]:
+    - contentinfo "RAF footer navigation" [ref=e184]:
+      - generic [ref=e185]:
+        - generic [ref=e186]:
+          - list [ref=e187]:
+            - listitem [ref=e188]:
+              - link "LIFE IN THE RAF" [ref=e189] [cursor=pointer]:
+                - /url: /life-in-the-raf
+            - listitem [ref=e190]:
+              - link "CAREERS & BENEFITS" [ref=e191] [cursor=pointer]:
+                - /url: /career-and-benefits
+            - listitem [ref=e192]:
+              - link "FIND YOUR ROLE" [ref=e193] [cursor=pointer]:
+                - /url: /find-your-role
+            - listitem [ref=e194]:
+              - link "APPLY NOW" [ref=e195] [cursor=pointer]:
+                - /url: /apply
+          - list [ref=e196]:
+            - listitem [ref=e197]:
+              - link "Diversity & Inclusion" [ref=e198] [cursor=pointer]:
+                - /url: /diversity-and-inclusion
+            - listitem [ref=e199]:
+              - link "RAF Fitness" [ref=e200] [cursor=pointer]:
+                - /url: /fitness-in-the-raf
+            - listitem [ref=e201]:
+              - link "University Air Squadrons" [ref=e202] [cursor=pointer]:
+                - /url: /university-air-squadrons
+            - listitem [ref=e203]:
+              - link "RAF main websiteopens in new tab" [ref=e204] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fdiversity-and-inclusion
+                - text: RAF main website
+                - img "opens in new tab" [ref=e205]
+            - listitem [ref=e206]:
+              - link "Air Cadetsopens in new tab" [ref=e207] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk/aircadets/?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fdiversity-and-inclusion
+                - text: Air Cadets
+                - img "opens in new tab" [ref=e208]
+            - listitem [ref=e209]:
+              - link "Events near you" [ref=e210] [cursor=pointer]:
+                - /url: /contact/events
+            - listitem [ref=e211]:
+              - link "Contact us" [ref=e212] [cursor=pointer]:
+                - /url: /contact
+        - list [ref=e214]:
+          - listitem [ref=e215]:
+            - link "Apprenticeships" [ref=e216] [cursor=pointer]:
+              - /url: /apprenticeships
+          - listitem [ref=e217]:
+            - link "Rejoiners & Transferees" [ref=e218] [cursor=pointer]:
+              - /url: /how-to-apply/rejoiners-and-inter-service-transfer
+          - listitem [ref=e219]:
+            - link "Reserves" [ref=e220] [cursor=pointer]:
+              - /url: /reserves
+          - listitem [ref=e221]:
+            - link "Sponsorship" [ref=e222] [cursor=pointer]:
+              - /url: /sponsorship
+          - listitem [ref=e223]:
+            - link "Aircrew" [ref=e224] [cursor=pointer]:
+              - /url: /aircrew
+          - listitem [ref=e225]:
+            - link "Air & Space Ops" [ref=e226] [cursor=pointer]:
+              - /url: /air-space-operations
+          - listitem [ref=e227]:
+            - link "Cyberspace" [ref=e228] [cursor=pointer]:
+              - /url: /cyberspace
+          - listitem [ref=e229]:
+            - link "Engineering" [ref=e230] [cursor=pointer]:
+              - /url: /engineering
+          - listitem [ref=e231]:
+            - link "Ground Combat & Security" [ref=e232] [cursor=pointer]:
+              - /url: /ground-combat-security
+          - listitem [ref=e233]:
+            - link "Hospitality" [ref=e234] [cursor=pointer]:
+              - /url: /hospitality
+          - listitem [ref=e235]:
+            - link "Intelligence" [ref=e236] [cursor=pointer]:
+              - /url: /intelligence
+          - listitem [ref=e237]:
+            - link "Logistics" [ref=e238] [cursor=pointer]:
+              - /url: /logistics
+          - listitem [ref=e239]:
+            - link "Medical Services" [ref=e240] [cursor=pointer]:
+              - /url: /medical-services
+          - listitem [ref=e241]:
+            - link "People Ops" [ref=e242] [cursor=pointer]:
+              - /url: /people-operations
+        - generic [ref=e243]:
+          - img "Top 100 Apprenticeships 2024" [ref=e245]
+          - generic [ref=e246]:
+            - link "Visit RAF Recruitment on Facebook (opens in new tab)" [ref=e247] [cursor=pointer]:
+              - /url: https://www.facebook.com/RAFRecruitment
+              - img [ref=e248]
+            - link "Visit RAF Recruitment on Instagram (opens in new tab)" [ref=e249] [cursor=pointer]:
+              - /url: http://instagram.com/rafrecruitment
+              - img [ref=e250]
+            - link "Visit RAF Recruitment on YouTube (opens in new tab)" [ref=e251] [cursor=pointer]:
+              - /url: http://www.youtube.com/user/royalairforce
+              - img [ref=e252]
+      - generic [ref=e253]:
+        - list [ref=e254]:
+          - listitem [ref=e255]:
+            - link "Sitemap" [ref=e256] [cursor=pointer]:
+              - /url: /information/sitemap
+          - listitem [ref=e257]:
+            - link "Cookies & Privacy" [ref=e258] [cursor=pointer]:
+              - /url: /information/privacy-cookies
+          - listitem [ref=e259]:
+            - link "Accessibility" [ref=e260] [cursor=pointer]:
+              - /url: /information/accessibility
+        - generic [ref=e261]: © 2026 Royal Air Force — Regular & Reserve UK Crown copyright.
+  - link "View favourite roles" [ref=e263] [cursor=pointer]:
+    - /url: /roles-in-the-raf?favourites-at-top&gotofavourites
+  - generic [ref=e264] [cursor=pointer]:
+    - button "Open Preferences" [ref=e266]:
+      - img [ref=e267]
+    - text: Manage Preferences

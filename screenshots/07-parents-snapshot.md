@@ -1,0 +1,247 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#raf-app"
+    - banner [ref=e4]:
+      - link "Royal Air Force - Regular & Reserve Go to home page" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Royal Air Force - Regular & Reserve" [ref=e7]
+        - generic [ref=e8]: Go to home page
+      - navigation [ref=e9]:
+        - list [ref=e10]:
+          - listitem [ref=e11]:
+            - link "Life in the RAF" [ref=e12] [cursor=pointer]:
+              - /url: /life-in-the-raf
+          - listitem [ref=e13]:
+            - link "Careers & Benefits" [ref=e14] [cursor=pointer]:
+              - /url: /career-and-benefits
+          - listitem [ref=e15]:
+            - link "Find your role" [ref=e16] [cursor=pointer]:
+              - /url: /find-your-role
+          - listitem [ref=e17]:
+            - link "Apply now" [ref=e18] [cursor=pointer]:
+              - /url: /apply
+          - listitem [ref=e19]:
+            - button "GET IN TOUCH" [ref=e20] [cursor=pointer]:
+              - text: GET IN TOUCH
+              - img [ref=e21]
+          - listitem [ref=e22]:
+            - link "Search this site" [ref=e23] [cursor=pointer]:
+              - /url: "#"
+              - text: Search
+              - img [ref=e24]
+  - main [ref=e26]:
+    - generic [ref=e28]:
+      - heading "PARENTS & GUARDIANS" [level=1] [ref=e30]:
+        - generic [ref=e31]: PARENTS &
+        - generic [ref=e32]: GUARDIANS
+      - generic [ref=e36]:
+        - heading "Related pages" [level=2] [ref=e37]
+        - generic [ref=e38]:
+          - paragraph [ref=e39]:
+            - link "Life in the RAF" [ref=e40] [cursor=pointer]:
+              - /url: /life-in-the-raf/
+          - paragraph [ref=e41]:
+            - link "Life as a Regular" [ref=e42] [cursor=pointer]:
+              - /url: /life-in-the-raf/life-as-a-regular/
+          - paragraph [ref=e43]:
+            - link "Life as a Reserve" [ref=e44] [cursor=pointer]:
+              - /url: /life-in-the-raf/life-as-a-reserve/
+          - paragraph [ref=e45]:
+            - link "Social, Sports and Adventure" [ref=e46] [cursor=pointer]:
+              - /url: /social-sports-and-adventure/
+      - generic [ref=e48]: The RAF is an inclusive organisation of military personnel working side-by-side to make a difference.
+      - generic [ref=e51]:
+        - heading "What will they do?" [level=3] [ref=e52]
+        - paragraph [ref=e54]: They’ll play a key role in one of the world’s most advanced military forces with the opportunity to be a part of everything, from preventing civil war to delivering humanitarian aid to hosting ceremonial events.
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - heading "Training" [level=3] [ref=e58]
+          - paragraph [ref=e60]: All of our trainees gain professional skills and qualifications with continuous learning, hands-on experience and training to enable them to perform at the top of their field.
+        - generic [ref=e61]:
+          - generic [ref=e62]: Recruit training
+          - paragraph [ref=e64]: Basic recruit training will prepare your family member for their role in the RAF, making them fitter and more confident over a period of 10 weeks at RAF Halton (Aviators entrants) or 24 weeks at RAF Cranwell (Officer entrants).
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - heading "Support in the RAF" [level=3] [ref=e67]
+          - paragraph [ref=e69]: They’ll be part of a large community where wellbeing is a priority. We know how essential wellbeing is to be fully effective in duties which is why advice and support services are always available wherever they’re needed.
+        - generic [ref=e70]:
+          - generic [ref=e71]: Parents' day
+          - paragraph [ref=e73]: Once they’ve been successful in their application you’ll receive an invitation to attend the Parent’s Day at RAF Halton or Cranwell. This is a day where you’ll get an insight into what the recruits will be going through over the next 10 weeks. There’ll also be a talk with the Squadron Commander, and a tour of the facilities available on site.
+      - generic [ref=e76]:
+        - heading "LIFE IN THE RAF" [level=2] [ref=e78]:
+          - generic [ref=e79]: LIFE IN
+          - generic [ref=e80]: THE RAF
+        - generic:
+          - generic [ref=e82]:
+            - paragraph [ref=e83]: Our RAF Regulars can be posted across the UK and to bases all over the world. They’ll do whatever’s needed to get the job done - the RAF isn’t a 9-5 job.
+            - paragraph [ref=e84]
+            - paragraph [ref=e85]: Because of this Personnel develop a great deal of trust and confidence in one another, building strong bonds and friendships in the process.
+          - generic [ref=e87]:
+            - paragraph [ref=e88]: Most bases are like small, self-contained towns with shops, gyms, playing fields, creches, post offices, cinemas and even bowling alleys.
+            - paragraph [ref=e89]
+            - paragraph [ref=e90]: Recruits will live in on-based accommodation during their initial 10-week training so they can get to know their new colleagues, work as a team and learn about the RAF.
+      - generic [ref=e92]:
+        - heading "FAQs" [level=2] [ref=e93]:
+          - generic [ref=e95]: FAQs
+        - region "Accordion Section" [ref=e97]:
+          - generic [ref=e98]:
+            - button "HOW LONG WILL MY FAMILY MEMBER BE AWAY FROM HOME FOR DURING TRAINING?" [expanded] [ref=e99] [cursor=pointer]:
+              - heading "HOW LONG WILL MY FAMILY MEMBER BE AWAY FROM HOME FOR DURING TRAINING?" [level=3] [ref=e100]
+            - paragraph [ref=e103]:
+              - text: Recruit training at RAF Halton lasts for 70 days and is split into six sections. To find out more about this please
+              - link "click here" [ref=e104] [cursor=pointer]:
+                - /url: "#"
+              - text: . For an Officer in the RAF, Initial Officer Training takes place at the RAF College Cranwell in Lincolnshire. This involves a challenging 24 week course designed to develop leadership and management skills. For information about training at RAF Cranwell please
+              - link "click here" [ref=e105] [cursor=pointer]:
+                - /url: "#"
+              - text: .
+          - button "WILL I BE ABLE TO CONTACT OR VISIT A FAMILY MEMBER DURING THEIR TIME AWAY?" [ref=e107] [cursor=pointer]:
+            - heading "WILL I BE ABLE TO CONTACT OR VISIT A FAMILY MEMBER DURING THEIR TIME AWAY?" [level=3] [ref=e108]
+          - button "WHAT HAPPENS IF A TRAINEE FALLS ILL OR IS INJURED DURING TRAINING?" [ref=e110] [cursor=pointer]:
+            - heading "WHAT HAPPENS IF A TRAINEE FALLS ILL OR IS INJURED DURING TRAINING?" [level=3] [ref=e111]
+          - button "ARE THERE BREAKS FOR MY FAMILY MEMBER TO RETURN HOME AT WEEKENDS OR DURING HOLIDAYS?" [ref=e113] [cursor=pointer]:
+            - heading "ARE THERE BREAKS FOR MY FAMILY MEMBER TO RETURN HOME AT WEEKENDS OR DURING HOLIDAYS?" [level=3] [ref=e114]
+          - button "WHAT IS THE STANCE ON BULLYING AND HARASSMENT?" [ref=e116] [cursor=pointer]:
+            - heading "WHAT IS THE STANCE ON BULLYING AND HARASSMENT?" [level=3] [ref=e117]
+          - button "WILL I BE ABLE TO VISIT MY FAMILY MEMBER DURING TRAINING?" [ref=e119] [cursor=pointer]:
+            - heading "WILL I BE ABLE TO VISIT MY FAMILY MEMBER DURING TRAINING?" [level=3] [ref=e120]
+          - button "ONCE TRAINING IS COMPLETE WHERE DO PERSONNEL LIVE?" [ref=e122] [cursor=pointer]:
+            - heading "ONCE TRAINING IS COMPLETE WHERE DO PERSONNEL LIVE?" [level=3] [ref=e123]
+          - button "WHAT QUALIFICATIONS WILL RECRUITS GAIN AND ARE THEY RECOGNISED BY CIVILIAN EMPLOYERS?" [ref=e125] [cursor=pointer]:
+            - heading "WHAT QUALIFICATIONS WILL RECRUITS GAIN AND ARE THEY RECOGNISED BY CIVILIAN EMPLOYERS?" [level=3] [ref=e126]
+          - button "RATHER THAN START AN RAF APPRENTICESHIP, SURELY MY SON OR DAUGHTER MUST START COLLEGE OR SIXTH-FORM IN SEPTEMBER IN LINE WITH GOVERNMENT POLICY?" [ref=e128] [cursor=pointer]:
+            - heading "RATHER THAN START AN RAF APPRENTICESHIP, SURELY MY SON OR DAUGHTER MUST START COLLEGE OR SIXTH-FORM IN SEPTEMBER IN LINE WITH GOVERNMENT POLICY?" [level=3] [ref=e129]
+          - button "ARE RAF APPRENTICESHIPS AS GOOD AS THOSE OF OTHER EMPLOYERS?" [ref=e131] [cursor=pointer]:
+            - heading "ARE RAF APPRENTICESHIPS AS GOOD AS THOSE OF OTHER EMPLOYERS?" [level=3] [ref=e132]
+      - generic [ref=e133]:
+        - heading "OUR GUIDE FOR PARENTS & GUARDIANS" [level=2] [ref=e134]
+        - link "View our guide" [ref=e136] [cursor=pointer]:
+          - /url: https://viewer.joomag.com/what-you-need-to-know-raf-parent-guide/0563607001558359371
+      - generic [ref=e140]:
+        - heading "\"The weekends are still great opportunities to see the people you care about. Not to mention the ability to take leave for time away from base.\"" [level=3] [ref=e141]
+        - paragraph [ref=e143]: Stephen (Cyberspace Communication Specialist)
+      - generic [ref=e146]:
+        - heading "HAVE A QUESTION?" [level=2] [ref=e147]
+        - paragraph [ref=e149]: Live chat is with a human not a bot
+        - generic [ref=e150]:
+          - link "Live chat" [ref=e151] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact us" [ref=e152] [cursor=pointer]:
+            - /url: /contact/
+  - contentinfo [ref=e153]:
+    - contentinfo "RAF footer navigation" [ref=e154]:
+      - generic [ref=e155]:
+        - list [ref=e157]:
+          - listitem [ref=e158]:
+            - link "LIFE IN THE RAF" [ref=e159] [cursor=pointer]:
+              - /url: /life-in-the-raf
+          - listitem [ref=e160]:
+            - link "CAREERS & BENEFITS" [ref=e161] [cursor=pointer]:
+              - /url: /career-and-benefits
+          - listitem [ref=e162]:
+            - link "FIND YOUR ROLE" [ref=e163] [cursor=pointer]:
+              - /url: /find-your-role
+          - listitem [ref=e164]:
+            - link "APPLY NOW" [ref=e165] [cursor=pointer]:
+              - /url: /apply
+          - listitem [ref=e166]:
+            - link "RAF main websiteup-arrow icon indicating link opens in new window" [ref=e167] [cursor=pointer]:
+              - /url: https://www.raf.mod.uk?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fparents-guardians
+              - text: RAF main website
+              - img "up-arrow icon indicating link opens in new window" [ref=e168]
+          - listitem [ref=e169]:
+            - link "Air Cadetsup-arrow icon indicating link opens in new window" [ref=e170] [cursor=pointer]:
+              - /url: https://www.raf.mod.uk/aircadets/?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fparents-guardians
+              - text: Air Cadets
+              - img "up-arrow icon indicating link opens in new window" [ref=e171]
+          - listitem [ref=e172]:
+            - link "Events near you" [ref=e173] [cursor=pointer]:
+              - /url: /contact/events
+          - listitem [ref=e174]:
+            - link "Contact us" [ref=e175] [cursor=pointer]:
+              - /url: /contact
+        - list [ref=e177]:
+          - listitem [ref=e178]:
+            - link "Diversity & Inclusion" [ref=e179] [cursor=pointer]:
+              - /url: /diversity-and-inclusion
+          - listitem [ref=e180]:
+            - link "RAF Fitness" [ref=e181] [cursor=pointer]:
+              - /url: /fitness-in-the-raf
+          - listitem [ref=e182]:
+            - link "University Air Squadrons" [ref=e183] [cursor=pointer]:
+              - /url: /university-air-squadrons
+          - listitem [ref=e184]:
+            - link "Apprenticeships" [ref=e185] [cursor=pointer]:
+              - /url: /apprenticeships
+          - listitem [ref=e186]:
+            - link "Rejoiners & Transferees" [ref=e187] [cursor=pointer]:
+              - /url: /how-to-apply/rejoiners-and-inter-service-transfer
+          - listitem [ref=e188]:
+            - link "Reserves" [ref=e189] [cursor=pointer]:
+              - /url: /reserves
+          - listitem [ref=e190]:
+            - link "Sponsorship" [ref=e191] [cursor=pointer]:
+              - /url: /sponsorship
+        - list [ref=e193]:
+          - listitem [ref=e194]:
+            - link "Aircrew" [ref=e195] [cursor=pointer]:
+              - /url: /aircrew
+          - listitem [ref=e196]:
+            - link "Air & Space Ops" [ref=e197] [cursor=pointer]:
+              - /url: /air-space-operations
+          - listitem [ref=e198]:
+            - link "Cyberspace" [ref=e199] [cursor=pointer]:
+              - /url: /cyberspace
+          - listitem [ref=e200]:
+            - link "Engineering" [ref=e201] [cursor=pointer]:
+              - /url: /engineering
+          - listitem [ref=e202]:
+            - link "Ground Combat & Security" [ref=e203] [cursor=pointer]:
+              - /url: /ground-combat-security
+          - listitem [ref=e204]:
+            - link "Hospitality" [ref=e205] [cursor=pointer]:
+              - /url: /hospitality
+          - listitem [ref=e206]:
+            - link "Intelligence" [ref=e207] [cursor=pointer]:
+              - /url: /intelligence
+          - listitem [ref=e208]:
+            - link "Logistics" [ref=e209] [cursor=pointer]:
+              - /url: /logistics
+          - listitem [ref=e210]:
+            - link "Medical Services" [ref=e211] [cursor=pointer]:
+              - /url: /medical-services
+          - listitem [ref=e212]:
+            - link "People Ops" [ref=e213] [cursor=pointer]:
+              - /url: /people-operations
+        - generic [ref=e214]:
+          - img "Top 100 Apprenticeships 2024" [ref=e216]
+          - generic [ref=e217]:
+            - link "Visit RAF Recruitment on Facebook (opens in new tab)" [ref=e218] [cursor=pointer]:
+              - /url: https://www.facebook.com/RAFRecruitment
+              - img [ref=e219]
+            - link "Visit RAF Recruitment on Instagram (opens in new tab)" [ref=e220] [cursor=pointer]:
+              - /url: http://instagram.com/rafrecruitment
+              - img [ref=e221]
+            - link "Visit RAF Recruitment on YouTube (opens in new tab)" [ref=e222] [cursor=pointer]:
+              - /url: http://www.youtube.com/user/royalairforce
+              - img [ref=e223]
+      - generic [ref=e224]:
+        - list [ref=e225]:
+          - listitem [ref=e226]:
+            - link "Sitemap" [ref=e227] [cursor=pointer]:
+              - /url: /information/sitemap
+          - listitem [ref=e228]:
+            - link "Cookies & Privacy" [ref=e229] [cursor=pointer]:
+              - /url: /information/privacy-cookies
+          - listitem [ref=e230]:
+            - link "Accessibility" [ref=e231] [cursor=pointer]:
+              - /url: /information/accessibility
+        - generic [ref=e232]: © 2026 Royal Air Force — Regular & Reserve UK Crown copyright.
+  - link "View favourite roles" [ref=e234] [cursor=pointer]:
+    - /url: /roles-in-the-raf?favourites-at-top&gotofavourites
+    - text: Favourites
+  - generic [ref=e235] [cursor=pointer]:
+    - button "Open Preferences" [ref=e237]:
+      - img [ref=e238]
+    - text: Manage Preferences

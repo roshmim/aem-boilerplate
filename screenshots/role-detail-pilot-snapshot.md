@@ -1,0 +1,616 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#raf-app"
+    - banner [ref=e4]:
+      - link "Royal Air Force - Regular & Reserve Go to home page" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Royal Air Force - Regular & Reserve" [ref=e7]
+        - generic [ref=e8]: Go to home page
+      - button "Open menu" [ref=e10] [cursor=pointer]
+  - main [ref=e12]:
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - heading "PILOT" [level=1] [ref=e16]:
+          - generic [ref=e17]: PILOT
+        - img "Image of a pilot getting into the cockpit" [ref=e20]
+        - text: Reserve
+      - generic [ref=e22]:
+        - generic [ref=e24]:
+          - generic [ref=e27]: CURRENTLY RECRUITING
+          - generic [ref=e28]: Aircraft Analysis & maths Gaming & computers
+          - generic [ref=e29]:
+            - generic [ref=e31]:
+              - generic [ref=e32]: INITIAL ANNUAL PAY DURING OFFICER TRAINING
+              - generic [ref=e33]: £34,600+
+              - generic [ref=e34]: + Benefits
+            - generic [ref=e36]:
+              - generic [ref=e37]: PAY AFTER 3 YEARS SERVICE AND PROMOTION TO THE RANK OF FLT LT
+              - generic [ref=e38]: £64,600+
+              - generic [ref=e39]: + Benefits
+          - paragraph [ref=e42]: Royal Air Force Pilots provide air power on behalf of the country, operating state-of-the-art aircraft world-wide.
+          - generic [ref=e43]:
+            - link "Apply as a Regular" [ref=e44] [cursor=pointer]:
+              - /url: /apply/applying-for?c1=15&r1=161&type=regular
+            - button "Add to favourites" [ref=e46] [cursor=pointer]:
+              - img [ref=e47]
+              - text: Add to favourites
+          - generic [ref=e48]:
+            - paragraph [ref=e49]: Don't limit yourself. You can apply for more than one position and we can help you find the right role.
+            - paragraph [ref=e50]:
+              - text: You can view and manage favourites
+              - link "here" [ref=e51] [cursor=pointer]:
+                - /url: /roles-in-the-raf?favourites-at-top#favourites
+              - text: .
+            - paragraph [ref=e52]
+            - paragraph [ref=e53]: Already applied? See what the next steps in the application process are below.
+        - generic [ref=e54]:
+          - heading "On this page:" [level=2] [ref=e55]
+          - generic [ref=e56]:
+            - paragraph [ref=e57]:
+              - link "Salary and Apply" [ref=e58] [cursor=pointer]:
+                - /url: "#role-info"
+            - paragraph [ref=e59]:
+              - link "What will you do?" [ref=e60] [cursor=pointer]:
+                - /url: "#whatwillyoudo-reg"
+            - paragraph [ref=e61]:
+              - link "Requirements & eligibility" [ref=e62] [cursor=pointer]:
+                - /url: "#requirements-reg"
+            - paragraph [ref=e63]:
+              - link "Career, training & education" [ref=e64] [cursor=pointer]:
+                - /url: "#training-reg"
+            - paragraph [ref=e65]:
+              - link "Benefits" [ref=e66] [cursor=pointer]:
+                - /url: "#benefits"
+            - paragraph [ref=e67]:
+              - link "Application process" [ref=e68] [cursor=pointer]:
+                - /url: "#application-process-reg"
+            - paragraph [ref=e69]:
+              - link "Apply for this role" [ref=e70] [cursor=pointer]:
+                - /url: "#apply"
+            - paragraph [ref=e71]:
+              - link "Similar roles" [ref=e72] [cursor=pointer]:
+                - /url: "#similar"
+      - generic [ref=e73]:
+        - generic [ref=e75]:
+          - heading "What will you do?" [level=3] [ref=e76]
+          - generic [ref=e77]:
+            - paragraph [ref=e78]: "This is a diverse and exciting role helping protect the skies and space as well as supporting operations and protecting the interests and influence of the UK and our allies. You’ll be streamed to fast-jet, multi-engine, rotary-wing (helicopter) or Remotely Piloted Aircraft System (RPAS) depending on operational requirements and your flying ability. You are then likely to specialise in this type of aircraft throughout your career. Across these different specialisms you could be:"
+            - paragraph [ref=e79]
+            - list [ref=e80]:
+              - listitem [ref=e81]: •Conducting air-to-air combat
+              - listitem [ref=e82]: •Taking part in ground attack missions
+              - listitem [ref=e83]: •Be involved in intelligence and surveillance
+              - listitem [ref=e84]: •Providing military support
+              - listitem [ref=e85]: •Delivering equipment and supplies
+              - listitem [ref=e86]: •Controlling aircraft from ground control stations
+              - listitem [ref=e87]: •Mission planning and ground-based staff duties
+        - img "RAF Pilot flying A400 Atlas, receiving fuel from RAF Voyager mid-air" [ref=e89]
+      - generic [ref=e92]:
+        - heading "Requirements at a glance" [level=3] [ref=e93]
+        - generic [ref=e94]:
+          - list [ref=e95]:
+            - listitem [ref=e96]: •Apply from 17-and-a-half years old. The maximum age on entry to Direct Entry Pilot is age 23, Phase One training at RAF Cranwell must be started before your 24th birthday meaning candidates are to submit an application before their 23rd birthday.
+            - listitem [ref=e97]: •GCSEs at Grade C/4 or Scottish National 5 at Grade C in English Language, Maths/Application of Mathematics (Functional Skills Level 2 will be accepted) and at least three other subjects.
+            - listitem [ref=e98]: •A minimum of 64 UCAS points made up from a maximum of 3 qualifications, minimum of 27 UCAS points for at least one qualification. If you hold a UK degree at Grade 2:2 you only need Mathematics and English Language GCSEs (or acceptable alternatives) at Grade 4 or Scottish National 5 Grade C in Mathematics and English Language.
+            - listitem [ref=e99]: •You will need to meet specific Nationality and Residency criteria.
+            - listitem [ref=e100]: •Commit to minimum 12 years service
+            - listitem [ref=e101]: •Meet the health and fitness criteria, pass a fitness test and undertake a swimming test in training
+          - paragraph [ref=e102]:
+            - link "View all entry requirements below" [ref=e103] [cursor=pointer]:
+              - /url: "#eligibility"
+      - generic [ref=e105]:
+        - heading "ENTRY REQUIREMENTS" [level=2] [ref=e106]:
+          - generic [ref=e107]: ENTRY
+          - generic [ref=e108]: REQUIREMENTS
+        - generic [ref=e109]:
+          - paragraph [ref=e111]: The maximum age on entry to Direct Entry Pilot is age 23, Phase One training at RAF Cranwell must be started before your 24th birthday. Candidates are to submit an application before their 23rd birthday. Applicants must also read all of the sections below and make sure they meet all entry requirements before submitting an application.
+          - region "Accordion Section" [ref=e112]:
+            - generic [ref=e113]:
+              - button "EDUCATION REQUIREMENTS" [expanded] [ref=e114] [cursor=pointer]:
+                - heading "EDUCATION REQUIREMENTS" [level=3] [ref=e115]
+              - generic [ref=e117]:
+                - paragraph [ref=e118]: You will need GCSEs at Grade C/4 or Scottish National 5 at Grade C in English Language, Maths/Application of Mathematics (Functional Skills Level 2 will be accepted) and at least three other subjects.
+                - paragraph [ref=e119]: In addition a minimum of 64 UCAS points which can be accrued from A/AS Levels (or equivalent), T-Levels, or National Diplomas (e.g BTECs/NVQs). This must be made up from a maximum of 3 qualifications, minimum of 27 UCAS points for at least one qualification (excluding General Studies, Critical Thinking and Citizenship Studies).
+                - paragraph [ref=e120]: If you hold a UK degree at Grade 2:2 or higher you only need Mathematics and English Language GCSEs (or acceptable alternatives) at a minimum of Grade 4 or Scottish National 5 Grade C in Mathematics and English Language.
+                - paragraph [ref=e121]:
+                  - text: If your qualifications are not listed, or you do not have any qualifications, please
+                  - link "Contact Us" [ref=e122] [cursor=pointer]:
+                    - /url: /contact/
+                  - text: to learn more about how you can join the Royal Air Force.
+            - button "NATIONALITY & RESIDENCY" [ref=e124] [cursor=pointer]:
+              - heading "NATIONALITY & RESIDENCY" [level=3] [ref=e125]
+            - button "FITNESS REQUIREMENTS" [ref=e127] [cursor=pointer]:
+              - heading "FITNESS REQUIREMENTS" [level=3] [ref=e128]
+            - button "RAF SWIMMING TEST" [ref=e130] [cursor=pointer]:
+              - heading "RAF SWIMMING TEST" [level=3] [ref=e131]
+            - button "HEALTH REQUIREMENTS" [ref=e133] [cursor=pointer]:
+              - heading "HEALTH REQUIREMENTS" [level=3] [ref=e134]
+            - generic [ref=e135]:
+              - button "BACKGROUND CHECKS" [ref=e136] [cursor=pointer]:
+                - heading "BACKGROUND CHECKS" [level=3] [ref=e137]
+              - text: • • •
+            - generic [ref=e138]:
+              - button "DISQUALIFYING FACTORS" [ref=e139] [cursor=pointer]:
+                - heading "DISQUALIFYING FACTORS" [level=3] [ref=e140]
+              - text: • • • • • •
+        - paragraph [ref=e142]: If you don’t have any of the above, you might still be able to apply. For more information please contact us.
+      - generic [ref=e143]:
+        - heading "ROLE STREAMING" [level=2] [ref=e144]:
+          - generic [ref=e145]: ROLE
+          - generic [ref=e146]: STREAMING
+        - paragraph [ref=e148]: Pilot is part of the Aircrew Profession, and this role is split into 4 main streams. After Elementary Flying Training you will be streamed into one of the following for specialist training tailored to type of aircraft. This will depend upon aptitude, qualifications, career aspirations and the Service need.
+      - generic [ref=e149]:
+        - heading "CAREER, TRAINING & EDUCATION" [level=2] [ref=e151]:
+          - generic [ref=e152]: CAREER, TRAINING
+          - generic [ref=e153]: "& EDUCATION"
+        - generic [ref=e154]: At any level or position your personal success is vital to make us succeed too. We are dedicated to your future, as it is essential to ours. You will receive basic and specialist training in your field and we even provide the option to pay for your education. The experience you gain with the RAF will equip you to work at the top of your field, both in the UK and overseas.
+        - generic [ref=e157]:
+          - generic [ref=e160] [cursor=pointer]:
+            - generic [ref=e162]:
+              - generic [ref=e163]: "01"
+              - heading "Phase one training" [level=3] [ref=e164]
+            - generic [ref=e165]: Initial Officer training
+            - generic:
+              - generic [ref=e166]:
+                - img "white stopwatch icon for duration" [ref=e167]
+                - text: 24 weeks
+              - generic [ref=e168]:
+                - img "white map-pin icon for location" [ref=e169]
+                - text: RAF Cranwell
+            - generic [ref=e170]:
+              - text: You’ll begin your career with us at the RAF College Cranwell in Lincolnshire where you’ll complete your Initial Training Course.
+              - button "Read more about Initial Officer Training" [ref=e172]:
+                - text: Read more
+                - img [ref=e173]
+          - generic [ref=e176] [cursor=pointer]:
+            - generic [ref=e178]:
+              - generic [ref=e179]: "02"
+              - heading "Phase two training" [level=3] [ref=e180]
+            - generic [ref=e181]: Specialist training
+            - generic:
+              - generic [ref=e182]:
+                - img "white stopwatch icon for duration" [ref=e183]
+                - text: 27 weeks
+              - generic [ref=e184]:
+                - img "white map-pin icon for location" [ref=e185]
+                - text: As assigned
+            - generic [ref=e186]:
+              - text: Your specialist training begins with Elementary Flying Training where you’ll fly the Tutor or Prefect aircraft.
+              - button "Read more about Specialist Training" [ref=e188]:
+                - text: Read more
+                - img [ref=e189]
+          - generic [ref=e192] [cursor=pointer]:
+            - generic [ref=e194]:
+              - generic [ref=e195]: "03"
+              - heading "Phase two training" [level=3] [ref=e196]
+            - generic [ref=e197]: Fast-jet training
+            - generic:
+              - generic [ref=e198]:
+                - img "white stopwatch icon for duration" [ref=e199]
+                - text: 2 years
+              - generic [ref=e200]:
+                - img "white map-pin icon for location" [ref=e201]
+                - text: RAF Valley
+            - generic [ref=e202]:
+              - text: If you are streamed to Fast-jet, training lasts about 2 years and you will initially fly the Texan at RAF Valley.
+              - button "Read more about fast-jet training" [ref=e204]:
+                - text: Read more
+                - img [ref=e205]
+          - generic [ref=e208] [cursor=pointer]:
+            - generic [ref=e210]:
+              - generic [ref=e211]: "04"
+              - heading "Phase two training" [level=3] [ref=e212]
+            - generic [ref=e213]: Multi-engine training
+            - generic:
+              - generic [ref=e214]:
+                - img "white stopwatch icon for duration" [ref=e215]
+                - text: 10 months
+              - generic [ref=e216]:
+                - img "white map-pin icon for location" [ref=e217]
+                - text: RAF Cranwell
+            - generic [ref=e218]:
+              - text: If you are streamed to multi-engine aircraft, the training is 10 months long, during which you will fly the Phenom at RAFC Cranwell.
+              - button "Read more about multi-engine training" [ref=e220]:
+                - text: Read more
+                - img [ref=e221]
+          - generic [ref=e224] [cursor=pointer]:
+            - generic [ref=e226]:
+              - generic [ref=e227]: "05"
+              - heading "Phase two training" [level=3] [ref=e228]
+            - generic [ref=e229]: Rotary wing training
+            - generic:
+              - generic [ref=e230]:
+                - img "white stopwatch icon for duration" [ref=e231]
+                - text: 18 months
+              - generic [ref=e232]:
+                - img "white map-pin icon for location" [ref=e233]
+                - text: RAF Shawbury
+            - generic [ref=e234]:
+              - text: If you are streamed to rotary-wing, you will spend 18 months flying twin-engine helicopters at RAF Shawbury, the Juno and Jupiter.
+              - button "Read more about Rotary wing training" [ref=e236]:
+                - text: Read more
+                - img [ref=e237]
+          - generic [ref=e240] [cursor=pointer]:
+            - generic [ref=e242]:
+              - generic [ref=e243]: "06"
+              - heading "Phase two training" [level=3] [ref=e244]
+            - generic [ref=e245]: Pilot (ISR) RPAS training
+            - generic:
+              - generic [ref=e246]:
+                - img "white stopwatch icon for duration" [ref=e247]
+                - text: 9 months
+              - generic [ref=e248]:
+                - img "white map-pin icon for location" [ref=e249]
+                - text: RAF Waddington
+            - generic [ref=e250]:
+              - text: If you are streamed RPAS you will spend 9 months flying Protector with 54 Sqn at RAF Waddington prior to posting to a frontline Squadron.
+              - button "Read more about Pilot (ISR) RPAS training" [ref=e252]:
+                - text: Read more
+                - img [ref=e253]
+          - generic [ref=e256] [cursor=pointer]:
+            - generic [ref=e258]:
+              - generic [ref=e259]: "07"
+              - heading "First tour" [level=3] [ref=e260]
+            - generic [ref=e261]: Specialist training
+            - generic:
+              - generic [ref=e262]:
+                - img "white stopwatch icon for duration" [ref=e263]
+                - text: Ongoing
+              - generic [ref=e264]:
+                - img "white map-pin icon for location" [ref=e265]
+                - text: As assigned
+            - generic [ref=e266]:
+              - text: During your first tour, you are likely to serve overseas on detachment or an exercise.
+              - button "Read more about first tour" [ref=e268]:
+                - text: Read more
+                - img [ref=e269]
+          - generic [ref=e272] [cursor=pointer]:
+            - generic [ref=e274]:
+              - generic [ref=e275]: "08"
+              - heading "Your career prospects" [level=3] [ref=e276]
+            - generic [ref=e277]: Specialist training
+            - generic:
+              - generic [ref=e278]:
+                - img "white stopwatch icon for duration" [ref=e279]
+                - text: Ongoing
+              - generic [ref=e280]:
+                - img "white map-pin icon for location" [ref=e281]
+                - text: As assigned
+            - generic [ref=e282]:
+              - text: You will join the RAF on an Initial Commission of 12 years.
+              - button "Read more about career prospects" [ref=e284]:
+                - text: Read more
+                - img [ref=e285]
+          - generic [ref=e288] [cursor=pointer]:
+            - generic [ref=e290]:
+              - generic [ref=e291]: "09"
+              - heading "In-Service Degree" [level=3] [ref=e292]
+            - generic [ref=e293]: Development
+            - generic:
+              - generic [ref=e294]:
+                - img "white stopwatch icon for duration" [ref=e295]
+                - text: Ongoing
+              - generic [ref=e296]:
+                - img "white map-pin icon for location" [ref=e297]
+                - text: As assigned
+            - generic [ref=e298]:
+              - text: As a Pilot, you will have opportunities for further professional development throughout your career.
+              - button "Read more about ongoing development" [ref=e300]:
+                - text: Read more
+                - img [ref=e301]
+          - generic [ref=e304] [cursor=pointer]:
+            - generic [ref=e306]:
+              - generic [ref=e307]: "10"
+              - heading "Transferable skills" [level=3] [ref=e308]
+            - generic [ref=e309]: Development
+            - generic:
+              - generic [ref=e310]:
+                - img "white stopwatch icon for duration" [ref=e311]
+                - text: Ongoing
+              - generic [ref=e312]:
+                - img "white map-pin icon for location" [ref=e313]
+                - text: As assigned
+            - generic [ref=e314]:
+              - text: The skills and experience you gain throughout your career as a Pilot in the RAF are valuable.
+              - button "Read more about transferable skills" [ref=e316]:
+                - text: Read more
+                - img [ref=e317]
+        - generic [ref=e319]:
+          - button "Previous slide" [ref=e320]:
+            - img [ref=e321]
+          - button "Next slide" [ref=e322] [cursor=pointer]:
+            - img [ref=e323]
+      - generic [ref=e324]:
+        - heading "WHY JOIN AS AN OFFICER?" [level=2] [ref=e325]:
+          - generic [ref=e326]: WHY JOIN AS
+          - generic [ref=e327]: AN OFFICER?
+        - paragraph [ref=e329]: When you become an RAF Officer, your responsibilities start from day one. You’ll be tasked with leading a team, building a sense of camaraderie, and making quick decisions. Become tomorrow’s leader. Start today.
+        - link "Discover more" [ref=e331] [cursor=pointer]:
+          - /url: /officer/
+      - generic [ref=e332]:
+        - generic [ref=e333]:
+          - img "RAF Chinook and Pumas flying over London viewed from Chinook cockpit" [ref=e334]
+          - button "Play video" [ref=e335] [cursor=pointer]
+        - heading "What's it like being a pilot in the RAF" [level=3] [ref=e336]
+        - generic [ref=e337]: Flight Lieutenant Chris Gordon explains how he joined the RAF and what his job involves as a Chinook pilot
+      - generic [ref=e338]:
+        - heading "WHY JOIN THE RAF?" [level=2] [ref=e339]:
+          - generic [ref=e340]: WHY JOIN
+          - generic [ref=e341]: THE RAF?
+        - paragraph [ref=e343]: Thanks to subsidised food, travel, accommodation and free gym you get more money in your pocket.
+        - generic [ref=e344]:
+          - generic [ref=e345]:
+            - img "Benefits icon for Rent from £75p/m" [ref=e347]
+            - generic [ref=e348]: Rent from £75p/m
+          - generic [ref=e349]:
+            - img "Benefits icon for Free gym" [ref=e351]
+            - generic [ref=e352]: Free gym
+          - generic [ref=e353]:
+            - img "Benefits icon for Subsidised food" [ref=e355]
+            - generic [ref=e356]: Subsidised food
+          - generic [ref=e357]:
+            - img "Benefits icon for Health care" [ref=e359]
+            - generic [ref=e360]: Health care
+          - generic [ref=e361]:
+            - img "Benefits icon for World travel" [ref=e363]
+            - generic [ref=e364]: World travel
+          - generic [ref=e365]:
+            - img "Benefits icon for Training" [ref=e367]
+            - generic [ref=e368]: Training
+        - link "View all benefits" [ref=e370] [cursor=pointer]:
+          - /url: /career-and-benefits/
+      - generic [ref=e371]:
+        - heading "WHAT HAPPENS AFTER APPLYING" [level=2] [ref=e373]:
+          - generic [ref=e374]: WHAT HAPPENS
+          - generic [ref=e375]: AFTER APPLYING
+        - generic [ref=e376]: Joining the RAF takes several steps. Below is an overview of the process. The purpose of this process is for us to gauge whether you’re the right person for the RAF and for you to show us all of your skills and experiences that have made you who you are.
+        - region "Application process steps" [ref=e377]:
+          - generic [ref=e379]:
+            - generic [ref=e381]:
+              - generic [ref=e382]:
+                - generic [ref=e383]: "1"
+                - generic [ref=e384]:
+                  - generic [ref=e385]: Aptitude test
+                  - generic [ref=e386]: Stage 1 of 7
+              - generic [ref=e388]:
+                - paragraph [ref=e389]: "The aptitude test has been designed to ensure you're a good fit for the role you're applying for. You'll answer six multiple choice sections which each focus on a different skill:"
+                - list [ref=e390]:
+                  - listitem [ref=e391]: •Verbal reasoning - use and interpretation of written information
+                  - listitem [ref=e392]: •Numerical Reasoning - ability with basic fractions, decimals and formulae
+                  - listitem [ref=e393]: •Work rate - speed and accuracy of tasks
+                  - listitem [ref=e394]: •Spatial reasoning - how shapes and objects work
+                  - listitem [ref=e395]: •Electrical comprehension - working with electrical concepts
+                  - listitem [ref=e396]: •Mechanical comprehension - grasp of mechanical concepts
+                - paragraph [ref=e397]:
+                  - text: You can try the online practice test
+                  - link "here" [ref=e398] [cursor=pointer]:
+                    - /url: /how-to-apply/daa
+            - generic [ref=e404]:
+              - generic [ref=e405]:
+                - generic [ref=e406]: "2"
+                - generic [ref=e407]:
+                  - generic [ref=e408]: CBAT Aptitude test
+                  - generic [ref=e409]: Stage 2 of 7
+              - generic [ref=e411]:
+                - paragraph [ref=e412]: "The first step in the application process is a series of Computer Based Aptitude Tests (CBAT). These tests ensure we match the right candidate to the right role. They take place over one day at the Officers and Aircrew Selection Centre at the RAF College Cranwell in Lincolnshire, and measure your ability to perform specific tasks such as:"
+                - list [ref=e413]:
+                  - listitem [ref=e414]: •How well you respond physically to visual information
+                  - listitem [ref=e415]: •Your ability to interpret information in two dimensions and devise a three-dimensional solution
+                  - listitem [ref=e416]: •Your ability to complete several tasks simultaneously
+                  - listitem [ref=e417]: •Your natural abilities, including deductive reasoning, spatial reasoning, work rate and concentration, and verbal and numerical reasoning
+            - generic [ref=e423]:
+              - generic [ref=e424]:
+                - generic [ref=e425]: "3"
+                - generic [ref=e426]:
+                  - generic [ref=e427]: Health Assessment
+                  - generic [ref=e428]: Stage 3 of 7
+              - generic [ref=e430]:
+                - paragraph [ref=e431]: You’re legally required to meet certain medical standards, and must pass an occupational health assessment to show you’re fit for military duty. As part of this assessment we will check your overall health, focusing on areas like hearing, eyesight and body mass index.
+                - paragraph [ref=e432]
+                - paragraph [ref=e433]: We’ll also investigate any past illnesses and screen for health issues that may prevent you from carrying out your role. View details below for more information about the health standards you’ll need to meet.
+            - generic [ref=e439]:
+              - generic [ref=e440]:
+                - generic [ref=e441]: "4"
+                - generic [ref=e442]:
+                  - generic [ref=e443]: Fitness test
+                  - generic [ref=e444]: Stage 4 of 7
+              - generic [ref=e446]:
+                - paragraph [ref=e447]: A good level of fitness is critical to joining the RAF, it’s also something that must be maintained throughout your career. You’ll need to complete a Pre-Joining Fitness Test (PJFC). This will take place at a local gym near to you, and is a 2.4km run.
+                - paragraph [ref=e448]
+                - paragraph [ref=e449]:
+                  - text: The performance level you’ll need to meet differs by age and gender. You can also find help, and a training plan, to assist you in your preparation
+                  - link [ref=e450] [cursor=pointer]:
+                    - /url: /fitness-in-the-raf/fitness-test-training-plan/
+                    - text: here
+                  - text: .
+            - generic [ref=e456]:
+              - generic [ref=e457]:
+                - generic [ref=e458]: "5"
+                - generic [ref=e459]:
+                  - generic [ref=e460]: OASC
+                  - generic [ref=e461]: Stage 5 of 7
+              - generic [ref=e463]:
+                - paragraph [ref=e464]: This will be your second visit to the Officers and Aircrew Selection Centre. OASC lasts one day, but you will arrive the day before. During this time the officers will be assessing your leadership, teamwork, communication, motivation, and problem solving.
+                - paragraph [ref=e465]
+                - paragraph [ref=e466]: The day will end with an interview. The first half of the interview covers your achievements at school and college, in sports, your community, at work, and as a cadet, scout or guide.
+                - paragraph [ref=e467]
+                - paragraph [ref=e468]: The second half explores your motivation for joining the RAF – what you know about current affairs and the RAF’s role in the national and international arena, current operations the RAF is involved in and your knowledge about the RAF and the role you've applied for.
+                - paragraph [ref=e469]
+                - paragraph [ref=e470]:
+                  - text: You can watch a video
+                  - link [ref=e471] [cursor=pointer]:
+                    - /url: /how-to-apply/application-process-officers/#OASCvideo
+                    - text: here
+                  - text: that explains the OASC selection process in more detail.
+            - generic [ref=e477]:
+              - generic [ref=e478]:
+                - generic [ref=e479]: "6"
+                - generic [ref=e480]:
+                  - generic [ref=e481]: Familiarisation visit
+                  - generic [ref=e482]: Stage 6 of 7
+              - paragraph [ref=e485]: This takes place over 2 days and is designed to give you an insight into officer training. You’ll be issued with your initial kit, including your boots, attend lectures, and also repeat the fitness test taken at OASC.
+            - generic [ref=e491]:
+              - generic [ref=e492]:
+                - generic [ref=e493]: "7"
+                - generic [ref=e494]:
+                  - generic [ref=e495]: Offer of service
+                  - generic [ref=e496]: Stage 7 of 7
+              - generic [ref=e498]:
+                - paragraph [ref=e499]: Once you’ve successfully completed each phase of the application process you’ll be invited to a provisional offer of service interview at your nearest AFCO.
+                - paragraph [ref=e500]
+                - paragraph [ref=e501]: This is to ensure that you understand the terms and conditions of service in the RAF, are fully committed to joining, and prepared to commence training.
+          - generic [ref=e506]:
+            - button "Previous slide" [ref=e508] [cursor=pointer]
+            - button "Next slide" [ref=e510] [cursor=pointer]
+      - generic [ref=e511]:
+        - generic [ref=e513]:
+          - heading "APPLY NOW" [level=2] [ref=e514]:
+            - generic [ref=e515]: APPLY
+            - generic [ref=e516]: NOW
+          - generic [ref=e517]: Got what it takes? Start your application here.
+          - link "Apply as a Regular" [ref=e519] [cursor=pointer]:
+            - /url: /apply/applying-for?c1=15&r1=161&type=regular
+        - img "RAF Pilot carrying equipment walking out to line of FGR4 Typhoon jets on concrete apron" [ref=e521]
+      - generic [ref=e522]:
+        - heading "SIMILAR ROLES" [level=2] [ref=e524]:
+          - generic [ref=e525]: SIMILAR
+          - generic [ref=e526]: ROLES
+        - region "Roles carousel" [ref=e527]:
+          - generic [ref=e528]:
+            - generic [ref=e532]:
+              - link "Weapon Systems Officer" [ref=e533] [cursor=pointer]:
+                - /url: /roles/roles-finder/aircrew/weapon-systems-officer/
+              - generic [ref=e535]:
+                - generic [ref=e536]: Aircrew
+                - generic [ref=e537]: Weapon Systems Officer
+                - button "Add to favourites" [ref=e538] [cursor=pointer]
+                - generic [ref=e539]: Aircraft Gaming & computers Analysis & maths
+            - generic [ref=e540]:
+              - button "Previous slide" [ref=e542] [cursor=pointer]
+              - link "Find Your Role" [ref=e543] [cursor=pointer]:
+                - /url: /find-your-role/
+              - button "Next slide" [ref=e545] [cursor=pointer]
+      - generic [ref=e546]:
+        - heading "HAVE A QUESTION?" [level=2] [ref=e547]
+        - generic [ref=e548]:
+          - link "Live chat" [ref=e549] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact Us" [ref=e550] [cursor=pointer]:
+            - /url: /contact/
+  - contentinfo [ref=e551]:
+    - contentinfo "RAF footer navigation" [ref=e552]:
+      - generic [ref=e553]:
+        - generic [ref=e554]:
+          - list [ref=e555]:
+            - listitem [ref=e556]:
+              - link "LIFE IN THE RAF" [ref=e557] [cursor=pointer]:
+                - /url: /life-in-the-raf
+            - listitem [ref=e558]:
+              - link "CAREERS & BENEFITS" [ref=e559] [cursor=pointer]:
+                - /url: /career-and-benefits
+            - listitem [ref=e560]:
+              - link "FIND YOUR ROLE" [ref=e561] [cursor=pointer]:
+                - /url: /find-your-role
+            - listitem [ref=e562]:
+              - link "APPLY NOW" [ref=e563] [cursor=pointer]:
+                - /url: /apply
+          - list [ref=e564]:
+            - listitem [ref=e565]:
+              - link "Diversity & Inclusion" [ref=e566] [cursor=pointer]:
+                - /url: /diversity-and-inclusion
+            - listitem [ref=e567]:
+              - link "RAF Fitness" [ref=e568] [cursor=pointer]:
+                - /url: /fitness-in-the-raf
+            - listitem [ref=e569]:
+              - link "University Air Squadrons" [ref=e570] [cursor=pointer]:
+                - /url: /university-air-squadrons
+            - listitem [ref=e571]:
+              - link "RAF main websiteopens in new tab" [ref=e572] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Froles%2Froles-finder%2Faircrew%2Fpilot
+                - text: RAF main website
+                - img "opens in new tab" [ref=e573]
+            - listitem [ref=e574]:
+              - link "Air Cadetsopens in new tab" [ref=e575] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk/aircadets/?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Froles%2Froles-finder%2Faircrew%2Fpilot
+                - text: Air Cadets
+                - img "opens in new tab" [ref=e576]
+            - listitem [ref=e577]:
+              - link "Events near you" [ref=e578] [cursor=pointer]:
+                - /url: /contact/events
+            - listitem [ref=e579]:
+              - link "Contact us" [ref=e580] [cursor=pointer]:
+                - /url: /contact
+        - list [ref=e582]:
+          - listitem [ref=e583]:
+            - link "Apprenticeships" [ref=e584] [cursor=pointer]:
+              - /url: /apprenticeships
+          - listitem [ref=e585]:
+            - link "Rejoiners & Transferees" [ref=e586] [cursor=pointer]:
+              - /url: /how-to-apply/rejoiners-and-inter-service-transfer
+          - listitem [ref=e587]:
+            - link "Reserves" [ref=e588] [cursor=pointer]:
+              - /url: /reserves
+          - listitem [ref=e589]:
+            - link "Sponsorship" [ref=e590] [cursor=pointer]:
+              - /url: /sponsorship
+          - listitem [ref=e591]:
+            - link "Aircrew" [ref=e592] [cursor=pointer]:
+              - /url: /aircrew
+          - listitem [ref=e593]:
+            - link "Air & Space Ops" [ref=e594] [cursor=pointer]:
+              - /url: /air-space-operations
+          - listitem [ref=e595]:
+            - link "Cyberspace" [ref=e596] [cursor=pointer]:
+              - /url: /cyberspace
+          - listitem [ref=e597]:
+            - link "Engineering" [ref=e598] [cursor=pointer]:
+              - /url: /engineering
+          - listitem [ref=e599]:
+            - link "Ground Combat & Security" [ref=e600] [cursor=pointer]:
+              - /url: /ground-combat-security
+          - listitem [ref=e601]:
+            - link "Hospitality" [ref=e602] [cursor=pointer]:
+              - /url: /hospitality
+          - listitem [ref=e603]:
+            - link "Intelligence" [ref=e604] [cursor=pointer]:
+              - /url: /intelligence
+          - listitem [ref=e605]:
+            - link "Logistics" [ref=e606] [cursor=pointer]:
+              - /url: /logistics
+          - listitem [ref=e607]:
+            - link "Medical Services" [ref=e608] [cursor=pointer]:
+              - /url: /medical-services
+          - listitem [ref=e609]:
+            - link "People Ops" [ref=e610] [cursor=pointer]:
+              - /url: /people-operations
+        - generic [ref=e611]:
+          - img "Top 100 Apprenticeships 2024" [ref=e613]
+          - generic [ref=e614]:
+            - link "Visit RAF Recruitment on Facebook (opens in new tab)" [ref=e615] [cursor=pointer]:
+              - /url: https://www.facebook.com/RAFRecruitment
+              - img [ref=e616]
+            - link "Visit RAF Recruitment on Instagram (opens in new tab)" [ref=e617] [cursor=pointer]:
+              - /url: http://instagram.com/rafrecruitment
+              - img [ref=e618]
+            - link "Visit RAF Recruitment on YouTube (opens in new tab)" [ref=e619] [cursor=pointer]:
+              - /url: http://www.youtube.com/user/royalairforce
+              - img [ref=e620]
+      - generic [ref=e621]:
+        - list [ref=e622]:
+          - listitem [ref=e623]:
+            - link "Sitemap" [ref=e624] [cursor=pointer]:
+              - /url: /information/sitemap
+          - listitem [ref=e625]:
+            - link "Cookies & Privacy" [ref=e626] [cursor=pointer]:
+              - /url: /information/privacy-cookies
+          - listitem [ref=e627]:
+            - link "Accessibility" [ref=e628] [cursor=pointer]:
+              - /url: /information/accessibility
+        - generic [ref=e629]: © 2026 Royal Air Force — Regular & Reserve UK Crown copyright.
+  - link "View favourite roles" [ref=e631] [cursor=pointer]:
+    - /url: /roles-in-the-raf?favourites-at-top&gotofavourites
+  - generic [ref=e632] [cursor=pointer]:
+    - button "Open Preferences" [ref=e634]:
+      - img [ref=e635]
+    - text: Manage Preferences

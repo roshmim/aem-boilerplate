@@ -1,0 +1,271 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#raf-app"
+    - banner [ref=e4]:
+      - link "Royal Air Force - Regular & Reserve Go to home page" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Royal Air Force - Regular & Reserve" [ref=e7]
+        - generic [ref=e8]: Go to home page
+      - navigation [ref=e9]:
+        - list [ref=e10]:
+          - listitem [ref=e11]:
+            - link "Life in the RAF" [ref=e12] [cursor=pointer]:
+              - /url: /life-in-the-raf
+          - listitem [ref=e13]:
+            - link "Careers & Benefits" [ref=e14] [cursor=pointer]:
+              - /url: /career-and-benefits
+          - listitem [ref=e15]:
+            - link "Find your role" [ref=e16] [cursor=pointer]:
+              - /url: /find-your-role
+          - listitem [ref=e17]:
+            - link "Apply now" [ref=e18] [cursor=pointer]:
+              - /url: /apply
+          - listitem [ref=e19]:
+            - button "GET IN TOUCH" [ref=e20] [cursor=pointer]:
+              - text: GET IN TOUCH
+              - img [ref=e21]
+          - listitem [ref=e22]:
+            - link "Search this site" [ref=e23] [cursor=pointer]:
+              - /url: "#"
+              - text: Search
+              - img [ref=e24]
+  - main [ref=e26]:
+    - generic [ref=e28]:
+      - heading "JOINING THE RAF" [level=1] [ref=e30]:
+        - generic [ref=e31]: JOINING
+        - generic [ref=e32]: THE RAF
+      - generic [ref=e34]:
+        - heading "WHY YOU SHOULD JOIN THE RAF" [level=2] [ref=e35]:
+          - generic [ref=e36]: WHY YOU SHOULD
+          - generic [ref=e37]: JOIN THE RAF
+        - generic [ref=e38]:
+          - paragraph [ref=e39]: The RAF offers exciting and fulfilling careers, with huge opportunities for training, development and career progression.
+          - paragraph [ref=e40]
+          - paragraph [ref=e41]: You can join as a regular (full-time) or as a reserve (part-time).
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - heading "Regular (full-time)" [level=3] [ref=e44]
+          - paragraph [ref=e46]: Career progression, training, travel and incredible friendships all make a career in the RAF like no other. We have a wide range of roles to match different skills and interests.
+        - generic [ref=e47]:
+          - generic [ref=e48]: Reserve (part-time)
+          - paragraph [ref=e50]: Serving alongside regulars in the UK and overseas, reserves take on the challenges and adventures of life in the RAF, while balancing other careers and home life.
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - heading "Officer" [level=3] [ref=e53]
+          - paragraph [ref=e55]: To join the RAF as an officer, you need A-level (or equivalent) qualifications or a university degree, depending on the role. As an officer, you need strong leadership and management skills, as you will be responsible for the welfare and discipline of the people under your command.
+        - generic [ref=e56]:
+          - generic [ref=e57]: Enlisted aviator
+          - paragraph [ref=e60]: The majority of RAF personnel are enlisted aviators, bringing their specialist skills and expertise to vital ground and support roles. Expert training and support will be provided by the RAF to help you support out mission – skills which are also applicable in the civilian world. You do not need any specific qualifications.
+      - generic [ref=e61]:
+        - heading "HAVE YOU GOT WHAT IT TAKES?" [level=2] [ref=e63]:
+          - generic [ref=e64]: HAVE YOU GOT
+          - generic [ref=e65]: WHAT IT TAKES?
+        - generic:
+          - generic [ref=e67]:
+            - paragraph [ref=e68]: "To join the RAF, you need to meet certain eligibility criteria. These vary across different roles. In principle, to join as a regular you must meet these requirements:"
+            - paragraph [ref=e69]
+            - paragraph [ref=e70]:
+              - strong [ref=e71]: Age
+            - paragraph [ref=e72]: You must be aged between 16 and 54-years-old to join the RAF. However, you can start your application when you are 15-years-old.
+            - paragraph [ref=e73]
+            - paragraph [ref=e74]:
+              - strong [ref=e75]: Nationality
+            - paragraph [ref=e76]: Requirements for nationality and residency are different depending on which role you apply for. British Citizens born in the UK typically meet these requirements automatically.
+            - paragraph [ref=e77]
+            - paragraph [ref=e78]:
+              - strong [ref=e79]: Qualifications
+            - paragraph [ref=e80]: We have an exciting range of roles. Some of these require no qualifications or are offered as apprenticeships. Others require GCSEs or A-levels (or equivalents) while some roles require university degrees or other specialist qualifications.
+          - generic [ref=e83]:
+            - paragraph [ref=e84]: You also need to pass a medical test, meet fitness standards and pass a selection interview. Some roles require you to pass a swimming test or might require a driving licence.
+            - paragraph [ref=e85]
+            - paragraph [ref=e86]:
+              - strong [ref=e87]: Sickle Cell Trait
+            - paragraph [ref=e88]:
+              - text: We are now required to screen all candidates for Sickle Cell Trait.
+              - text: You will be sent a family origin questionnaire to fill in after you apply. This will show whether you need a blood test to check your sickle cell trait status.
+            - paragraph [ref=e89]:
+              - text: If you have sickle cell trait is unlikely to stop you from joining the RAF. You can find out more about Sickle Cell Trait on the
+              - link "NHS website" [ref=e90] [cursor=pointer]:
+                - /url: https://www.nhs.uk/conditions/sickle-cell-disease/
+              - text: .
+              - text: It is important to note that you should wait to be screened for Sickle Cell Trait before starting military fitness training if you consider you are at risk of having this condition. Please discuss your ongoing physical training for your general health with your GP.
+      - generic [ref=e91]:
+        - heading "APPLICATION PROCESS" [level=2] [ref=e92]:
+          - generic [ref=e93]: APPLICATION
+          - generic [ref=e94]: PROCESS
+        - generic [ref=e95]:
+          - paragraph [ref=e96]: Joining the RAF takes several steps designed to give you the chance to show us all the skills and experience you have and gauge if you’re the right person for the RAF.
+          - paragraph [ref=e97]
+          - paragraph [ref=e98]: Depending on the role, the application process takes place over 6 or 7 steps for officers and full-time enlisted aviators. Reserves and specialist roles have a slightly different process. You can get an overview of the process by selecting one of the buttons below.
+        - generic [ref=e99]:
+          - link "Enlisted Aviators" [ref=e100] [cursor=pointer]:
+            - /url: /how-to-apply/application-process-aviators/
+          - link "Officers" [ref=e101] [cursor=pointer]:
+            - /url: /how-to-apply/application-process-officers/
+          - link "Reserves" [ref=e102] [cursor=pointer]:
+            - /url: /how-to-apply/application-process-reserves/
+      - generic [ref=e103]:
+        - heading "MAKING A SUCCESSFUL APPLICATION" [level=2] [ref=e104]:
+          - generic [ref=e105]: MAKING A
+          - generic [ref=e106]: SUCCESSFUL APPLICATION
+        - generic [ref=e107]:
+          - paragraph [ref=e109]: Below is information to help you on the application journey, from making sure you meet the eligibility criteria, right through to your first day of training. There can be several reason why an application fails.
+          - region "Accordion Section" [ref=e110]:
+            - button "Applications are not completed" [ref=e112] [cursor=pointer]:
+              - heading "Applications are not completed" [level=3] [ref=e113]
+            - button "Only uploading your most recent or highest qualification" [ref=e115] [cursor=pointer]:
+              - heading "Only uploading your most recent or highest qualification" [level=3] [ref=e116]
+            - button "Missing further communications" [ref=e118] [cursor=pointer]:
+              - heading "Missing further communications" [level=3] [ref=e119]
+            - button "Not meeting the Nationality and Residency Requirements" [ref=e121] [cursor=pointer]:
+              - heading "Not meeting the Nationality and Residency Requirements" [level=3] [ref=e122]
+            - button "Not meeting the minimum fitness requirements" [ref=e124] [cursor=pointer]:
+              - heading "Not meeting the minimum fitness requirements" [level=3] [ref=e125]
+      - generic [ref=e126]:
+        - generic [ref=e127]:
+          - heading "FIND YOUR ROLE" [level=3] [ref=e129]:
+            - generic [ref=e130]: FIND YOUR
+            - generic [ref=e131]: ROLE
+          - generic [ref=e132]: Whether you want to fly a fast jet, gather intelligence or cater for our personnel, we have the role for you.
+          - link "Find your role" [ref=e134] [cursor=pointer]:
+            - /url: /find-your-role/
+        - generic [ref=e135]:
+          - img "RAF Engineering Officer wearing turban stood in front of RAF Voyager engine in hanger" [ref=e136]
+          - heading "CAREER & BENEFITS" [level=3] [ref=e138]:
+            - generic [ref=e139]: CAREER &
+            - generic [ref=e140]: BENEFITS
+          - generic [ref=e141]: You’ll get the best training opportunities and support for your career, and yourself as an individual.
+          - link "Career and Benefits" [ref=e143] [cursor=pointer]:
+            - /url: /career-and-benefits/
+        - generic [ref=e144]:
+          - heading "FITNESS IN THE RAF" [level=3] [ref=e146]:
+            - generic [ref=e147]: FITNESS
+            - generic [ref=e148]: IN THE RAF
+          - generic [ref=e149]: Understand our fitness requirements and get help with preparation and training.
+          - link "Fitness in the RAF" [ref=e151] [cursor=pointer]:
+            - /url: /fitness-in-the-raf/
+      - generic [ref=e152]:
+        - heading "HAVE A QUESTION?" [level=2] [ref=e153]
+        - paragraph [ref=e155]: Live chat is with a human not a bot
+        - generic [ref=e156]:
+          - link "Live chat" [ref=e157] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact us" [ref=e158] [cursor=pointer]:
+            - /url: /contact/
+  - contentinfo [ref=e159]:
+    - contentinfo "RAF footer navigation" [ref=e160]:
+      - generic [ref=e161]:
+        - list [ref=e163]:
+          - listitem [ref=e164]:
+            - link "LIFE IN THE RAF" [ref=e165] [cursor=pointer]:
+              - /url: /life-in-the-raf
+          - listitem [ref=e166]:
+            - link "CAREERS & BENEFITS" [ref=e167] [cursor=pointer]:
+              - /url: /career-and-benefits
+          - listitem [ref=e168]:
+            - link "FIND YOUR ROLE" [ref=e169] [cursor=pointer]:
+              - /url: /find-your-role
+          - listitem [ref=e170]:
+            - link "APPLY NOW" [ref=e171] [cursor=pointer]:
+              - /url: /apply
+          - listitem [ref=e172]:
+            - link "RAF main websiteup-arrow icon indicating link opens in new window" [ref=e173] [cursor=pointer]:
+              - /url: https://www.raf.mod.uk?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fhow-to-apply%2Fapplication-process
+              - text: RAF main website
+              - img "up-arrow icon indicating link opens in new window" [ref=e174]
+          - listitem [ref=e175]:
+            - link "Air Cadetsup-arrow icon indicating link opens in new window" [ref=e176] [cursor=pointer]:
+              - /url: https://www.raf.mod.uk/aircadets/?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fhow-to-apply%2Fapplication-process
+              - text: Air Cadets
+              - img "up-arrow icon indicating link opens in new window" [ref=e177]
+          - listitem [ref=e178]:
+            - link "Events near you" [ref=e179] [cursor=pointer]:
+              - /url: /contact/events
+          - listitem [ref=e180]:
+            - link "Contact us" [ref=e181] [cursor=pointer]:
+              - /url: /contact
+        - list [ref=e183]:
+          - listitem [ref=e184]:
+            - link "Diversity & Inclusion" [ref=e185] [cursor=pointer]:
+              - /url: /diversity-and-inclusion
+          - listitem [ref=e186]:
+            - link "RAF Fitness" [ref=e187] [cursor=pointer]:
+              - /url: /fitness-in-the-raf
+          - listitem [ref=e188]:
+            - link "University Air Squadrons" [ref=e189] [cursor=pointer]:
+              - /url: /university-air-squadrons
+          - listitem [ref=e190]:
+            - link "Apprenticeships" [ref=e191] [cursor=pointer]:
+              - /url: /apprenticeships
+          - listitem [ref=e192]:
+            - link "Rejoiners & Transferees" [ref=e193] [cursor=pointer]:
+              - /url: /how-to-apply/rejoiners-and-inter-service-transfer
+          - listitem [ref=e194]:
+            - link "Reserves" [ref=e195] [cursor=pointer]:
+              - /url: /reserves
+          - listitem [ref=e196]:
+            - link "Sponsorship" [ref=e197] [cursor=pointer]:
+              - /url: /sponsorship
+        - list [ref=e199]:
+          - listitem [ref=e200]:
+            - link "Aircrew" [ref=e201] [cursor=pointer]:
+              - /url: /aircrew
+          - listitem [ref=e202]:
+            - link "Air & Space Ops" [ref=e203] [cursor=pointer]:
+              - /url: /air-space-operations
+          - listitem [ref=e204]:
+            - link "Cyberspace" [ref=e205] [cursor=pointer]:
+              - /url: /cyberspace
+          - listitem [ref=e206]:
+            - link "Engineering" [ref=e207] [cursor=pointer]:
+              - /url: /engineering
+          - listitem [ref=e208]:
+            - link "Ground Combat & Security" [ref=e209] [cursor=pointer]:
+              - /url: /ground-combat-security
+          - listitem [ref=e210]:
+            - link "Hospitality" [ref=e211] [cursor=pointer]:
+              - /url: /hospitality
+          - listitem [ref=e212]:
+            - link "Intelligence" [ref=e213] [cursor=pointer]:
+              - /url: /intelligence
+          - listitem [ref=e214]:
+            - link "Logistics" [ref=e215] [cursor=pointer]:
+              - /url: /logistics
+          - listitem [ref=e216]:
+            - link "Medical Services" [ref=e217] [cursor=pointer]:
+              - /url: /medical-services
+          - listitem [ref=e218]:
+            - link "People Ops" [ref=e219] [cursor=pointer]:
+              - /url: /people-operations
+        - generic [ref=e220]:
+          - img "Top 100 Apprenticeships 2024" [ref=e222]
+          - generic [ref=e223]:
+            - link "Visit RAF Recruitment on Facebook (opens in new tab)" [ref=e224] [cursor=pointer]:
+              - /url: https://www.facebook.com/RAFRecruitment
+              - img [ref=e225]
+            - link "Visit RAF Recruitment on Instagram (opens in new tab)" [ref=e226] [cursor=pointer]:
+              - /url: http://instagram.com/rafrecruitment
+              - img [ref=e227]
+            - link "Visit RAF Recruitment on YouTube (opens in new tab)" [ref=e228] [cursor=pointer]:
+              - /url: http://www.youtube.com/user/royalairforce
+              - img [ref=e229]
+      - generic [ref=e230]:
+        - list [ref=e231]:
+          - listitem [ref=e232]:
+            - link "Sitemap" [ref=e233] [cursor=pointer]:
+              - /url: /information/sitemap
+          - listitem [ref=e234]:
+            - link "Cookies & Privacy" [ref=e235] [cursor=pointer]:
+              - /url: /information/privacy-cookies
+          - listitem [ref=e236]:
+            - link "Accessibility" [ref=e237] [cursor=pointer]:
+              - /url: /information/accessibility
+        - generic [ref=e238]: © 2026 Royal Air Force — Regular & Reserve UK Crown copyright.
+  - link "View favourite roles" [ref=e240] [cursor=pointer]:
+    - /url: /roles-in-the-raf?favourites-at-top&gotofavourites
+    - text: Favourites
+  - generic [ref=e241] [cursor=pointer]:
+    - button "Open Preferences" [ref=e243]:
+      - img [ref=e244]
+    - text: Manage Preferences

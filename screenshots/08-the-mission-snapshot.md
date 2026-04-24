@@ -1,0 +1,233 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#raf-app"
+    - banner [ref=e4]:
+      - link "Royal Air Force - Regular & Reserve Go to home page" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Royal Air Force - Regular & Reserve" [ref=e7]
+        - generic [ref=e8]: Go to home page
+      - navigation [ref=e9]:
+        - list [ref=e10]:
+          - listitem [ref=e11]:
+            - link "Life in the RAF" [ref=e12] [cursor=pointer]:
+              - /url: /life-in-the-raf
+          - listitem [ref=e13]:
+            - link "Careers & Benefits" [ref=e14] [cursor=pointer]:
+              - /url: /career-and-benefits
+          - listitem [ref=e15]:
+            - link "Find your role" [ref=e16] [cursor=pointer]:
+              - /url: /find-your-role
+          - listitem [ref=e17]:
+            - link "Apply now" [ref=e18] [cursor=pointer]:
+              - /url: /apply
+          - listitem [ref=e19]:
+            - button "GET IN TOUCH" [ref=e20] [cursor=pointer]:
+              - text: GET IN TOUCH
+              - img [ref=e21]
+          - listitem [ref=e22]:
+            - link "Search this site" [ref=e23] [cursor=pointer]:
+              - /url: "#"
+              - text: Search
+              - img [ref=e24]
+  - main [ref=e26]:
+    - generic [ref=e28]:
+      - heading "THE MISSION" [level=1] [ref=e30]:
+        - generic [ref=e31]: THE
+        - generic [ref=e32]: MISSION
+      - generic [ref=e35]: How do the different parts of the RAF work together? Follow The Mission to see how the RAF works when it’s asked to support a humanitarian crisis in a foreign country.
+      - generic [ref=e36]:
+        - generic:
+          - link "Skip to main content" [ref=e38] [cursor=pointer]:
+            - /url: "#site-content"
+          - banner "Main Header"
+          - link "Start The Mission" [ref=e40] [cursor=pointer]:
+            - /url: "#"
+          - main "Main Content":
+            - region "Video Player" [ref=e41]:           
+          - contentinfo "Main Footer" [ref=e45]:
+            - navigation "Footer Navigation" [ref=e46]:
+              - list [ref=e47]:
+                - listitem [ref=e48]:
+                  - progressbar [ref=e49]
+                  - link "BRIEFING" [ref=e50] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e51]:
+                  - progressbar [ref=e52]
+                  - link "ENGINEERING" [ref=e53] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e54]:
+                  - progressbar [ref=e55]
+                  - link "LOGISTICS" [ref=e56] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e57]:
+                  - progressbar [ref=e58]
+                  - link "FLIGHT DEPARTURE" [ref=e59] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e60]:
+                  - progressbar [ref=e61]
+                  - link "OPS TENT" [ref=e62] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e63]:
+                  - progressbar [ref=e64]
+                  - link "EVACUATION" [ref=e65] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e66]:
+                  - progressbar [ref=e67]
+                  - link "MISSION SUCCESS" [ref=e68] [cursor=pointer]:
+                    - /url: "#"
+      - generic [ref=e69]:
+        - heading "COULD THIS BE YOU?" [level=2] [ref=e71]:
+          - generic [ref=e72]: COULD THIS
+          - generic [ref=e73]: BE YOU?
+        - generic [ref=e74]: There’s a role for everyone at the RAF. Explore the roles below to find the one that could be right for you.
+        - region "Roles carousel" [ref=e75]:
+          - generic [ref=e76]:
+            - generic [ref=e78]:
+              - generic [ref=e80]:
+                - link "Aircrew" [ref=e81] [cursor=pointer]:
+                  - /url: /aircrew/
+                - generic [ref=e83]:
+                  - generic [ref=e84]: Roles in
+                  - generic [ref=e85]: Aircrew
+              - generic [ref=e87]:
+                - link "Air & Space Operations" [ref=e88] [cursor=pointer]:
+                  - /url: /air-space-operations/
+                - generic [ref=e90]:
+                  - generic [ref=e91]: Roles in
+                  - generic [ref=e92]: Air & Space Operations
+              - generic [ref=e94]:
+                - link "Cyberspace" [ref=e95] [cursor=pointer]:
+                  - /url: /cyberspace/
+                - generic [ref=e97]:
+                  - generic [ref=e98]: Roles in
+                  - generic [ref=e99]: Cyberspace
+            - generic [ref=e100]:
+              - button "Previous slide" [ref=e102] [cursor=pointer]
+              - link "View all roles" [ref=e103] [cursor=pointer]:
+                - /url: /find-your-role/
+              - button "Next slide" [ref=e105] [cursor=pointer]
+      - generic [ref=e106]:
+        - heading "HAVE A QUESTIONS?" [level=2] [ref=e107]
+        - paragraph [ref=e109]: Live chat is with a human not a bot
+        - generic [ref=e110]:
+          - link "Live chat" [ref=e111] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact us" [ref=e112] [cursor=pointer]:
+            - /url: /contact/
+  - contentinfo [ref=e113]:
+    - contentinfo "RAF footer navigation" [ref=e114]:
+      - generic [ref=e115]:
+        - list [ref=e117]:
+          - listitem [ref=e118]:
+            - link "LIFE IN THE RAF" [ref=e119] [cursor=pointer]:
+              - /url: /life-in-the-raf
+          - listitem [ref=e120]:
+            - link "CAREERS & BENEFITS" [ref=e121] [cursor=pointer]:
+              - /url: /career-and-benefits
+          - listitem [ref=e122]:
+            - link "FIND YOUR ROLE" [ref=e123] [cursor=pointer]:
+              - /url: /find-your-role
+          - listitem [ref=e124]:
+            - link "APPLY NOW" [ref=e125] [cursor=pointer]:
+              - /url: /apply
+          - listitem [ref=e126]:
+            - link "RAF main websiteup-arrow icon indicating link opens in new window" [ref=e127] [cursor=pointer]:
+              - /url: https://www.raf.mod.uk?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fthe-mission
+              - text: RAF main website
+              - img "up-arrow icon indicating link opens in new window" [ref=e128]
+          - listitem [ref=e129]:
+            - link "Air Cadetsup-arrow icon indicating link opens in new window" [ref=e130] [cursor=pointer]:
+              - /url: https://www.raf.mod.uk/aircadets/?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fthe-mission
+              - text: Air Cadets
+              - img "up-arrow icon indicating link opens in new window" [ref=e131]
+          - listitem [ref=e132]:
+            - link "Events near you" [ref=e133] [cursor=pointer]:
+              - /url: /contact/events
+          - listitem [ref=e134]:
+            - link "Contact us" [ref=e135] [cursor=pointer]:
+              - /url: /contact
+        - list [ref=e137]:
+          - listitem [ref=e138]:
+            - link "Diversity & Inclusion" [ref=e139] [cursor=pointer]:
+              - /url: /diversity-and-inclusion
+          - listitem [ref=e140]:
+            - link "RAF Fitness" [ref=e141] [cursor=pointer]:
+              - /url: /fitness-in-the-raf
+          - listitem [ref=e142]:
+            - link "University Air Squadrons" [ref=e143] [cursor=pointer]:
+              - /url: /university-air-squadrons
+          - listitem [ref=e144]:
+            - link "Apprenticeships" [ref=e145] [cursor=pointer]:
+              - /url: /apprenticeships
+          - listitem [ref=e146]:
+            - link "Rejoiners & Transferees" [ref=e147] [cursor=pointer]:
+              - /url: /how-to-apply/rejoiners-and-inter-service-transfer
+          - listitem [ref=e148]:
+            - link "Reserves" [ref=e149] [cursor=pointer]:
+              - /url: /reserves
+          - listitem [ref=e150]:
+            - link "Sponsorship" [ref=e151] [cursor=pointer]:
+              - /url: /sponsorship
+        - list [ref=e153]:
+          - listitem [ref=e154]:
+            - link "Aircrew" [ref=e155] [cursor=pointer]:
+              - /url: /aircrew
+          - listitem [ref=e156]:
+            - link "Air & Space Ops" [ref=e157] [cursor=pointer]:
+              - /url: /air-space-operations
+          - listitem [ref=e158]:
+            - link "Cyberspace" [ref=e159] [cursor=pointer]:
+              - /url: /cyberspace
+          - listitem [ref=e160]:
+            - link "Engineering" [ref=e161] [cursor=pointer]:
+              - /url: /engineering
+          - listitem [ref=e162]:
+            - link "Ground Combat & Security" [ref=e163] [cursor=pointer]:
+              - /url: /ground-combat-security
+          - listitem [ref=e164]:
+            - link "Hospitality" [ref=e165] [cursor=pointer]:
+              - /url: /hospitality
+          - listitem [ref=e166]:
+            - link "Intelligence" [ref=e167] [cursor=pointer]:
+              - /url: /intelligence
+          - listitem [ref=e168]:
+            - link "Logistics" [ref=e169] [cursor=pointer]:
+              - /url: /logistics
+          - listitem [ref=e170]:
+            - link "Medical Services" [ref=e171] [cursor=pointer]:
+              - /url: /medical-services
+          - listitem [ref=e172]:
+            - link "People Ops" [ref=e173] [cursor=pointer]:
+              - /url: /people-operations
+        - generic [ref=e174]:
+          - img "Top 100 Apprenticeships 2024" [ref=e176]
+          - generic [ref=e177]:
+            - link "Visit RAF Recruitment on Facebook (opens in new tab)" [ref=e178] [cursor=pointer]:
+              - /url: https://www.facebook.com/RAFRecruitment
+              - img [ref=e179]
+            - link "Visit RAF Recruitment on Instagram (opens in new tab)" [ref=e180] [cursor=pointer]:
+              - /url: http://instagram.com/rafrecruitment
+              - img [ref=e181]
+            - link "Visit RAF Recruitment on YouTube (opens in new tab)" [ref=e182] [cursor=pointer]:
+              - /url: http://www.youtube.com/user/royalairforce
+              - img [ref=e183]
+      - generic [ref=e184]:
+        - list [ref=e185]:
+          - listitem [ref=e186]:
+            - link "Sitemap" [ref=e187] [cursor=pointer]:
+              - /url: /information/sitemap
+          - listitem [ref=e188]:
+            - link "Cookies & Privacy" [ref=e189] [cursor=pointer]:
+              - /url: /information/privacy-cookies
+          - listitem [ref=e190]:
+            - link "Accessibility" [ref=e191] [cursor=pointer]:
+              - /url: /information/accessibility
+        - generic [ref=e192]: © 2026 Royal Air Force — Regular & Reserve UK Crown copyright.
+  - link "View favourite roles" [ref=e194] [cursor=pointer]:
+    - /url: /roles-in-the-raf?favourites-at-top&gotofavourites
+    - text: Favourites
+  - generic [ref=e195] [cursor=pointer]:
+    - button "Open Preferences" [ref=e197]:
+      - img [ref=e198]
+    - text: Manage Preferences

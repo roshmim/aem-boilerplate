@@ -1,0 +1,283 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#raf-app"
+    - banner [ref=e4]:
+      - link "Royal Air Force - Regular & Reserve Go to home page" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Royal Air Force - Regular & Reserve" [ref=e7]
+        - generic [ref=e8]: Go to home page
+      - button "Open menu" [ref=e10] [cursor=pointer]
+  - main [ref=e12]:
+    - generic [ref=e14]:
+      - heading "APPRENTICESHIPS" [level=1] [ref=e16]:
+        - generic [ref=e18]: APPRENTICESHIPS
+      - generic [ref=e21]: Our award-winning apprenticeships mean you’ll gain a professional qualification as part of your challenging and unique career. The Royal Air Force offers a remarkable opportunity and was also rated as a Top 75 Employer for Social Mobility in 2023.
+      - generic [ref=e22]:
+        - heading "APPRENTICESHIP ROLES" [level=2] [ref=e23]:
+          - generic [ref=e24]: APPRENTICESHIP
+          - generic [ref=e25]: ROLES
+        - generic [ref=e26]:
+          - paragraph [ref=e27]: Not only will you gain a professional qualification that’s recognised in the civilian world, you’ll also have a guaranteed job in your chosen role once you’ve completed it.
+          - paragraph [ref=e28]
+          - paragraph [ref=e29]: You’ll receive the very best training and, whilst being paid to learn, you’ll get the chance to travel the world, play sport and perform an important role in the RAF as well as being able to access dedicated on-base medical and dental care.
+      - generic [ref=e32]:
+        - generic [ref=e34]:
+          - generic [ref=e36]:
+            - generic [ref=e37]:
+              - img "Apprentice RAF Air Technician Survival Equipment learning how to assemble and pack aircrew kit" [ref=e38]
+              - button "Play video" [ref=e39] [cursor=pointer]
+            - generic [ref=e40]: Gaining a level 3 extended diploma
+            - generic [ref=e41]: Hear how former apprentice Laura, an Aircraft Technician – Survival Equipment has learnt her trade on critical flight safety equipment and gained her diploma.
+          - generic [ref=e43]:
+            - generic [ref=e44]:
+              - img [ref=e45]
+              - button [ref=e46] [cursor=pointer]
+            - generic [ref=e47]: What makes a great RAF apprentice?
+            - generic [ref=e48]: Hear from former apprentices, Taff, Brad and Foxy about the skills and attitudes they think make a great RAF apprentice.
+          - generic [ref=e50]:
+            - generic [ref=e51]:
+              - img [ref=e52]
+              - button [ref=e53] [cursor=pointer]
+            - generic [ref=e54]: Top tips for new RAF apprentices
+            - generic [ref=e55]: Listen to all of the top tips from former apprentices, Taff, Brad and Foxy.
+          - generic [ref=e57]:
+            - button [ref=e59] [cursor=pointer]
+            - generic [ref=e60]: Earn, learn and get vital experience
+            - generic [ref=e61]: Hear from our RAF apprentices. Discover how they started their journey, what they do day-to-day and what they have learnt so far.
+        - generic [ref=e62]:
+          - button "Go to slide 1" [ref=e63] [cursor=pointer]
+          - button "Go to slide 2" [ref=e65] [cursor=pointer]
+          - button "Go to slide 3" [ref=e67] [cursor=pointer]
+          - button "Go to slide 4" [ref=e69] [cursor=pointer]
+      - generic [ref=e71]:
+        - generic [ref=e72]:
+          - heading "RAF Apprenticeships" [level=3] [ref=e73]
+          - paragraph [ref=e75]: We currently have 22 roles to choose from that come with RAF apprenticeships. They are available in a broad and diverse range of professions including aviation operations, engineering, hospitality & catering and IT.
+        - generic [ref=e76]:
+          - generic [ref=e77]: Qualifications you earn
+          - paragraph [ref=e79]: These range from a level 2 (equivalent to 5 GCSEs), a level 3 (equivalent to 2 ‘A’ levels) all the way through to a level 7, which is equivalent to a Masters degree.
+      - generic [ref=e80]:
+        - generic [ref=e81]:
+          - heading "How to apply" [level=3] [ref=e82]
+          - generic [ref=e83]:
+            - paragraph [ref=e84]: To gain an apprenticeship in the RAF you still need to meet all of the entry requirements for whichever role it is for and get through all stages of the application process.
+            - paragraph [ref=e85]
+            - paragraph [ref=e86]: You will gain the apprenticeship as part of your phase two training, in total the process of gaining your apprenticeship can last 1 year to 3 years of training.
+        - generic [ref=e87]:
+          - generic [ref=e88]: Join our Team
+          - generic [ref=e89]:
+            - paragraph [ref=e90]: More than 1,200 apprentices started a new apprenticeship with the Royal Air Force in the year before April 2024.
+            - paragraph [ref=e91]
+            - paragraph [ref=e92]: The Department for Education rated us 4th in the national Apprenticeship Employers Rankings 2024 due to our commitment to new apprenticeships, the diversity of our apprentices, and the number of apprentices who successfully achieve their apprenticeships.
+            - paragraph [ref=e93]
+            - paragraph [ref=e94]: That Top 5 ranking places us above Amazon, BAE Systems and Rolls-Royce as well as many other national employers.
+      - img "UK Apprenticeships Top 100 Employers ranked 4th logo" [ref=e97]
+      - generic [ref=e98]:
+        - heading "LIFE AS AN RAF APPRENTICE" [level=2] [ref=e100]:
+          - generic [ref=e101]: LIFE AS AN
+          - generic [ref=e102]: RAF APPRENTICE
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - heading "Shayne - Air Specialist (Class 1) Technician" [level=3] [ref=e105]
+            - generic [ref=e106]:
+              - paragraph [ref=e107]:
+                - emphasis [ref=e108]: "\"I began my apprenticeship with the RAF and completed a Level 3 NVQ in Aeronautical Engineering (Mechanical Component Overhaul). It was an advanced level apprenticeship in engineering. My experience as an apprentice was great. I got to complete it in the transmission bay of the Puma Depth Support Hub at RAF Benson. This meant I was able to work with advanced pieces of equipment, down to an in-depth level that few aircraft engineers get to see."
+              - paragraph [ref=e109]
+              - paragraph [ref=e110]:
+                - emphasis [ref=e111]: Early on in my career I was named as the RAF’s Apprentice of the Year while working as an Aircraft Technician. Later I achieved a bronze medal at the national final held at the National Exhibition Centre in Birmingham and spent two years training hard to become one of the best aircraft engineers in the UK. My hard work paid off when I was selected as the sole competitor to represent the UK in my trade at the WorldSkills competition.
+          - generic [ref=e113]:
+            - paragraph [ref=e114]:
+              - emphasis [ref=e115]: In Sao Paulo there were 60 countries competing in 50 different skills. In the aircraft engineering competition there were 15 countries competing. The competition involved 7 different tasks, each one testing all of the skills used by an aircraft engineer. This ranged from daily inspections on the servicing of an aircraft – to engine borescoping, which is checking the engine hot end using an optical device consisting of a rigid or flexible tube with an eyepiece.
+            - paragraph [ref=e116]
+            - paragraph [ref=e117]:
+              - emphasis [ref=e118]: I couldn’t have achieved what I have in the past year without the RAF. Getting to Brazil meant that I was able to compete in my trade at the highest level possible, while also raising the profile of what I do and demonstrating what my apprenticeship has taught me."
+      - generic [ref=e119]:
+        - heading "COULD THIS BE YOU?" [level=2] [ref=e121]:
+          - generic [ref=e122]: COULD THIS
+          - generic [ref=e123]: BE YOU?
+        - generic [ref=e124]: There are plenty of Apprenticeships to choose from in the RAF. The right one for you will depend on your passion and skills. Discover some of our featured roles below.
+        - region "Roles carousel" [ref=e125]:
+          - generic [ref=e126]:
+            - generic [ref=e130]:
+              - link "Aircraft Technician Mechanical" [ref=e131] [cursor=pointer]:
+                - /url: /roles/roles-finder/engineering/aircraft-technician-mechanical/
+              - generic [ref=e133]:
+                - generic [ref=e134]: Engineering
+                - generic [ref=e135]: Aircraft Technician Mechanical
+                - button "Add to favourites" [ref=e136] [cursor=pointer]
+                - generic [ref=e137]: Aircraft Building & fixing things Analysis & maths
+            - generic [ref=e138]:
+              - button "Previous slide" [ref=e140] [cursor=pointer]
+              - link "Apprenticeship Roles" [ref=e141] [cursor=pointer]:
+                - /url: /apprenticeship-roles/
+              - button "Next slide" [ref=e143] [cursor=pointer]
+      - generic [ref=e144]:
+        - heading "WHY JOIN THE RAF?" [level=2] [ref=e145]:
+          - generic [ref=e146]: WHY JOIN
+          - generic [ref=e147]: THE RAF?
+        - paragraph [ref=e149]: There are plenty of Apprenticeships to choose from in the RAF. The right one for you will depend on your passion and skills. Discover some of our featured roles below.
+        - generic [ref=e150]:
+          - generic [ref=e151]:
+            - img "Benefits icon for Rent from £75p/m" [ref=e153]
+            - generic [ref=e154]: Rent from £75p/m
+          - generic [ref=e155]:
+            - img "Benefits icon for Free gym" [ref=e157]
+            - generic [ref=e158]: Free gym
+          - generic [ref=e159]:
+            - img "Benefits icon for Subsidised food" [ref=e161]
+            - generic [ref=e162]: Subsidised food
+          - generic [ref=e163]:
+            - img "Benefits icon for Health care" [ref=e165]
+            - generic [ref=e166]: Health care
+          - generic [ref=e167]:
+            - img "Benefits icon for World travel" [ref=e169]
+            - generic [ref=e170]: World travel
+          - generic [ref=e171]:
+            - img "Benefits icon for Training" [ref=e173]
+            - generic [ref=e174]: Training
+        - link "View all benefits" [ref=e176] [cursor=pointer]:
+          - /url: /career-and-benefits/
+      - generic [ref=e177]:
+        - heading "APPRENTICESHIP FAQS" [level=2] [ref=e178]:
+          - generic [ref=e179]: APPRENTICESHIP
+          - generic [ref=e180]: FAQS
+        - region "Accordion Section" [ref=e182]:
+          - generic [ref=e183]:
+            - button "HOW DO I APPLY?" [expanded] [ref=e184] [cursor=pointer]:
+              - heading "HOW DO I APPLY?" [level=3] [ref=e185]
+            - paragraph [ref=e188]: You can apply through our website as you would for any role. You’ll then be invited to undergo aptitude tests, medical, fitness tests and an interview before being selected to join the RAF and begin your training. Your apprenticeship goes to form part of your secondary (role) training.
+          - button "WHAT MAKES ME ELIGIBLE FOR AN APPRENTICESHIP?" [ref=e190] [cursor=pointer]:
+            - heading "WHAT MAKES ME ELIGIBLE FOR AN APPRENTICESHIP?" [level=3] [ref=e191]
+          - button "WHAT QUALIFICATIONS DO I NEED?" [ref=e193] [cursor=pointer]:
+            - heading "WHAT QUALIFICATIONS DO I NEED?" [level=3] [ref=e194]
+          - button "WHAT WILL I EARN?" [ref=e196] [cursor=pointer]:
+            - heading "WHAT WILL I EARN?" [level=3] [ref=e197]
+          - button "ARE RAF PART OF THE NATIONAL APPRENTICESHIP SCHEME (NAS)?" [ref=e199] [cursor=pointer]:
+            - heading "ARE RAF PART OF THE NATIONAL APPRENTICESHIP SCHEME (NAS)?" [level=3] [ref=e200]
+          - button "WHAT ARE THE ADVANTAGES OF AN APPRENTICESHIP?" [ref=e202] [cursor=pointer]:
+            - heading "WHAT ARE THE ADVANTAGES OF AN APPRENTICESHIP?" [level=3] [ref=e203]
+      - generic [ref=e204]:
+        - heading "HAVE A QUESTION?" [level=2] [ref=e205]
+        - paragraph [ref=e207]: Live chat is with a human not a bot
+        - generic [ref=e208]:
+          - link "Live chat" [ref=e209] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact us" [ref=e210] [cursor=pointer]:
+            - /url: /contact/
+  - contentinfo [ref=e211]:
+    - contentinfo "RAF footer navigation" [ref=e212]:
+      - generic [ref=e213]:
+        - generic [ref=e214]:
+          - list [ref=e215]:
+            - listitem [ref=e216]:
+              - link "LIFE IN THE RAF" [ref=e217] [cursor=pointer]:
+                - /url: /life-in-the-raf
+            - listitem [ref=e218]:
+              - link "CAREERS & BENEFITS" [ref=e219] [cursor=pointer]:
+                - /url: /career-and-benefits
+            - listitem [ref=e220]:
+              - link "FIND YOUR ROLE" [ref=e221] [cursor=pointer]:
+                - /url: /find-your-role
+            - listitem [ref=e222]:
+              - link "APPLY NOW" [ref=e223] [cursor=pointer]:
+                - /url: /apply
+          - list [ref=e224]:
+            - listitem [ref=e225]:
+              - link "Diversity & Inclusion" [ref=e226] [cursor=pointer]:
+                - /url: /diversity-and-inclusion
+            - listitem [ref=e227]:
+              - link "RAF Fitness" [ref=e228] [cursor=pointer]:
+                - /url: /fitness-in-the-raf
+            - listitem [ref=e229]:
+              - link "University Air Squadrons" [ref=e230] [cursor=pointer]:
+                - /url: /university-air-squadrons
+            - listitem [ref=e231]:
+              - link "RAF main websiteopens in new tab" [ref=e232] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fapprenticeships
+                - text: RAF main website
+                - img "opens in new tab" [ref=e233]
+            - listitem [ref=e234]:
+              - link "Air Cadetsopens in new tab" [ref=e235] [cursor=pointer]:
+                - /url: https://www.raf.mod.uk/aircadets/?utm_medium=referral&utm_source=raf_recruitment&utm_content=%2Fapprenticeships
+                - text: Air Cadets
+                - img "opens in new tab" [ref=e236]
+            - listitem [ref=e237]:
+              - link "Events near you" [ref=e238] [cursor=pointer]:
+                - /url: /contact/events
+            - listitem [ref=e239]:
+              - link "Contact us" [ref=e240] [cursor=pointer]:
+                - /url: /contact
+        - list [ref=e242]:
+          - listitem [ref=e243]:
+            - link "Apprenticeships" [ref=e244] [cursor=pointer]:
+              - /url: /apprenticeships
+          - listitem [ref=e245]:
+            - link "Rejoiners & Transferees" [ref=e246] [cursor=pointer]:
+              - /url: /how-to-apply/rejoiners-and-inter-service-transfer
+          - listitem [ref=e247]:
+            - link "Reserves" [ref=e248] [cursor=pointer]:
+              - /url: /reserves
+          - listitem [ref=e249]:
+            - link "Sponsorship" [ref=e250] [cursor=pointer]:
+              - /url: /sponsorship
+          - listitem [ref=e251]:
+            - link "Aircrew" [ref=e252] [cursor=pointer]:
+              - /url: /aircrew
+          - listitem [ref=e253]:
+            - link "Air & Space Ops" [ref=e254] [cursor=pointer]:
+              - /url: /air-space-operations
+          - listitem [ref=e255]:
+            - link "Cyberspace" [ref=e256] [cursor=pointer]:
+              - /url: /cyberspace
+          - listitem [ref=e257]:
+            - link "Engineering" [ref=e258] [cursor=pointer]:
+              - /url: /engineering
+          - listitem [ref=e259]:
+            - link "Ground Combat & Security" [ref=e260] [cursor=pointer]:
+              - /url: /ground-combat-security
+          - listitem [ref=e261]:
+            - link "Hospitality" [ref=e262] [cursor=pointer]:
+              - /url: /hospitality
+          - listitem [ref=e263]:
+            - link "Intelligence" [ref=e264] [cursor=pointer]:
+              - /url: /intelligence
+          - listitem [ref=e265]:
+            - link "Logistics" [ref=e266] [cursor=pointer]:
+              - /url: /logistics
+          - listitem [ref=e267]:
+            - link "Medical Services" [ref=e268] [cursor=pointer]:
+              - /url: /medical-services
+          - listitem [ref=e269]:
+            - link "People Ops" [ref=e270] [cursor=pointer]:
+              - /url: /people-operations
+        - generic [ref=e271]:
+          - img "Top 100 Apprenticeships 2024" [ref=e273]
+          - generic [ref=e274]:
+            - link "Visit RAF Recruitment on Facebook (opens in new tab)" [ref=e275] [cursor=pointer]:
+              - /url: https://www.facebook.com/RAFRecruitment
+              - img [ref=e276]
+            - link "Visit RAF Recruitment on Instagram (opens in new tab)" [ref=e277] [cursor=pointer]:
+              - /url: http://instagram.com/rafrecruitment
+              - img [ref=e278]
+            - link "Visit RAF Recruitment on YouTube (opens in new tab)" [ref=e279] [cursor=pointer]:
+              - /url: http://www.youtube.com/user/royalairforce
+              - img [ref=e280]
+      - generic [ref=e281]:
+        - list [ref=e282]:
+          - listitem [ref=e283]:
+            - link "Sitemap" [ref=e284] [cursor=pointer]:
+              - /url: /information/sitemap
+          - listitem [ref=e285]:
+            - link "Cookies & Privacy" [ref=e286] [cursor=pointer]:
+              - /url: /information/privacy-cookies
+          - listitem [ref=e287]:
+            - link "Accessibility" [ref=e288] [cursor=pointer]:
+              - /url: /information/accessibility
+        - generic [ref=e289]: © 2026 Royal Air Force — Regular & Reserve UK Crown copyright.
+  - link "View favourite roles" [ref=e291] [cursor=pointer]:
+    - /url: /roles-in-the-raf?favourites-at-top&gotofavourites
+  - generic [ref=e292] [cursor=pointer]:
+    - button "Open Preferences" [ref=e294]:
+      - img [ref=e295]
+    - text: Manage Preferences
