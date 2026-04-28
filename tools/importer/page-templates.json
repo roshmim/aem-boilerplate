@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "projectType": "da"
+  },
+  "templates": [
+    {
+      "name": "homepage",
+      "urls": [
+        "https://www.queensland.com/in/en/home"
+      ],
+      "description": "Queensland tourism homepage with hero video/image slider, destination carousels, editorial sections, events, and newsletter signup",
+      "blocks": [
+        {
+          "name": "carousel-hero",
+          "instances": [
+            "#hero-banner-slider"
+          ]
+        },
+        {
+          "name": "cards-destination",
+          "instances": [
+            "section.sc-fRfEKy",
+            "section.sc-flkahu",
+            "#region-map-carousel-container",
+            "#masonry-grid-category-wrapper",
+            "#masonry-grid-article-wrapper"
+          ]
+        },
+        {
+          "name": "columns-cta",
+          "instances": [
+            "#image-cta_757096332"
+          ]
+        },
+        {
+          "name": "hero-newsletter",
+          "instances": [
+            "section.sc-abVJb"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1",
+          "name": "Hero Banner Slider",
+          "selector": "#hero-banner-slider",
+          "style": null,
+          "blocks": [
+            "carousel-hero"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-2",
+          "name": "Discover Queenslands Icons",
+          "selector": [
+            "[id='editorial-description-wrapper']:nth-of-type(1)"
+          ],
+          "style": null,
+          "blocks": [],
+          "defaultContent": [
+            "h2",
+            "p"
+          ]
+        },
+        {
+          "id": "section-3",
+          "name": "Explore Our Destinations",
+          "selector": "section#---wrapper",
+          "style": null,
+          "blocks": [
+            "cards-destination"
+          ],
+          "defaultContent": [
+            "h2"
+          ]
+        },
+        {
+          "id": "section-4",
+          "name": "Whats On in Queensland",
+          "selector": "section.sc-flkahu",
+          "style": null,
+          "blocks": [
+            "cards-destination"
+          ],
+          "defaultContent": [
+            "h2"
+          ]
+        },
+        {
+          "id": "section-5",
+          "name": "Roadtrips Popular Now",
+          "selector": "section#--wrapper:nth-of-type(1)",
+          "style": null,
+          "blocks": [
+            "cards-destination"
+          ],
+          "defaultContent": [
+            "h2"
+          ]
+        },
+        {
+          "id": "section-6",
+          "name": "That Holiday Feeling CTA",
+          "selector": "#image-cta_757096332",
+          "style": null,
+          "blocks": [
+            "columns-cta"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-7",
+          "name": "Let Us Show You Around",
+          "selector": "#region-map-carousel-container",
+          "style": null,
+          "blocks": [
+            "cards-destination"
+          ],
+          "defaultContent": [
+            "h2"
+          ]
+        },
+        {
+          "id": "section-8",
+          "name": "What Holiday Feeling Are You",
+          "selector": "#masonry-grid-category-wrapper",
+          "style": null,
+          "blocks": [
+            "cards-destination"
+          ],
+          "defaultContent": [
+            "h2"
+          ]
+        },
+        {
+          "id": "section-9",
+          "name": "Be Our Plus One Events",
+          "selector": "section#--wrapper:nth-of-type(2)",
+          "style": null,
+          "blocks": [
+            "cards-destination"
+          ],
+          "defaultContent": [
+            "h2"
+          ]
+        },
+        {
+          "id": "section-10",
+          "name": "Unlock More Queensland Magic",
+          "selector": "#masonry-grid-article-wrapper",
+          "style": null,
+          "blocks": [
+            "cards-destination"
+          ],
+          "defaultContent": [
+            "h2"
+          ]
+        },
+        {
+          "id": "section-11",
+          "name": "Newsletter Signup",
+          "selector": "section#-",
+          "style": "teal",
+          "blocks": [
+            "hero-newsletter"
+          ],
+          "defaultContent": []
+        }
+      ]
+    }
+  ]
+}

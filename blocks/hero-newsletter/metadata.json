@@ -1,0 +1,31 @@
+{
+  "variantName": "hero-newsletter",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-04-28T10:42:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.queensland.com/in/en/home",
+    "originPage": "Queensland tourism homepage",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "compact",
+    "purpose": "newsletter-signup",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + heading + paragraph + CTA link",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": ["newsletter signup banners", "email subscription CTAs", "bottom-of-page promotional banners"],
+    "notSuitableFor": ["page hero banners", "multi-slide carousels", "content-heavy sections"]
+  },
+  "usage": {
+    "pagesUsing": ["/in/en/home"],
+    "reuseCount": 1,
+    "lastUsed": "2026-04-28T10:42:00.000Z"
+  }
+}
