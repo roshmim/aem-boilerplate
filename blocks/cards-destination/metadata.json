@@ -1,0 +1,31 @@
+{
+  "variantName": "cards-destination",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-04-28T10:42:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.queensland.com/in/en/home",
+    "originPage": "Queensland tourism homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "destination-cards",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + heading + description",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": ["destination listings", "category grids", "article cards", "event listings", "experience cards"],
+    "notSuitableFor": ["text-only lists", "single featured items", "pricing tables"]
+  },
+  "usage": {
+    "pagesUsing": ["/in/en/home"],
+    "reuseCount": 1,
+    "lastUsed": "2026-04-28T10:42:00.000Z"
+  }
+}
